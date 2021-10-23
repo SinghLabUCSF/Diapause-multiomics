@@ -1,0 +1,9 @@
+"","GOID","Term","Pvalue.RNA","Pvalue.ATAC","Ontology","lipid.related"
+"positive regulation of fatty acid beta-oxidation","GO:0032000","positive regulation of fatty acid beta-oxidation",0.00902321032508609,0.0435041915228788,"BP",TRUE
+"response to lipid","GO:0033993","response to lipid",0.000384167195591368,0.00716643656599378,"BP",TRUE
+"regulation of fat cell differentiation","GO:0045598","regulation of fat cell differentiation",0.00115428860964191,8.0370647240269e-05,"BP",TRUE
+"positive regulation of fat cell differentiation","GO:0045600","positive regulation of fat cell differentiation",0.0299316211920769,7.32284862351341e-05,"BP",TRUE
+"positive regulation of fatty acid oxidation","GO:0046321","positive regulation of fatty acid oxidation",0.022896701386502,0.0187342139822502,"BP",TRUE
+"inositol lipid-mediated signaling","GO:0048017","inositol lipid-mediated signaling",0.001437240646714,1.3696438458461e-05,"BP",TRUE
+"brown fat cell differentiation","GO:0050873","brown fat cell differentiation",0.00522029796092808,0.0171006511709401,"BP",TRUE
+"cellular response to lipid","GO:0071396","cellular response to lipid",0.00166476911431408,0.000378470835365521,"BP",TRUE

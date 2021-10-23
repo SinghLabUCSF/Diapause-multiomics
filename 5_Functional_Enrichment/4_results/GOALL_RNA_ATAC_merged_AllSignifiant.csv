@@ -1,0 +1,1281 @@
+"","GOID","Term","Pvalue.RNA","Pvalue.ATAC","Ontology","lipid.related"
+"reproduction","GO:0000003","reproduction",1.02630909715213e-06,0.016762559747282,"BP",FALSE
+"negative regulation of transcription by RNA polymerase II","GO:0000122","negative regulation of transcription by RNA polymerase II",5.75584197300957e-11,2.16536476802297e-23,"BP",FALSE
+"MAPK cascade","GO:0000165","MAPK cascade",0.000821590594363308,0.0036616969579361,"BP",FALSE
+"nuclear chromosome","GO:0000228","nuclear chromosome",1.95784074132298e-05,2.34423931219926e-13,"CC",FALSE
+"polysaccharide biosynthetic process","GO:0000271","polysaccharide biosynthetic process",0.0490384921688653,0.0103214872110544,"BP",FALSE
+"chromatin","GO:0000785","chromatin",1.69518282383846e-09,4.36412130233848e-15,"CC",FALSE
+"nuclear chromatin","GO:0000790","nuclear chromatin",3.85841403317623e-14,6.16298390469055e-18,"CC",FALSE
+"cell morphogenesis","GO:0000902","cell morphogenesis",2.10904838764376e-20,6.56857471506278e-22,"BP",FALSE
+"cell morphogenesis involved in differentiation","GO:0000904","cell morphogenesis involved in differentiation",8.27744116516992e-17,2.98105201162849e-23,"BP",FALSE
+"transcription regulatory region sequence-specific DNA binding","GO:0000976","transcription regulatory region sequence-specific DNA binding",4.35569999326952e-09,4.18350785912492e-22,"MF",FALSE
+"RNA polymerase II transcription regulatory region sequence-specific DNA binding","GO:0000977","RNA polymerase II transcription regulatory region sequence-specific DNA binding",4.9058928363635e-10,1.32895152160132e-19,"MF",FALSE
+"RNA polymerase II cis-regulatory region sequence-specific DNA binding","GO:0000978","RNA polymerase II cis-regulatory region sequence-specific DNA binding",8.60548504562946e-13,6.28374190219003e-15,"MF",FALSE
+"DNA-binding transcription factor activity, RNA polymerase II-specific","GO:0000981","DNA-binding transcription factor activity, RNA polymerase II-specific",1.90521428705087e-18,2.62901289489247e-27,"MF",FALSE
+"cis-regulatory region sequence-specific DNA binding","GO:0000987","cis-regulatory region sequence-specific DNA binding",1.65731097407492e-13,2.37282339478442e-16,"MF",FALSE
+"regulatory region nucleic acid binding","GO:0001067","regulatory region nucleic acid binding",4.24154963983674e-09,5.58223250597114e-22,"MF",FALSE
+"RNA polymerase II transcription factor binding","GO:0001085","RNA polymerase II transcription factor binding",0.0221704955548796,4.48296903246378e-07,"MF",FALSE
+"response to acid chemical","GO:0001101","response to acid chemical",2.19089137742416e-06,0.0176059210084878,"BP",FALSE
+"RNA polymerase II activating transcription factor binding","GO:0001102","RNA polymerase II activating transcription factor binding",0.0191548547444089,0.0335230788790991,"MF",FALSE
+"DNA-binding transcription activator activity","GO:0001216","DNA-binding transcription activator activity",3.11145787151066e-13,1.26480066843637e-14,"MF",FALSE
+"DNA-binding transcription repressor activity","GO:0001217","DNA-binding transcription repressor activity",0.00051406441798183,1.19248151517336e-08,"MF",FALSE
+"transcription cofactor binding","GO:0001221","transcription cofactor binding",0.00489419012210727,0.000261810807986924,"MF",FALSE
+"DNA-binding transcription repressor activity, RNA polymerase II-specific","GO:0001227","DNA-binding transcription repressor activity, RNA polymerase II-specific",0.000427663496764331,1.00820143087327e-08,"MF",FALSE
+"DNA-binding transcription activator activity, RNA polymerase II-specific","GO:0001228","DNA-binding transcription activator activity, RNA polymerase II-specific",2.33043268733635e-13,7.6503382105372e-15,"MF",FALSE
+"skeletal system development","GO:0001501","skeletal system development",6.2187896414181e-09,9.12501806027583e-11,"BP",FALSE
+"cartilage condensation","GO:0001502","cartilage condensation",0.0024488662152279,0.0105589450527543,"BP",FALSE
+"ossification","GO:0001503","ossification",0.00192863266789552,0.023293750533912,"BP",FALSE
+"angiogenesis","GO:0001525","angiogenesis",2.30917519513543e-16,6.83189087247419e-07,"BP",FALSE
+"amyloid-beta binding","GO:0001540","amyloid-beta binding",0.00166230970792849,0.00286768812319432,"MF",FALSE
+"regulation of cell growth","GO:0001558","regulation of cell growth",0.0025579054802315,0.017686439080731,"BP",FALSE
+"blood vessel development","GO:0001568","blood vessel development",1.02245257750366e-20,4.27365761940039e-09,"BP",FALSE
+"branching involved in blood vessel morphogenesis","GO:0001569","branching involved in blood vessel morphogenesis",0.0102609128768751,0.039859079825082,"BP",FALSE
+"vasculogenesis","GO:0001570","vasculogenesis",0.00846231086606781,2.23702133172282e-07,"BP",FALSE
+"osteoblast differentiation","GO:0001649","osteoblast differentiation",0.00239446916937703,0.000856917531508391,"BP",FALSE
+"eye development","GO:0001654","eye development",9.38971685383567e-07,3.07967143935243e-09,"BP",FALSE
+"urogenital system development","GO:0001655","urogenital system development",6.08968258527896e-06,8.11381864401341e-12,"BP",FALSE
+"metanephros development","GO:0001656","metanephros development",0.000357752432612149,0.000153120490094949,"BP",FALSE
+"ureteric bud development","GO:0001657","ureteric bud development",7.58381750584764e-05,3.19146164811986e-11,"BP",FALSE
+"branching involved in ureteric bud morphogenesis","GO:0001658","branching involved in ureteric bud morphogenesis",0.000999105756367507,0.000400645971137252,"BP",FALSE
+"ameboidal-type cell migration","GO:0001667","ameboidal-type cell migration",2.58202016087252e-09,1.74102707086188e-14,"BP",FALSE
+"in utero embryonic development","GO:0001701","in utero embryonic development",7.81124887711779e-05,0.000134100476599391,"BP",FALSE
+"formation of primary germ layer","GO:0001704","formation of primary germ layer",0.000394692415557953,0.000173382408608866,"BP",FALSE
+"endoderm formation","GO:0001706","endoderm formation",0.0406060266656132,0.00905515878368226,"BP",FALSE
+"mesoderm formation","GO:0001707","mesoderm formation",0.000951515636855225,0.000123943597389377,"BP",FALSE
+"cell fate specification","GO:0001708","cell fate specification",3.69538852901679e-05,1.81380718250158e-06,"BP",FALSE
+"cell fate determination","GO:0001709","cell fate determination",0.0125442649875734,5.62753734886523e-06,"BP",FALSE
+"mesodermal cell fate commitment","GO:0001710","mesodermal cell fate commitment",0.00378336851096085,0.0494234509922114,"BP",FALSE
+"stress fiber","GO:0001725","stress fiber",0.000281394911480826,9.43770320031725e-05,"CC",FALSE
+"neuron migration","GO:0001764","neuron migration",4.5008677767574e-07,5.13321029147636e-08,"BP",FALSE
+"kidney development","GO:0001822","kidney development",1.56467501174365e-05,6.94866235666699e-12,"BP",FALSE
+"mesonephros development","GO:0001823","mesonephros development",0.000138333724317764,2.24095068328323e-11,"BP",FALSE
+"epithelial to mesenchymal transition","GO:0001837","epithelial to mesenchymal transition",0.00255177191156959,6.75733913629489e-09,"BP",FALSE
+"embryonic epithelial tube formation","GO:0001838","embryonic epithelial tube formation",0.00411240607178252,3.2622705610999e-06,"BP",FALSE
+"neural tube formation","GO:0001841","neural tube formation",0.0245702943120813,1.23912191669124e-06,"BP",FALSE
+"neural tube closure","GO:0001843","neural tube closure",0.0398497274545577,0.000235821283503437,"BP",FALSE
+"endothelial cell development","GO:0001885","endothelial cell development",0.000138269921596597,0.0082324322919526,"BP",FALSE
+"liver development","GO:0001889","liver development",0.0313553089732422,0.0395381316759083,"BP",FALSE
+"placenta development","GO:0001890","placenta development",3.33203700249253e-05,3.0860339888596e-05,"BP",FALSE
+"embryonic placenta development","GO:0001892","embryonic placenta development",0.000143583889565364,2.81470902424125e-05,"BP",FALSE
+"maternal placenta development","GO:0001893","maternal placenta development",0.0200307931777867,0.0327495068121084,"BP",FALSE
+"regulation of protein phosphorylation","GO:0001932","regulation of protein phosphorylation",6.79588125073897e-09,0.000127299243013442,"BP",FALSE
+"negative regulation of protein phosphorylation","GO:0001933","negative regulation of protein phosphorylation",0.000614850850270348,3.04866102100737e-06,"BP",FALSE
+"positive regulation of protein phosphorylation","GO:0001934","positive regulation of protein phosphorylation",1.37125482117934e-09,0.0345077200399075,"BP",FALSE
+"endothelial cell proliferation","GO:0001935","endothelial cell proliferation",6.12925255010069e-05,0.00291531769332555,"BP",FALSE
+"regulation of endothelial cell proliferation","GO:0001936","regulation of endothelial cell proliferation",3.94421008148964e-05,0.0197371421231788,"BP",FALSE
+"vasculature development","GO:0001944","vasculature development",1.36564219708457e-19,1.90881458402145e-10,"BP",FALSE
+"regulation of cell-matrix adhesion","GO:0001952","regulation of cell-matrix adhesion",9.00659740134321e-08,0.00018523884930186,"BP",FALSE
+"response to amphetamine","GO:0001975","response to amphetamine",0.000642684264894057,0.0257466540290548,"BP",FALSE
+"morphogenesis of an epithelium","GO:0002009","morphogenesis of an epithelium",0.00354195830151859,4.24895801067762e-11,"BP",FALSE
+"morphogenesis of an epithelial sheet","GO:0002011","morphogenesis of an epithelial sheet",0.0019926126117931,1.40853812384425e-05,"BP",FALSE
+"sprouting angiogenesis","GO:0002040","sprouting angiogenesis",0.016119851870931,0.00907310026916932,"BP",FALSE
+"cell migration involved in sprouting angiogenesis","GO:0002042","cell migration involved in sprouting angiogenesis",0.0178123359231436,0.00385292862182518,"BP",FALSE
+"positive regulation of mesenchymal cell proliferation","GO:0002053","positive regulation of mesenchymal cell proliferation",0.00260214256241936,0.0065075263522257,"BP",FALSE
+"chondrocyte differentiation","GO:0002062","chondrocyte differentiation",1.1203489118102e-05,7.564742884634e-05,"BP",FALSE
+"epithelial cell development","GO:0002064","epithelial cell development",2.77816110919396e-05,1.39006488375873e-09,"BP",FALSE
+"columnar/cuboidal epithelial cell differentiation","GO:0002065","columnar/cuboidal epithelial cell differentiation",0.000494870010064431,1.36221668903237e-07,"BP",FALSE
+"columnar/cuboidal epithelial cell development","GO:0002066","columnar/cuboidal epithelial cell development",0.0200823265290662,0.000560335406321967,"BP",FALSE
+"glandular epithelial cell differentiation","GO:0002067","glandular epithelial cell differentiation",0.0178123359231436,1.08387346096687e-05,"BP",FALSE
+"glandular epithelial cell development","GO:0002068","glandular epithelial cell development",0.0460071844893779,0.0172491686025811,"BP",FALSE
+"semaphorin receptor complex","GO:0002116","semaphorin receptor complex",0.0200223525613198,0.002314629823656,"CC",FALSE
+"myeloid cell homeostasis","GO:0002262","myeloid cell homeostasis",0.00130304879511169,0.0496671211587564,"BP",FALSE
+"immune system development","GO:0002520","immune system development",5.99594728460863e-06,0.0166602128872799,"BP",FALSE
+"leukocyte differentiation","GO:0002521","leukocyte differentiation",1.59678869299944e-07,0.0495198982435618,"BP",FALSE
+"regulation of myeloid leukocyte differentiation","GO:0002761","regulation of myeloid leukocyte differentiation",0.00160549393416105,0.0256517985978979,"BP",FALSE
+"negative regulation of peptide secretion","GO:0002792","negative regulation of peptide secretion",0.00533846773359696,0.0415071102880844,"BP",FALSE
+"regionalization","GO:0003002","regionalization",0.00015707640605682,4.31565903885837e-19,"BP",FALSE
+"developmental process involved in reproduction","GO:0003006","developmental process involved in reproduction",1.47512625104668e-06,0.000207500722664656,"BP",FALSE
+"heart morphogenesis","GO:0003007","heart morphogenesis",5.52935177060645e-08,1.73430253017045e-07,"BP",FALSE
+"outflow tract septum morphogenesis","GO:0003148","outflow tract septum morphogenesis",0.00695513364343971,9.39591082931115e-05,"BP",FALSE
+"outflow tract morphogenesis","GO:0003151","outflow tract morphogenesis",0.00451579641820056,0.00015722749022808,"BP",FALSE
+"regulation of animal organ formation","GO:0003156","regulation of animal organ formation",0.0242120077501594,0.000838713817133427,"BP",FALSE
+"endothelium development","GO:0003158","endothelium development",8.62918090251541e-08,0.000689034678668445,"BP",FALSE
+"morphogenesis of an endothelium","GO:0003159","morphogenesis of an endothelium",0.000608755436744176,0.0195182944441232,"BP",FALSE
+"heart valve development","GO:0003170","heart valve development",5.16470792566638e-05,2.69340360189212e-05,"BP",FALSE
+"atrioventricular valve development","GO:0003171","atrioventricular valve development",0.000489252045386232,0.0186085008284639,"BP",FALSE
+"aortic valve development","GO:0003176","aortic valve development",0.00713845955478353,0.000312418183901033,"BP",FALSE
+"heart valve morphogenesis","GO:0003179","heart valve morphogenesis",5.93096780337066e-05,1.72801290744342e-05,"BP",FALSE
+"aortic valve morphogenesis","GO:0003180","aortic valve morphogenesis",0.00450149369277734,0.000117344877811275,"BP",FALSE
+"atrioventricular valve morphogenesis","GO:0003181","atrioventricular valve morphogenesis",0.000195093995298136,0.0202073777478075,"BP",FALSE
+"endocardial cushion development","GO:0003197","endocardial cushion development",0.000319289949866822,0.00127569239754826,"BP",FALSE
+"endocardial cushion morphogenesis","GO:0003203","endocardial cushion morphogenesis",0.000792178183146956,0.0031526521275636,"BP",FALSE
+"cardiac chamber development","GO:0003205","cardiac chamber development",3.8646708955672e-06,1.55929968547252e-07,"BP",FALSE
+"cardiac chamber morphogenesis","GO:0003206","cardiac chamber morphogenesis",4.60839220963941e-07,2.33067423996257e-06,"BP",FALSE
+"cardiac ventricle morphogenesis","GO:0003208","cardiac ventricle morphogenesis",0.00124257515817778,0.00779184205100641,"BP",FALSE
+"cardiac atrium development","GO:0003230","cardiac atrium development",0.00350753812713226,0.0346476445065682,"BP",FALSE
+"cardiac ventricle development","GO:0003231","cardiac ventricle development",0.000696313798341352,1.90434890646284e-06,"BP",FALSE
+"endocardial cushion formation","GO:0003272","endocardial cushion formation",0.00329544688129549,0.0132090208081886,"BP",FALSE
+"cardiac septum development","GO:0003279","cardiac septum development",6.9865871097174e-05,2.02114178241242e-08,"BP",FALSE
+"ventricular septum development","GO:0003281","ventricular septum development",0.00167787747420569,6.31149009018379e-06,"BP",FALSE
+"muscle hypertrophy in response to stress","GO:0003299","muscle hypertrophy in response to stress",0.0292956314917163,0.0392862154466422,"BP",FALSE
+"cardiac muscle hypertrophy","GO:0003300","cardiac muscle hypertrophy",0.00119987684425338,0.040018592933607,"BP",FALSE
+"metanephros morphogenesis","GO:0003338","metanephros morphogenesis",0.0460071844893779,0.0346476445065682,"BP",FALSE
+"epithelial cell morphogenesis","GO:0003382","epithelial cell morphogenesis",0.00725286031840515,0.00548235598265038,"BP",FALSE
+"chromatin binding","GO:0003682","chromatin binding",0.00462235039305159,7.67623435808297e-10,"MF",FALSE
+"double-stranded DNA binding","GO:0003690","double-stranded DNA binding",8.62538138186047e-06,1.65232387495162e-18,"MF",FALSE
+"DNA-binding transcription factor activity","GO:0003700","DNA-binding transcription factor activity",7.39091649481224e-11,6.79420548409543e-24,"MF",FALSE
+"steroid hormone receptor activity","GO:0003707","steroid hormone receptor activity",8.93794921993552e-07,7.70775026754408e-06,"MF",FALSE
+"transcription coregulator activity","GO:0003712","transcription coregulator activity",0.0154709225594129,7.64033499399385e-13,"MF",FALSE
+"transcription corepressor activity","GO:0003714","transcription corepressor activity",0.00981651321601815,5.91965183193045e-10,"MF",FALSE
+"mRNA 3-UTR binding","GO:0003730","mRNA 3-UTR binding",0.0102687323544709,0.0349106354473226,"MF",FALSE
+"actin binding","GO:0003779","actin binding",4.01919324809487e-16,0.0334877727859924,"MF",FALSE
+"beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase activity","GO:0003831","beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase activity",0.0237930954590889,0.0414142729154032,"MF",FALSE
+"N-acetyllactosamine synthase activity","GO:0003945","N-acetyllactosamine synthase activity",0.00955647635419118,0.0280608223218089,"MF",FALSE
+"cyclic-nucleotide phosphodiesterase activity","GO:0004112","cyclic-nucleotide phosphodiesterase activity",0.028265755665939,0.00133825528452889,"MF",FALSE
+"3,5-cyclic-nucleotide phosphodiesterase activity","GO:0004114","3,5-cyclic-nucleotide phosphodiesterase activity",0.0192166773920385,0.000977734190609861,"MF",FALSE
+"protein kinase activity","GO:0004672","protein kinase activity",1.83750008850506e-08,0.00227072642627773,"MF",FALSE
+"phosphoprotein phosphatase activity","GO:0004721","phosphoprotein phosphatase activity",2.15819058792132e-05,0.00715961471735058,"MF",FALSE
+"protein tyrosine phosphatase activity","GO:0004725","protein tyrosine phosphatase activity",0.000246504164038365,0.0123056799102678,"MF",FALSE
+"nuclear receptor activity","GO:0004879","nuclear receptor activity",3.43087456608548e-08,1.15287919796851e-05,"MF",FALSE
+"ionotropic glutamate receptor activity","GO:0004970","ionotropic glutamate receptor activity",0.0020116835513256,0.0110567874862019,"MF",FALSE
+"transmembrane receptor protein tyrosine phosphatase activity","GO:0005001","transmembrane receptor protein tyrosine phosphatase activity",0.0111792579392591,0.0114017359484732,"MF",FALSE
+"protein kinase C binding","GO:0005080","protein kinase C binding",0.0392102428951629,0.000335641364042818,"MF",FALSE
+"guanyl-nucleotide exchange factor activity","GO:0005085","guanyl-nucleotide exchange factor activity",1.39638375682003e-05,0.0144531056751853,"MF",FALSE
+"Ras guanyl-nucleotide exchange factor activity","GO:0005088","Ras guanyl-nucleotide exchange factor activity",1.58176011450559e-05,0.044392305681185,"MF",FALSE
+"GTPase activator activity","GO:0005096","GTPase activator activity",1.0768944815402e-05,0.0208368160929403,"MF",FALSE
+"signaling receptor binding","GO:0005102","signaling receptor binding",8.87987490898301e-13,0.00574370927659602,"MF",FALSE
+"insulin receptor binding","GO:0005158","insulin receptor binding",0.00826990134685075,0.00871951072240643,"MF",FALSE
+"binding","GO:0005488","binding",0.000149164883544696,1.71732989576178e-05,"MF",FALSE
+"protein binding","GO:0005515","protein binding",1.97450572098946e-08,1.00789713643149e-07,"MF",FALSE
+"glycosaminoglycan binding","GO:0005539","glycosaminoglycan binding",0.0145043643104827,0.00968596259498002,"MF",FALSE
+"basement membrane","GO:0005604","basement membrane",0.000452129849668811,0.0197818822846577,"CC",FALSE
+"transcription regulator complex","GO:0005667","transcription regulator complex",2.13047014488509e-05,4.18750040818286e-08,"CC",FALSE
+"intermediate filament","GO:0005882","intermediate filament",0.0326322244115755,0.0238819199050604,"CC",FALSE
+"caveola","GO:0005901","caveola",0.005705410101651,0.00112133081666585,"CC",FALSE
+"cell-cell junction","GO:0005911","cell-cell junction",6.94588270214308e-12,1.50904387813125e-06,"CC",FALSE
+"adherens junction","GO:0005912","adherens junction",1.07507064656002e-09,0.000231201836648096,"CC",FALSE
+"zonula adherens","GO:0005915","zonula adherens",0.010299240066627,0.0244090037069441,"CC",FALSE
+"cell cortex","GO:0005938","cell cortex",2.34523272209554e-07,0.00114741614147791,"CC",FALSE
+"glycogen biosynthetic process","GO:0005978","glycogen biosynthetic process",0.00110285144096298,0.00625748398013177,"BP",FALSE
+"regulation of glycogen biosynthetic process","GO:0005979","regulation of glycogen biosynthetic process",0.00587503291753691,0.0023658428853297,"BP",FALSE
+"gluconeogenesis","GO:0006094","gluconeogenesis",0.0395312316545512,0.0353905439983411,"BP",FALSE
+"regulation of transcription, DNA-templated","GO:0006355","regulation of transcription, DNA-templated",0.0367959219920545,2.18982140265029e-20,"BP",FALSE
+"regulation of transcription by RNA polymerase II","GO:0006357","regulation of transcription by RNA polymerase II",3.8534004116992e-18,7.57048231426564e-32,"BP",FALSE
+"transcription by RNA polymerase II","GO:0006366","transcription by RNA polymerase II",7.91554658440027e-14,9.82767189356697e-29,"BP",FALSE
+"cellular protein modification process","GO:0006464","cellular protein modification process",0.00271428632456831,0.00148546328790802,"BP",FALSE
+"protein phosphorylation","GO:0006468","protein phosphorylation",2.17609059929802e-11,8.48603790240713e-07,"BP",FALSE
+"protein dephosphorylation","GO:0006470","protein dephosphorylation",3.20375924700991e-05,0.00311766661061102,"BP",FALSE
+"protein deacetylation","GO:0006476","protein deacetylation",0.0300448540428127,0.00178471562692369,"BP",FALSE
+"phosphorus metabolic process","GO:0006793","phosphorus metabolic process",6.95913081610381e-09,0.000223444017532331,"BP",FALSE
+"phosphate-containing compound metabolic process","GO:0006796","phosphate-containing compound metabolic process",5.12740220270578e-09,0.000162542838326753,"BP",FALSE
+"apoptotic process","GO:0006915","apoptotic process",2.42907495677355e-10,0.000203773397929546,"BP",FALSE
+"movement of cell or subcellular component","GO:0006928","movement of cell or subcellular component",7.45614329452693e-35,3.06326539297691e-19,"BP",FALSE
+"chemotaxis","GO:0006935","chemotaxis",3.20330136515715e-08,9.24864232391464e-09,"BP",FALSE
+"cytoskeleton organization","GO:0007010","cytoskeleton organization",3.82170383382154e-12,4.59509067484095e-05,"BP",FALSE
+"actin filament organization","GO:0007015","actin filament organization",2.56192930547891e-11,0.000159452473272428,"BP",FALSE
+"cell-cell junction assembly","GO:0007043","cell-cell junction assembly",0.00316177521165813,0.00697175063107799,"BP",FALSE
+"cell-substrate junction assembly","GO:0007044","cell-substrate junction assembly",4.01818895489442e-10,0.000562347265378153,"BP",FALSE
+"cell cycle arrest","GO:0007050","cell cycle arrest",0.0111907252402104,0.0261311118717637,"BP",FALSE
+"cell communication","GO:0007154","cell communication",1.23016199416412e-63,8.37782913514018e-13,"BP",FALSE
+"cell adhesion","GO:0007155","cell adhesion",1.46028773353763e-27,7.02472257592105e-09,"BP",FALSE
+"homophilic cell adhesion via plasma membrane adhesion molecules","GO:0007156","homophilic cell adhesion via plasma membrane adhesion molecules",0.0327610239525702,0.00464163197195925,"BP",FALSE
+"heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules","GO:0007157","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.000239513415266824,0.0107773219138509,"BP",FALSE
+"neuron cell-cell adhesion","GO:0007158","neuron cell-cell adhesion",0.000649323031431787,0.00268212118395837,"BP",FALSE
+"cell-matrix adhesion","GO:0007160","cell-matrix adhesion",6.66707803710174e-11,0.000200716879705407,"BP",FALSE
+"negative regulation of cell adhesion","GO:0007162","negative regulation of cell adhesion",4.65716561577397e-05,3.83164629659563e-05,"BP",FALSE
+"establishment or maintenance of cell polarity","GO:0007163","establishment or maintenance of cell polarity",0.00547801251059662,8.08108996658119e-05,"BP",FALSE
+"signal transduction","GO:0007165","signal transduction",7.50949958339257e-52,1.28233741183421e-11,"BP",FALSE
+"cell surface receptor signaling pathway","GO:0007166","cell surface receptor signaling pathway",3.01933552770355e-33,2.9711949424111e-12,"BP",FALSE
+"enzyme linked receptor protein signaling pathway","GO:0007167","enzyme linked receptor protein signaling pathway",2.97996742009712e-24,3.61294602741946e-12,"BP",FALSE
+"transmembrane receptor protein tyrosine kinase signaling pathway","GO:0007169","transmembrane receptor protein tyrosine kinase signaling pathway",3.24000718575109e-17,1.03366335517451e-06,"BP",FALSE
+"regulation of epidermal growth factor-activated receptor activity","GO:0007176","regulation of epidermal growth factor-activated receptor activity",0.0415613583135144,0.0327586111175833,"BP",FALSE
+"transmembrane receptor protein serine/threonine kinase signaling pathway","GO:0007178","transmembrane receptor protein serine/threonine kinase signaling pathway",4.65746564735808e-09,4.1590764990837e-07,"BP",FALSE
+"transforming growth factor beta receptor signaling pathway","GO:0007179","transforming growth factor beta receptor signaling pathway",8.71117846340137e-07,0.00126889774926966,"BP",FALSE
+"SMAD protein complex assembly","GO:0007183","SMAD protein complex assembly",0.0320000118573671,0.0120023755961018,"BP",FALSE
+"transmembrane receptor protein tyrosine phosphatase signaling pathway","GO:0007185","transmembrane receptor protein tyrosine phosphatase signaling pathway",0.0242767055563261,0.00157292581880607,"BP",FALSE
+"glutamate receptor signaling pathway","GO:0007215","glutamate receptor signaling pathway",8.33596282759326e-12,0.0255980370125942,"BP",FALSE
+"Notch signaling pathway","GO:0007219","Notch signaling pathway",0.00044716135966411,0.000155994301183779,"BP",FALSE
+"small GTPase mediated signal transduction","GO:0007264","small GTPase mediated signal transduction",1.08487218649078e-16,0.00808033650025966,"BP",FALSE
+"Rho protein signal transduction","GO:0007266","Rho protein signal transduction",0.000396574071069702,0.0258305638228919,"BP",FALSE
+"cell-cell signaling","GO:0007267","cell-cell signaling",1.03375990880154e-30,0.000339928275325725,"BP",FALSE
+"ensheathment of neurons","GO:0007272","ensheathment of neurons",4.1552491243693e-05,0.0162766501745426,"BP",FALSE
+"multicellular organism development","GO:0007275","multicellular organism development",2.63125817973304e-43,3.97656692034064e-33,"BP",FALSE
+"insemination","GO:0007320","insemination",0.0162034608039239,0.0316910105503374,"BP",FALSE
+"gastrulation","GO:0007369","gastrulation",0.00171754645430574,0.00186592017712765,"BP",FALSE
+"pattern specification process","GO:0007389","pattern specification process",4.53400933316968e-05,5.72008746909491e-19,"BP",FALSE
+"nervous system development","GO:0007399","nervous system development",1.32796559789982e-36,3.42017032093341e-35,"BP",FALSE
+"axonogenesis","GO:0007409","axonogenesis",9.08461211044731e-11,6.45259534694439e-19,"BP",FALSE
+"axon guidance","GO:0007411","axon guidance",2.79423493387437e-06,2.42605079201175e-19,"BP",FALSE
+"synapse assembly","GO:0007416","synapse assembly",5.2572050054367e-12,1.42609907812781e-05,"BP",FALSE
+"central nervous system development","GO:0007417","central nervous system development",1.80360059576494e-13,3.60623154269339e-23,"BP",FALSE
+"brain development","GO:0007420","brain development",1.28202585205669e-13,1.8715004871607e-20,"BP",FALSE
+"peripheral nervous system development","GO:0007422","peripheral nervous system development",3.43709509653908e-07,0.00170265271400674,"BP",FALSE
+"sensory organ development","GO:0007423","sensory organ development",3.00813557184909e-11,2.52735828402337e-14,"BP",FALSE
+"hindgut morphogenesis","GO:0007442","hindgut morphogenesis",0.019049438801961,0.0176995674441033,"BP",FALSE
+"endoderm development","GO:0007492","endoderm development",0.0019926126117931,0.000126686559706457,"BP",FALSE
+"mesoderm development","GO:0007498","mesoderm development",0.00348528759291636,8.77586653060559e-06,"BP",FALSE
+"heart development","GO:0007507","heart development",4.74866757711678e-09,1.21615041724397e-10,"BP",FALSE
+"muscle organ development","GO:0007517","muscle organ development",6.33276836074548e-16,1.58815559531314e-05,"BP",FALSE
+"skeletal muscle tissue development","GO:0007519","skeletal muscle tissue development",3.81425960980691e-09,0.000271398812911322,"BP",FALSE
+"sex differentiation","GO:0007548","sex differentiation",2.30341458391802e-05,0.0102389495956437,"BP",FALSE
+"respiratory gaseous exchange by respiratory system","GO:0007585","respiratory gaseous exchange by respiratory system",0.000999105756367507,0.0140155866961116,"BP",FALSE
+"behavior","GO:0007610","behavior",4.1324231952457e-08,0.00202324498128658,"BP",FALSE
+"learning or memory","GO:0007611","learning or memory",2.77488558267776e-09,0.00156198335328296,"BP",FALSE
+"learning","GO:0007612","learning",0.000224666695971165,5.59539169606673e-06,"BP",FALSE
+"memory","GO:0007613","memory",2.44896348057944e-08,0.00881631298608585,"BP",FALSE
+"circadian rhythm","GO:0007623","circadian rhythm",5.04121071666687e-07,0.0269516489346986,"BP",FALSE
+"locomotory behavior","GO:0007626","locomotory behavior",2.20417248369725e-06,0.0230631007354202,"BP",FALSE
+"beta-catenin binding","GO:0008013","beta-catenin binding",0.00147083752529474,2.28643120017389e-05,"MF",FALSE
+"regulation of actin polymerization or depolymerization","GO:0008064","regulation of actin polymerization or depolymerization",0.00106231931412141,0.00504103616591421,"BP",FALSE
+"glutamate receptor activity","GO:0008066","glutamate receptor activity",9.38278400064629e-06,0.0361685893651348,"MF",FALSE
+"cytoskeletal protein binding","GO:0008092","cytoskeletal protein binding",1.27996085824316e-21,0.0334062157964086,"MF",FALSE
+"transcription factor binding","GO:0008134","transcription factor binding",5.87476914773298e-06,1.6448930634583e-14,"MF",FALSE
+"actin polymerization or depolymerization","GO:0008154","actin polymerization or depolymerization",3.58477181114625e-05,0.028448243693719,"BP",FALSE
+"heparin binding","GO:0008201","heparin binding",0.000900098232737184,0.00128099817208868,"MF",FALSE
+"cell death","GO:0008219","cell death",1.18465437742017e-12,2.25793963249871e-05,"BP",FALSE
+"cell population proliferation","GO:0008283","cell population proliferation",3.33582527504847e-13,5.90566911415258e-12,"BP",FALSE
+"positive regulation of cell population proliferation","GO:0008284","positive regulation of cell population proliferation",3.21740898090354e-08,0.000305268256872869,"BP",FALSE
+"negative regulation of cell population proliferation","GO:0008285","negative regulation of cell population proliferation",2.83013287590556e-08,5.78729122710103e-05,"BP",FALSE
+"insulin receptor signaling pathway","GO:0008286","insulin receptor signaling pathway",0.00021996946687196,0.0180942360341507,"BP",FALSE
+"associative learning","GO:0008306","associative learning",0.0021033644237523,0.012341479354483,"BP",FALSE
+"adult locomotory behavior","GO:0008344","adult locomotory behavior",0.0373202295843488,0.0117820781796538,"BP",FALSE
+"regulation of cell size","GO:0008361","regulation of cell size",0.000521500930551782,0.000708799436026509,"BP",FALSE
+"axon ensheathment","GO:0008366","axon ensheathment",4.1552491243693e-05,0.0162766501745426,"BP",FALSE
+"visual learning","GO:0008542","visual learning",0.00372068900170259,0.0363525837043729,"BP",FALSE
+"fibroblast growth factor receptor signaling pathway","GO:0008543","fibroblast growth factor receptor signaling pathway",0.0373078825324416,3.99497913985591e-07,"BP",FALSE
+"epidermis development","GO:0008544","epidermis development",1.85003619613898e-06,1.37249589070195e-08,"BP",FALSE
+"regulation of Notch signaling pathway","GO:0008593","regulation of Notch signaling pathway",0.00059789251768872,0.00172105221795872,"BP",FALSE
+"carbohydrate transport","GO:0008643","carbohydrate transport",0.0348860988430709,0.0297932830815329,"BP",FALSE
+"glucan biosynthetic process","GO:0009250","glucan biosynthetic process",0.00110285144096298,0.00625748398013177,"BP",FALSE
+"response to external stimulus","GO:0009605","response to external stimulus",3.01256074811693e-15,0.0151689509795119,"BP",FALSE
+"response to wounding","GO:0009611","response to wounding",2.15777240160738e-11,0.000137382686114352,"BP",FALSE
+"anatomical structure morphogenesis","GO:0009653","anatomical structure morphogenesis",7.06493565355043e-40,5.15756408010051e-37,"BP",FALSE
+"response to endogenous stimulus","GO:0009719","response to endogenous stimulus",4.93551787557129e-21,2.10268801585008e-09,"BP",FALSE
+"response to hormone","GO:0009725","response to hormone",6.17304295152931e-13,0.000147954371231073,"BP",FALSE
+"hormone-mediated signaling pathway","GO:0009755","hormone-mediated signaling pathway",0.00417277337202231,0.000282176398539302,"BP",FALSE
+"embryo development","GO:0009790","embryo development",1.65997851315928e-11,1.15933189273981e-19,"BP",FALSE
+"post-embryonic development","GO:0009791","post-embryonic development",0.00184941714945452,0.00502018334248893,"BP",FALSE
+"embryo development ending in birth or egg hatching","GO:0009792","embryo development ending in birth or egg hatching",7.78755864812913e-09,3.23238066882706e-12,"BP",FALSE
+"axis specification","GO:0009798","axis specification",0.0356880711073693,2.12706640265003e-05,"BP",FALSE
+"animal organ morphogenesis","GO:0009887","animal organ morphogenesis",2.67225190162291e-23,1.77540114819362e-20,"BP",FALSE
+"tissue development","GO:0009888","tissue development",9.19768981840434e-17,2.40965465386559e-24,"BP",FALSE
+"negative regulation of biosynthetic process","GO:0009890","negative regulation of biosynthetic process",1.08389811428301e-08,6.03674859861606e-20,"BP",FALSE
+"positive regulation of biosynthetic process","GO:0009891","positive regulation of biosynthetic process",2.8332416630969e-12,2.37807103372136e-18,"BP",FALSE
+"negative regulation of metabolic process","GO:0009892","negative regulation of metabolic process",0.000199341643924073,1.75123865193635e-14,"BP",FALSE
+"positive regulation of metabolic process","GO:0009893","positive regulation of metabolic process",4.94950819281997e-16,8.96686571301916e-19,"BP",FALSE
+"regulation of catabolic process","GO:0009894","regulation of catabolic process",0.0435451582382571,0.0145092566872178,"BP",FALSE
+"positive regulation of catabolic process","GO:0009896","positive regulation of catabolic process",0.0106081670604044,2.54487129805392e-05,"BP",FALSE
+"epidermal cell differentiation","GO:0009913","epidermal cell differentiation",0.000112185282795613,4.69264127520825e-06,"BP",FALSE
+"dorsal/ventral axis specification","GO:0009950","dorsal/ventral axis specification",0.0203650696390069,0.0084293494246606,"BP",FALSE
+"anterior/posterior pattern specification","GO:0009952","anterior/posterior pattern specification",0.000669066374749594,5.29728392146167e-12,"BP",FALSE
+"dorsal/ventral pattern formation","GO:0009953","dorsal/ventral pattern formation",0.0064433455756968,4.61435254714287e-08,"BP",FALSE
+"regulation of signal transduction","GO:0009966","regulation of signal transduction",1.47008550782864e-21,6.14861967088928e-10,"BP",FALSE
+"positive regulation of signal transduction","GO:0009967","positive regulation of signal transduction",1.06932633780358e-09,0.00185736058178059,"BP",FALSE
+"negative regulation of signal transduction","GO:0009968","negative regulation of signal transduction",1.08966502858428e-06,2.51974972585776e-09,"BP",FALSE
+"cellular process","GO:0009987","cellular process",1.27510429227404e-05,0.000591129271194627,"BP",FALSE
+"glial cell differentiation","GO:0010001","glial cell differentiation",2.16824961965385e-06,1.29554360919987e-06,"BP",FALSE
+"response to organic substance","GO:0010033","response to organic substance",1.38510157334628e-17,5.7158683296813e-05,"BP",FALSE
+"response to organonitrogen compound","GO:0010243","response to organonitrogen compound",7.28644174874467e-09,0.00328029255040474,"BP",FALSE
+"regulation of cell fate commitment","GO:0010453","regulation of cell fate commitment",0.00337523823672984,0.0379839431154538,"BP",FALSE
+"negative regulation of cell fate commitment","GO:0010454","negative regulation of cell fate commitment",0.0162941829899653,0.0249530197217949,"BP",FALSE
+"mesenchymal cell proliferation","GO:0010463","mesenchymal cell proliferation",4.78745507380433e-05,0.00096172959869911,"BP",FALSE
+"regulation of mesenchymal cell proliferation","GO:0010464","regulation of mesenchymal cell proliferation",0.000366343616548511,0.00705158326017417,"BP",FALSE
+"regulation of signaling receptor activity","GO:0010469","regulation of signaling receptor activity",9.12960673097905e-09,0.0301143615194097,"BP",FALSE
+"regulation of gastrulation","GO:0010470","regulation of gastrulation",0.0281351968399287,0.00142649834997706,"BP",FALSE
+"positive regulation of macromolecule biosynthetic process","GO:0010557","positive regulation of macromolecule biosynthetic process",4.48911934160442e-11,7.084146122992e-20,"BP",FALSE
+"negative regulation of macromolecule biosynthetic process","GO:0010558","negative regulation of macromolecule biosynthetic process",3.62618277399225e-09,1.01235492273666e-19,"BP",FALSE
+"positive regulation of phosphorus metabolic process","GO:0010562","positive regulation of phosphorus metabolic process",4.60883451175265e-10,0.0168524591440851,"BP",FALSE
+"negative regulation of phosphorus metabolic process","GO:0010563","negative regulation of phosphorus metabolic process",1.83108550480052e-05,4.51013264697159e-07,"BP",FALSE
+"regulation of endothelial cell migration","GO:0010594","regulation of endothelial cell migration",6.6191874217866e-08,2.6367019576921e-07,"BP",FALSE
+"positive regulation of endothelial cell migration","GO:0010595","positive regulation of endothelial cell migration",2.0285485081923e-05,7.6311597480466e-05,"BP",FALSE
+"negative regulation of endothelial cell migration","GO:0010596","negative regulation of endothelial cell migration",0.000433373857188345,0.00777491707645783,"BP",FALSE
+"positive regulation of macromolecule metabolic process","GO:0010604","positive regulation of macromolecule metabolic process",3.34707071266284e-15,8.73027168899685e-19,"BP",FALSE
+"negative regulation of macromolecule metabolic process","GO:0010605","negative regulation of macromolecule metabolic process",0.00428225261589511,5.66244005098705e-15,"BP",FALSE
+"regulation of cardiac muscle hypertrophy","GO:0010611","regulation of cardiac muscle hypertrophy",0.000144337726761277,0.0371519975751001,"BP",FALSE
+"positive regulation of gene expression","GO:0010628","positive regulation of gene expression",8.59175954203133e-14,5.29933635633725e-15,"BP",FALSE
+"negative regulation of gene expression","GO:0010629","negative regulation of gene expression",0.00127971776517096,3.23453901510606e-14,"BP",FALSE
+"epithelial cell migration","GO:0010631","epithelial cell migration",8.49218217855095e-09,4.7963310260441e-09,"BP",FALSE
+"regulation of epithelial cell migration","GO:0010632","regulation of epithelial cell migration",4.12613937799839e-09,3.64116692199665e-09,"BP",FALSE
+"negative regulation of epithelial cell migration","GO:0010633","negative regulation of epithelial cell migration",0.000520780105622477,0.000340956978322958,"BP",FALSE
+"positive regulation of epithelial cell migration","GO:0010634","positive regulation of epithelial cell migration",4.3172509759937e-06,4.15246066536575e-05,"BP",FALSE
+"positive regulation of organelle organization","GO:0010638","positive regulation of organelle organization",0.0109284091760709,0.0453455914351707,"BP",FALSE
+"regulation of cell communication","GO:0010646","regulation of cell communication",4.47959726056679e-29,4.64176545507954e-10,"BP",FALSE
+"positive regulation of cell communication","GO:0010647","positive regulation of cell communication",3.63305460936571e-12,0.00470564588056029,"BP",FALSE
+"negative regulation of cell communication","GO:0010648","negative regulation of cell communication",1.32997997787356e-09,3.23681349211611e-11,"BP",FALSE
+"regulation of epithelial to mesenchymal transition","GO:0010717","regulation of epithelial to mesenchymal transition",0.00161443080052445,2.2113608574343e-05,"BP",FALSE
+"positive regulation of epithelial to mesenchymal transition","GO:0010718","positive regulation of epithelial to mesenchymal transition",0.00260074074562259,0.000157310168321855,"BP",FALSE
+"positive regulation of cell development","GO:0010720","positive regulation of cell development",1.48949604260008e-11,4.01664068003698e-08,"BP",FALSE
+"negative regulation of cell development","GO:0010721","negative regulation of cell development",2.02917286654495e-08,5.58631242787955e-13,"BP",FALSE
+"regulation of cell morphogenesis involved in differentiation","GO:0010769","regulation of cell morphogenesis involved in differentiation",9.51364517750355e-05,5.1175641057559e-08,"BP",FALSE
+"positive regulation of cell morphogenesis involved in differentiation","GO:0010770","positive regulation of cell morphogenesis involved in differentiation",0.021861139126726,0.0143824835005215,"BP",FALSE
+"negative regulation of cell morphogenesis involved in differentiation","GO:0010771","negative regulation of cell morphogenesis involved in differentiation",0.0404476633774456,3.46900307292178e-06,"BP",FALSE
+"regulation of peptidyl-threonine phosphorylation","GO:0010799","regulation of peptidyl-threonine phosphorylation",0.00102356958424192,0.0028306071316042,"BP",FALSE
+"negative regulation of peptidyl-threonine phosphorylation","GO:0010801","negative regulation of peptidyl-threonine phosphorylation",0.00133662608426313,0.00369915002181767,"BP",FALSE
+"regulation of cell-substrate adhesion","GO:0010810","regulation of cell-substrate adhesion",1.18652729606721e-05,0.00219598262821402,"BP",FALSE
+"negative regulation of cell-substrate adhesion","GO:0010812","negative regulation of cell-substrate adhesion",0.0477332854573826,0.00611104012614482,"BP",FALSE
+"regulation of glucose transmembrane transport","GO:0010827","regulation of glucose transmembrane transport",0.0428486736253226,0.00261490665421987,"BP",FALSE
+"positive regulation of glucose transmembrane transport","GO:0010828","positive regulation of glucose transmembrane transport",0.0354017947109313,0.0146126914359636,"BP",FALSE
+"regulation of myotube differentiation","GO:0010830","regulation of myotube differentiation",0.000602994360175137,0.00716765124221457,"BP",FALSE
+"regulation of cardiac muscle contraction by calcium ion signaling","GO:0010882","regulation of cardiac muscle contraction by calcium ion signaling",0.0102269175587146,0.0481475650036035,"BP",FALSE
+"regulation of glucose metabolic process","GO:0010906","regulation of glucose metabolic process",0.00335766060335683,0.014002173847652,"BP",FALSE
+"regulation of cell death","GO:0010941","regulation of cell death",1.1526331105435e-12,2.04423558548577e-06,"BP",FALSE
+"positive regulation of cell death","GO:0010942","positive regulation of cell death",1.90557664269726e-07,1.62330437496182e-06,"BP",FALSE
+"negative regulation of protein processing","GO:0010955","negative regulation of protein processing",0.0418109272815949,0.00859876704847286,"BP",FALSE
+"regulation of glucan biosynthetic process","GO:0010962","regulation of glucan biosynthetic process",0.00587503291753691,0.0023658428853297,"BP",FALSE
+"regulation of neuron projection development","GO:0010975","regulation of neuron projection development",8.86938658056047e-11,3.65900249099637e-10,"BP",FALSE
+"positive regulation of neuron projection development","GO:0010976","positive regulation of neuron projection development",1.08230742505947e-05,0.000423665964120129,"BP",FALSE
+"negative regulation of neuron projection development","GO:0010977","negative regulation of neuron projection development",0.00914578418218221,2.22019612985312e-07,"BP",FALSE
+"programmed cell death","GO:0012501","programmed cell death",6.18330925008085e-11,6.66075309922315e-05,"BP",FALSE
+"astrocyte development","GO:0014002","astrocyte development",0.0203310978576147,0.0358027344774669,"BP",FALSE
+"regulation of gliogenesis","GO:0014013","regulation of gliogenesis",2.07617871036603e-05,0.00198341231341774,"BP",FALSE
+"negative regulation of gliogenesis","GO:0014014","negative regulation of gliogenesis",0.000145258228552243,0.000328820136899741,"BP",FALSE
+"primary neural tube formation","GO:0014020","primary neural tube formation",0.016021695727019,6.50394205073178e-05,"BP",FALSE
+"Schwann cell differentiation","GO:0014037","Schwann cell differentiation",0.00364449875599445,0.0414627993918034,"BP",FALSE
+"positive regulation of phosphatidylinositol 3-kinase signaling","GO:0014068","positive regulation of phosphatidylinositol 3-kinase signaling",0.00643939269174777,8.03964079859127e-06,"BP",FALSE
+"postsynaptic density","GO:0014069","postsynaptic density",1.04110572356445e-20,0.000300646987699329,"CC",FALSE
+"response to organic cyclic compound","GO:0014070","response to organic cyclic compound",2.37775031833257e-10,0.035026537482059,"BP",FALSE
+"intercalated disc","GO:0014704","intercalated disc",0.00795421815693258,0.037316614725679,"CC",FALSE
+"striated muscle tissue development","GO:0014706","striated muscle tissue development",1.35396821185356e-13,1.24087646204968e-05,"BP",FALSE
+"regulation of muscle hypertrophy","GO:0014743","regulation of muscle hypertrophy",4.73537644902189e-05,0.046906634007582,"BP",FALSE
+"muscle cell migration","GO:0014812","muscle cell migration",2.30437846211598e-06,0.00121736848047347,"BP",FALSE
+"striated muscle cell proliferation","GO:0014855","striated muscle cell proliferation",0.00669647767264321,0.00394862460206294,"BP",FALSE
+"response to stimulus involved in regulation of muscle adaptation","GO:0014874","response to stimulus involved in regulation of muscle adaptation",0.0188174402144218,0.000844407039368808,"BP",FALSE
+"response to muscle inactivity involved in regulation of muscle adaptation","GO:0014877","response to muscle inactivity involved in regulation of muscle adaptation",0.049250259958429,0.000432909397547612,"BP",FALSE
+"cardiac muscle adaptation","GO:0014887","cardiac muscle adaptation",0.0292956314917163,0.0392862154466422,"BP",FALSE
+"response to denervation involved in regulation of muscle adaptation","GO:0014894","response to denervation involved in regulation of muscle adaptation",0.049250259958429,0.000432909397547612,"BP",FALSE
+"muscle hypertrophy","GO:0014896","muscle hypertrophy",0.000360434823295227,0.0398773097457953,"BP",FALSE
+"striated muscle hypertrophy","GO:0014897","striated muscle hypertrophy",0.000879658875347721,0.0399674986161097,"BP",FALSE
+"cardiac muscle hypertrophy in response to stress","GO:0014898","cardiac muscle hypertrophy in response to stress",0.0292956314917163,0.0392862154466422,"BP",FALSE
+"myotube differentiation","GO:0014902","myotube differentiation",2.28880217287775e-10,0.0392236991671645,"BP",FALSE
+"smooth muscle cell migration","GO:0014909","smooth muscle cell migration",4.14557601819084e-06,0.000166233546854872,"BP",FALSE
+"regulation of smooth muscle cell migration","GO:0014910","regulation of smooth muscle cell migration",7.58527825888572e-06,0.000281889439673358,"BP",FALSE
+"positive regulation of smooth muscle cell migration","GO:0014911","positive regulation of smooth muscle cell migration",0.000339526751719692,0.0481475650036035,"BP",FALSE
+"negative regulation of smooth muscle cell migration","GO:0014912","negative regulation of smooth muscle cell migration",0.000914505962590478,5.48454305499101e-05,"BP",FALSE
+"actin cytoskeleton","GO:0015629","actin cytoskeleton",1.47493459317098e-13,0.00359053850242708,"CC",FALSE
+"monosaccharide transmembrane transport","GO:0015749","monosaccharide transmembrane transport",0.0277853226260861,0.00943759332425656,"BP",FALSE
+"dystrophin-associated glycoprotein complex","GO:0016010","dystrophin-associated glycoprotein complex",0.0102160645427121,0.00645096865836131,"CC",FALSE
+"cellular component organization","GO:0016043","cellular component organization",9.82384436566509e-08,7.69935477830224e-09,"BP",FALSE
+"cell growth","GO:0016049","cell growth",5.73041856520093e-06,0.00042032008351255,"BP",FALSE
+"Wnt signaling pathway","GO:0016055","Wnt signaling pathway",2.33541663064339e-07,9.14743268746275e-08,"BP",FALSE
+"glial cell-derived neurotrophic factor receptor activity","GO:0016167","glial cell-derived neurotrophic factor receptor activity",0.00955647635419118,0.0280608223218089,"MF",FALSE
+"regulation of striated muscle tissue development","GO:0016202","regulation of striated muscle tissue development",1.66415060001831e-06,0.00198962792433407,"BP",FALSE
+"kinase activity","GO:0016301","kinase activity",5.91226569906454e-08,0.0207567005580636,"MF",FALSE
+"phosphorylation","GO:0016310","phosphorylation",5.03848405973068e-08,1.03262992200378e-05,"BP",FALSE
+"dephosphorylation","GO:0016311","dephosphorylation",6.54046523681444e-06,0.0240398136517993,"BP",FALSE
+"morphogenesis of embryonic epithelium","GO:0016331","morphogenesis of embryonic epithelium",0.00019645310762441,1.00619183509071e-10,"BP",FALSE
+"dendrite development","GO:0016358","dendrite development",5.6621657135074e-14,4.93138728465031e-05,"BP",FALSE
+"cell migration","GO:0016477","cell migration",6.00120692812691e-29,1.06160796922868e-17,"BP",FALSE
+"negative regulation of angiogenesis","GO:0016525","negative regulation of angiogenesis",0.000305959634188236,0.00773760672237283,"BP",FALSE
+"phosphotransferase activity, alcohol group as acceptor","GO:0016773","phosphotransferase activity, alcohol group as acceptor",2.46260802200493e-08,0.00776466215806734,"MF",FALSE
+"regulation of transforming growth factor beta receptor signaling pathway","GO:0017015","regulation of transforming growth factor beta receptor signaling pathway",7.57308851973405e-05,0.00805747964202254,"BP",FALSE
+"chloride channel regulator activity","GO:0017081","chloride channel regulator activity",0.0259374928897912,0.011231040132632,"MF",FALSE
+"negative regulation of translation","GO:0017148","negative regulation of translation",0.0450766442116208,0.00661964050563572,"BP",FALSE
+"semaphorin receptor activity","GO:0017154","semaphorin receptor activity",0.0222921288316593,0.00126816249693916,"MF",FALSE
+"peptidyl-serine phosphorylation","GO:0018105","peptidyl-serine phosphorylation",2.9129431834478e-09,0.0258792091600238,"BP",FALSE
+"peptidyl-threonine phosphorylation","GO:0018107","peptidyl-threonine phosphorylation",7.40264751501651e-08,0.00606080882283892,"BP",FALSE
+"peptidyl-tyrosine phosphorylation","GO:0018108","peptidyl-tyrosine phosphorylation",0.00156973559022664,0.0192528892002971,"BP",FALSE
+"peptidyl-amino acid modification","GO:0018193","peptidyl-amino acid modification",2.26632194905596e-05,0.0190349712792614,"BP",FALSE
+"peptidyl-threonine modification","GO:0018210","peptidyl-threonine modification",1.28097804159245e-07,0.0124254160058342,"BP",FALSE
+"peptidyl-tyrosine modification","GO:0018212","peptidyl-tyrosine modification",0.00174720324829753,0.0224447772211682,"BP",FALSE
+"transmembrane receptor protein phosphatase activity","GO:0019198","transmembrane receptor protein phosphatase activity",0.0111792579392591,0.0114017359484732,"MF",FALSE
+"phosphatase regulator activity","GO:0019208","phosphatase regulator activity",0.0483038624131102,0.0365728497419513,"MF",FALSE
+"regulation of phosphate metabolic process","GO:0019220","regulation of phosphate metabolic process",2.64616310228457e-09,1.81266039945412e-05,"BP",FALSE
+"hexose biosynthetic process","GO:0019319","hexose biosynthetic process",0.0464121365188791,0.0478188361361435,"BP",FALSE
+"stem cell population maintenance","GO:0019827","stem cell population maintenance",0.0152456515745126,8.39225211596272e-07,"BP",FALSE
+"enzyme binding","GO:0019899","enzyme binding",2.70347548665171e-14,2.39675247993823e-05,"MF",FALSE
+"kinase binding","GO:0019900","kinase binding",3.47591509965358e-05,0.00119183185908142,"MF",FALSE
+"protein kinase binding","GO:0019901","protein kinase binding",0.000181855120554656,0.0183783293221379,"MF",FALSE
+"phosphatase binding","GO:0019902","phosphatase binding",6.26269564028009e-05,0.00143067702745521,"MF",FALSE
+"protein phosphatase binding","GO:0019903","protein phosphatase binding",0.000835307878026131,0.00752090560403057,"MF",FALSE
+"protein domain specific binding","GO:0019904","protein domain specific binding",2.26435469412362e-09,0.00320570908147859,"MF",FALSE
+"spinal cord development","GO:0021510","spinal cord development",0.00451610770099917,3.38275264877752e-07,"BP",FALSE
+"ventral spinal cord interneuron differentiation","GO:0021514","ventral spinal cord interneuron differentiation",0.000724557876744784,0.00112345813759278,"BP",FALSE
+"cell differentiation in spinal cord","GO:0021515","cell differentiation in spinal cord",0.0171957465874331,1.62771678317605e-07,"BP",FALSE
+"ventral spinal cord development","GO:0021517","ventral spinal cord development",0.00561773868660886,1.698943618659e-05,"BP",FALSE
+"cell proliferation in hindbrain","GO:0021534","cell proliferation in hindbrain",0.0162941829899653,0.000588298404325747,"BP",FALSE
+"cell migration in hindbrain","GO:0021535","cell migration in hindbrain",0.0281466177898065,0.00107182552401452,"BP",FALSE
+"diencephalon development","GO:0021536","diencephalon development",0.000337108124178083,0.000134664881056225,"BP",FALSE
+"telencephalon development","GO:0021537","telencephalon development",2.29659419138562e-06,2.01169405217848e-09,"BP",FALSE
+"pallium development","GO:0021543","pallium development",0.0020783797759615,1.02021941794619e-05,"BP",FALSE
+"cranial nerve development","GO:0021545","cranial nerve development",0.0125333402712958,1.84237471086024e-06,"BP",FALSE
+"cranial nerve morphogenesis","GO:0021602","cranial nerve morphogenesis",0.00373134552923477,1.65167392081325e-05,"BP",FALSE
+"cranial nerve formation","GO:0021603","cranial nerve formation",0.0068251865418696,0.000737687729760103,"BP",FALSE
+"optic nerve formation","GO:0021634","optic nerve formation",0.0438026968377474,0.00543954986054922,"BP",FALSE
+"nerve development","GO:0021675","nerve development",0.00220350518708436,2.5190802461772e-07,"BP",FALSE
+"developmental maturation","GO:0021700","developmental maturation",0.000233534536504316,2.43604768653809e-05,"BP",FALSE
+"olfactory bulb development","GO:0021772","olfactory bulb development",0.0400553275144245,0.000523612722682821,"BP",FALSE
+"glial cell fate commitment","GO:0021781","glial cell fate commitment",0.00173639574634958,0.0288001671485099,"BP",FALSE
+"glial cell development","GO:0021782","glial cell development",8.15702295436342e-06,0.00101789481980129,"BP",FALSE
+"forebrain generation of neurons","GO:0021872","forebrain generation of neurons",0.000493901982103991,2.02516900995377e-05,"BP",FALSE
+"forebrain neuron differentiation","GO:0021879","forebrain neuron differentiation",0.00126938187658125,5.05831209612804e-06,"BP",FALSE
+"forebrain cell migration","GO:0021885","forebrain cell migration",0.0189328724688243,0.0435827548335278,"BP",FALSE
+"cell proliferation in external granule layer","GO:0021924","cell proliferation in external granule layer",0.00835416366606791,0.00292022789287899,"BP",FALSE
+"cerebellar granule cell precursor proliferation","GO:0021930","cerebellar granule cell precursor proliferation",0.00835416366606791,0.00292022789287899,"BP",FALSE
+"central nervous system neuron differentiation","GO:0021953","central nervous system neuron differentiation",4.94488510030722e-06,1.11720383266366e-10,"BP",FALSE
+"central nervous system neuron development","GO:0021954","central nervous system neuron development",0.039371090284317,0.000723314118751611,"BP",FALSE
+"pituitary gland development","GO:0021983","pituitary gland development",0.0117578153780207,0.00153012832674957,"BP",FALSE
+"cerebral cortex development","GO:0021987","cerebral cortex development",0.00509870636839748,0.000177736587005837,"BP",FALSE
+"neurogenesis","GO:0022008","neurogenesis",2.41008033491593e-34,1.20898339158393e-27,"BP",FALSE
+"telencephalon cell migration","GO:0022029","telencephalon cell migration",0.00977481126940887,0.0433666773910789,"BP",FALSE
+"metencephalon development","GO:0022037","metencephalon development",0.0499513224558275,5.1712700941316e-07,"BP",FALSE
+"regulation of cell-cell adhesion","GO:0022407","regulation of cell-cell adhesion",1.84621292753826e-07,0.0128098327637991,"BP",FALSE
+"negative regulation of cell-cell adhesion","GO:0022408","negative regulation of cell-cell adhesion",0.000341127343769923,0.00531791056799236,"BP",FALSE
+"reproductive process","GO:0022414","reproductive process",9.89395861306653e-07,0.0136992762693312,"BP",FALSE
+"regulation of anatomical structure morphogenesis","GO:0022603","regulation of anatomical structure morphogenesis",3.10586063801496e-18,4.69947295657666e-12,"BP",FALSE
+"regulation of cell morphogenesis","GO:0022604","regulation of cell morphogenesis",1.06418319030889e-06,2.56987255373664e-06,"BP",FALSE
+"biological adhesion","GO:0022610","biological adhesion",1.28511311168994e-27,9.50506644503712e-09,"BP",FALSE
+"gland morphogenesis","GO:0022612","gland morphogenesis",0.00599348485018263,4.60280907442902e-06,"BP",FALSE
+"signal transduction by protein phosphorylation","GO:0023014","signal transduction by protein phosphorylation",8.86027536022383e-05,0.00442689654802273,"BP",FALSE
+"regulation of signaling","GO:0023051","regulation of signaling",1.17260094023632e-29,2.77156659092579e-10,"BP",FALSE
+"signaling","GO:0023052","signaling",2.04962823824841e-66,5.32976124977038e-12,"BP",FALSE
+"positive regulation of signaling","GO:0023056","positive regulation of signaling",4.33655422170872e-12,0.00586385364226352,"BP",FALSE
+"negative regulation of signaling","GO:0023057","negative regulation of signaling",1.96144667484711e-09,1.86067809924213e-11,"BP",FALSE
+"establishment of cell polarity","GO:0030010","establishment of cell polarity",0.00731339579386484,0.00153551885102267,"BP",FALSE
+"Z disc","GO:0030018","Z disc",6.02133164603176e-05,0.0473551294505409,"CC",FALSE
+"lamellipodium","GO:0030027","lamellipodium",3.62318781025387e-11,0.0259435863423116,"CC",FALSE
+"actin filament-based process","GO:0030029","actin filament-based process",2.64888385798057e-24,3.17802313085828e-06,"BP",FALSE
+"cell projection organization","GO:0030030","cell projection organization",1.04484084464967e-17,3.39641986347283e-17,"BP",FALSE
+"actin cytoskeleton organization","GO:0030036","actin cytoskeleton organization",1.04980673182658e-20,6.48064317995018e-07,"BP",FALSE
+"contractile actin filament bundle assembly","GO:0030038","contractile actin filament bundle assembly",1.23623089138577e-07,0.00116420706572487,"BP",FALSE
+"actin filament polymerization","GO:0030041","actin filament polymerization",0.00155029641928206,0.00388403348183373,"BP",FALSE
+"cell junction","GO:0030054","cell junction",4.42552852082105e-48,1.32030203808299e-06,"CC",FALSE
+"hemopoiesis","GO:0030097","hemopoiesis",2.86103454770127e-07,0.0165562335929377,"BP",FALSE
+"lymphocyte differentiation","GO:0030098","lymphocyte differentiation",3.04235188189689e-05,0.0191616195584482,"BP",FALSE
+"regulation of Wnt signaling pathway","GO:0030111","regulation of Wnt signaling pathway",0.000597102649081082,1.72025955575594e-07,"BP",FALSE
+"cell differentiation","GO:0030154","cell differentiation",2.9047366986518e-52,5.17200918186532e-27,"BP",FALSE
+"regulation of cell adhesion","GO:0030155","regulation of cell adhesion",2.57495017085998e-14,7.66092872317316e-05,"BP",FALSE
+"PDZ domain binding","GO:0030165","PDZ domain binding",7.11203786296623e-07,0.000433137979821457,"MF",FALSE
+"filopodium","GO:0030175","filopodium",1.39966649188926e-07,0.00851962430649487,"CC",FALSE
+"neuron differentiation","GO:0030182","neuron differentiation",7.58625415480857e-31,1.27443608705234e-27,"BP",FALSE
+"extracellular matrix organization","GO:0030198","extracellular matrix organization",2.27314253685034e-07,0.0173969695376239,"BP",FALSE
+"keratinocyte differentiation","GO:0030216","keratinocyte differentiation",0.00430195065475832,0.000182642080927674,"BP",FALSE
+"T cell differentiation","GO:0030217","T cell differentiation",0.000476661828867199,0.0148548381268453,"BP",FALSE
+"enzyme regulator activity","GO:0030234","enzyme regulator activity",0.000159578223688896,0.0266081394461235,"MF",FALSE
+"regulation of ossification","GO:0030278","regulation of ossification",9.42025382318602e-08,0.000461535227589966,"BP",FALSE
+"negative regulation of ossification","GO:0030279","negative regulation of ossification",0.0159324791523239,0.000102263337367999,"BP",FALSE
+"protein serine/threonine kinase inhibitor activity","GO:0030291","protein serine/threonine kinase inhibitor activity",0.0398221079162995,0.00314296916032527,"MF",FALSE
+"protein kinase activator activity","GO:0030295","protein kinase activator activity",0.0384354995233764,0.0482538105040097,"MF",FALSE
+"respiratory tube development","GO:0030323","respiratory tube development",0.000797909299895086,3.54467288135457e-09,"BP",FALSE
+"lung development","GO:0030324","lung development",0.00106231931412141,8.75621104512123e-10,"BP",FALSE
+"embryonic limb morphogenesis","GO:0030326","embryonic limb morphogenesis",2.86674903501036e-05,1.61239901694923e-08,"BP",FALSE
+"regulation of cell migration","GO:0030334","regulation of cell migration",4.74082830422429e-25,3.20109620323243e-13,"BP",FALSE
+"positive regulation of cell migration","GO:0030335","positive regulation of cell migration",8.80243661970683e-13,1.21444785985446e-05,"BP",FALSE
+"negative regulation of cell migration","GO:0030336","negative regulation of cell migration",6.44623848825991e-09,3.01964245438738e-07,"BP",FALSE
+"translation repressor activity","GO:0030371","translation repressor activity",0.039661094055517,0.0251469953441608,"MF",FALSE
+"axon","GO:0030424","axon",4.14563954426247e-07,0.0217755273961543,"CC",FALSE
+"dendrite","GO:0030425","dendrite",1.64339416415605e-18,0.00562947791202841,"CC",FALSE
+"growth cone","GO:0030426","growth cone",6.27794902047928e-08,0.000477949201682676,"CC",FALSE
+"site of polarized growth","GO:0030427","site of polarized growth",1.14851857167786e-07,0.000300324892923263,"CC",FALSE
+"BMP signaling pathway","GO:0030509","BMP signaling pathway",4.1576930086965e-06,3.74255422092289e-05,"BP",FALSE
+"regulation of BMP signaling pathway","GO:0030510","regulation of BMP signaling pathway",0.000236176430272427,0.00107072013497367,"BP",FALSE
+"negative regulation of transforming growth factor beta receptor signaling pathway","GO:0030512","negative regulation of transforming growth factor beta receptor signaling pathway",0.00845286429438602,0.00940250441466374,"BP",FALSE
+"positive regulation of BMP signaling pathway","GO:0030513","positive regulation of BMP signaling pathway",0.0400553275144245,0.0135040380480508,"BP",FALSE
+"negative regulation of BMP signaling pathway","GO:0030514","negative regulation of BMP signaling pathway",0.0163852244368118,0.00906333919996388,"BP",FALSE
+"intracellular receptor signaling pathway","GO:0030522","intracellular receptor signaling pathway",0.00593465705120241,0.00400800909392869,"BP",FALSE
+"adult behavior","GO:0030534","adult behavior",0.000322418695818736,0.00587003711482226,"BP",FALSE
+"cyclic nucleotide binding","GO:0030551","cyclic nucleotide binding",6.96661409000276e-05,0.00907819390389077,"MF",FALSE
+"cAMP binding","GO:0030552","cAMP binding",0.0192166773920385,0.0222975968412727,"MF",FALSE
+"Rac guanyl-nucleotide exchange factor activity","GO:0030676","Rac guanyl-nucleotide exchange factor activity",0.00982476527297903,0.032104972949925,"MF",FALSE
+"GTPase regulator activity","GO:0030695","GTPase regulator activity",3.04528497752522e-05,0.0349736185459926,"MF",FALSE
+"regulation of actin filament length","GO:0030832","regulation of actin filament length",0.00177458620565556,0.00902005000952304,"BP",FALSE
+"regulation of actin filament polymerization","GO:0030833","regulation of actin filament polymerization",0.00558508065535619,0.00311389861123502,"BP",FALSE
+"prostate gland development","GO:0030850","prostate gland development",0.00705522438089751,0.000495506417214935,"BP",FALSE
+"epithelial cell differentiation","GO:0030855","epithelial cell differentiation",1.48193358290073e-10,2.93878959321976e-13,"BP",FALSE
+"regulation of epithelial cell differentiation","GO:0030856","regulation of epithelial cell differentiation",0.00273782824001374,0.000138225725244479,"BP",FALSE
+"negative regulation of epithelial cell differentiation","GO:0030857","negative regulation of epithelial cell differentiation",0.0024999249653356,0.0186085008284639,"BP",FALSE
+"cortical cytoskeleton","GO:0030863","cortical cytoskeleton",0.00225131654650726,0.000139160760044392,"CC",FALSE
+"cortical actin cytoskeleton","GO:0030864","cortical actin cytoskeleton",0.00434918683541426,0.000461055598573252,"CC",FALSE
+"cortical actin cytoskeleton organization","GO:0030866","cortical actin cytoskeleton organization",2.26212280899688e-05,0.0484208560356163,"BP",FALSE
+"mammary gland development","GO:0030879","mammary gland development",0.00474080345386046,0.00069967543924448,"BP",FALSE
+"forebrain development","GO:0030900","forebrain development",3.12198669425498e-10,9.23233840919698e-14,"BP",FALSE
+"midbrain development","GO:0030901","midbrain development",0.0024493373636498,0.00192244223598911,"BP",FALSE
+"hindbrain development","GO:0030902","hindbrain development",0.000161113224748571,3.70934971123557e-13,"BP",FALSE
+"otic vesicle formation","GO:0030916","otic vesicle formation",0.0199341279040798,0.00303559371234748,"BP",FALSE
+"regulation of vascular endothelial growth factor receptor signaling pathway","GO:0030947","regulation of vascular endothelial growth factor receptor signaling pathway",0.00148134600446738,0.00854834630209659,"BP",FALSE
+"extracellular matrix","GO:0031012","extracellular matrix",1.71190992863064e-11,0.0415245109066134,"CC",FALSE
+"pancreas development","GO:0031016","pancreas development",0.00093619005253516,0.00104404767304738,"BP",FALSE
+"endocrine pancreas development","GO:0031018","endocrine pancreas development",0.00325499295565169,0.0237518543072611,"BP",FALSE
+"actomyosin structure organization","GO:0031032","actomyosin structure organization",1.79446836939676e-14,0.0247514437147745,"BP",FALSE
+"embryonic camera-type eye development","GO:0031076","embryonic camera-type eye development",0.00451427932090321,3.88914943893568e-09,"BP",FALSE
+"regeneration","GO:0031099","regeneration",5.00466075035581e-05,0.00344227722861698,"BP",FALSE
+"developmental induction","GO:0031128","developmental induction",0.0237696616580588,0.00653086007995206,"BP",FALSE
+"neuron projection development","GO:0031175","neuron projection development",4.42115784406555e-21,1.34671032212997e-20,"BP",FALSE
+"cell leading edge","GO:0031252","cell leading edge",3.12406127687764e-19,0.0484618787328796,"CC",FALSE
+"retinal ganglion cell axon guidance","GO:0031290","retinal ganglion cell axon guidance",0.0215608456349689,0.00172383274442654,"BP",FALSE
+"regulation of cellular metabolic process","GO:0031323","regulation of cellular metabolic process",0.0133551323285931,1.28808256029288e-20,"BP",FALSE
+"negative regulation of cellular metabolic process","GO:0031324","negative regulation of cellular metabolic process",8.7431959014962e-10,1.18283774476157e-20,"BP",FALSE
+"positive regulation of cellular metabolic process","GO:0031325","positive regulation of cellular metabolic process",4.01950977900567e-13,1.10690774538159e-18,"BP",FALSE
+"negative regulation of cellular biosynthetic process","GO:0031327","negative regulation of cellular biosynthetic process",1.13408032799487e-08,3.33142907939429e-20,"BP",FALSE
+"positive regulation of cellular biosynthetic process","GO:0031328","positive regulation of cellular biosynthetic process",4.09012017898196e-12,1.31653662008689e-18,"BP",FALSE
+"positive regulation of cellular catabolic process","GO:0031331","positive regulation of cellular catabolic process",0.0203776875263259,0.000386536491036823,"BP",FALSE
+"regulation of cell projection organization","GO:0031344","regulation of cell projection organization",3.21392219363081e-12,2.29058469062334e-09,"BP",FALSE
+"negative regulation of cell projection organization","GO:0031345","negative regulation of cell projection organization",0.00746860481073497,8.15673175179706e-08,"BP",FALSE
+"positive regulation of cell projection organization","GO:0031346","positive regulation of cell projection organization",1.68683359825103e-07,0.000605511593536522,"BP",FALSE
+"regulation of protein modification process","GO:0031399","regulation of protein modification process",4.75420155165765e-09,0.000246887032681056,"BP",FALSE
+"negative regulation of protein modification process","GO:0031400","negative regulation of protein modification process",0.000189788467490292,0.000120619027078821,"BP",FALSE
+"positive regulation of protein modification process","GO:0031401","positive regulation of protein modification process",2.99011509301699e-09,0.00807840983405988,"BP",FALSE
+"keratinization","GO:0031424","keratinization",0.000954447585616512,0.0139995427250146,"BP",FALSE
+"cell-substrate adhesion","GO:0031589","cell-substrate adhesion",9.55365601724664e-09,0.00010408229869332,"BP",FALSE
+"regulation of myelination","GO:0031641","regulation of myelination",0.0313696390576958,0.0428263313155392,"BP",FALSE
+"regulation of protein autophosphorylation","GO:0031952","regulation of protein autophosphorylation",0.0242120077501594,0.0377139695895062,"BP",FALSE
+"response to corticosteroid","GO:0031960","response to corticosteroid",0.02637848785625,0.0108140716999091,"BP",FALSE
+"positive regulation of fatty acid beta-oxidation","GO:0032000","positive regulation of fatty acid beta-oxidation",0.00902321032508609,0.0435041915228788,"BP",TRUE
+"bleb assembly","GO:0032060","bleb assembly",0.00113326397065419,0.0494234509922114,"BP",FALSE
+"regulation of actin filament bundle assembly","GO:0032231","regulation of actin filament bundle assembly",3.07168490902062e-07,0.00142553090476773,"BP",FALSE
+"negative regulation of actin filament bundle assembly","GO:0032232","negative regulation of actin filament bundle assembly",0.00114041861367306,0.0332778862169197,"BP",FALSE
+"positive regulation of actin filament bundle assembly","GO:0032233","positive regulation of actin filament bundle assembly",0.000218804347537529,0.00326056922066923,"BP",FALSE
+"regulation of cellular protein metabolic process","GO:0032268","regulation of cellular protein metabolic process",2.1217136746183e-06,5.02833977510194e-06,"BP",FALSE
+"negative regulation of cellular protein metabolic process","GO:0032269","negative regulation of cellular protein metabolic process",0.000143998598658133,5.29524944387603e-06,"BP",FALSE
+"positive regulation of cellular protein metabolic process","GO:0032270","positive regulation of cellular protein metabolic process",1.41678422758923e-06,0.00278567014510575,"BP",FALSE
+"regulation of protein polymerization","GO:0032271","regulation of protein polymerization",0.000112830643520295,0.00457362414331636,"BP",FALSE
+"asymmetric synapse","GO:0032279","asymmetric synapse",3.90609651361529e-20,0.000771527503167995,"CC",FALSE
+"regulation of chondrocyte differentiation","GO:0032330","regulation of chondrocyte differentiation",2.67595635741379e-05,8.92744045612271e-06,"BP",FALSE
+"positive regulation of chondrocyte differentiation","GO:0032332","positive regulation of chondrocyte differentiation",0.00333432954869894,0.000894079263718772,"BP",FALSE
+"positive regulation of hormone metabolic process","GO:0032352","positive regulation of hormone metabolic process",0.0398178288723573,0.0144296508431709,"BP",FALSE
+"actin filament bundle","GO:0032432","actin filament bundle",0.000138109411442756,0.000332767969795088,"CC",FALSE
+"multicellular organismal process","GO:0032501","multicellular organismal process",5.59830446350274e-56,8.88022724261021e-20,"BP",FALSE
+"developmental process","GO:0032502","developmental process",3.36506382809366e-45,4.43205591244416e-28,"BP",FALSE
+"regulation of cellular component size","GO:0032535","regulation of cellular component size",4.19693050718588e-06,6.46450943509461e-06,"BP",FALSE
+"GTPase activating protein binding","GO:0032794","GTPase activating protein binding",0.0376013560830119,0.0252768644630752,"MF",FALSE
+"glomerulus development","GO:0032835","glomerulus development",0.00910453560572713,6.54713480141963e-08,"BP",FALSE
+"response to insulin","GO:0032868","response to insulin",5.42365958317581e-05,0.00215282332031857,"BP",FALSE
+"cellular response to insulin stimulus","GO:0032869","cellular response to insulin stimulus",7.00931087597088e-06,0.0335104802885526,"BP",FALSE
+"cellular response to hormone stimulus","GO:0032870","cellular response to hormone stimulus",3.81845550313194e-15,0.000148082103272463,"BP",FALSE
+"regulation of stress-activated MAPK cascade","GO:0032872","regulation of stress-activated MAPK cascade",0.00417277337202231,0.0189234896799614,"BP",FALSE
+"positive regulation of stress-activated MAPK cascade","GO:0032874","positive regulation of stress-activated MAPK cascade",0.00504376847495543,0.0333068701580076,"BP",FALSE
+"regulation of localization","GO:0032879","regulation of localization",4.53118061997772e-33,0.000118967122557114,"BP",FALSE
+"regulation of polysaccharide metabolic process","GO:0032881","regulation of polysaccharide metabolic process",0.0144249875006886,0.00144643865861361,"BP",FALSE
+"regulation of polysaccharide biosynthetic process","GO:0032885","regulation of polysaccharide biosynthetic process",0.0144969375490928,0.00605033433959935,"BP",FALSE
+"circadian regulation of gene expression","GO:0032922","circadian regulation of gene expression",7.99876787755979e-05,0.00599765140824172,"BP",FALSE
+"regulation of actin cytoskeleton organization","GO:0032956","regulation of actin cytoskeleton organization",1.03040319723503e-06,8.32563400559125e-06,"BP",FALSE
+"regulation of actin filament-based process","GO:0032970","regulation of actin filament-based process",3.0020127378344e-07,8.8604396458445e-06,"BP",FALSE
+"cellular component morphogenesis","GO:0032989","cellular component morphogenesis",3.66964844187071e-20,3.04368322678841e-18,"BP",FALSE
+"cell part morphogenesis","GO:0032990","cell part morphogenesis",1.96084162236351e-15,3.54015730113898e-21,"BP",FALSE
+"muscle cell proliferation","GO:0033002","muscle cell proliferation",9.72078224176712e-08,0.00102141151278909,"BP",FALSE
+"regulation of organelle organization","GO:0033043","regulation of organelle organization",0.001386906321531,0.00251127976523315,"BP",FALSE
+"regulation of peptidyl-serine phosphorylation","GO:0033135","regulation of peptidyl-serine phosphorylation",0.0007168052107562,0.0164041073187714,"BP",FALSE
+"positive regulation of peptidyl-serine phosphorylation","GO:0033138","positive regulation of peptidyl-serine phosphorylation",0.0233386551346353,0.00982262091793646,"BP",FALSE
+"calcineurin-NFAT signaling cascade","GO:0033173","calcineurin-NFAT signaling cascade",0.000392562991344924,0.00448511505090102,"BP",FALSE
+"activating transcription factor binding","GO:0033613","activating transcription factor binding",0.0138255771854045,0.000425816573897544,"MF",FALSE
+"negative regulation of cell adhesion mediated by integrin","GO:0033629","negative regulation of cell adhesion mediated by integrin",0.0347395286228031,0.0243558447722977,"BP",FALSE
+"negative regulation of cell-cell adhesion mediated by integrin","GO:0033633","negative regulation of cell-cell adhesion mediated by integrin",0.0140983269151159,0.0387504655193288,"BP",FALSE
+"positive regulation of kinase activity","GO:0033674","positive regulation of kinase activity",2.49027054466724e-11,0.00148104878811156,"BP",FALSE
+"cellular polysaccharide biosynthetic process","GO:0033692","cellular polysaccharide biosynthetic process",0.046459688407223,0.00416511238885105,"BP",FALSE
+"response to lipid","GO:0033993","response to lipid",0.000384167195591368,0.00716643656599378,"BP",TRUE
+"erythrocyte homeostasis","GO:0034101","erythrocyte homeostasis",0.00265828042155624,0.0340802876054951,"BP",FALSE
+"carbohydrate transmembrane transport","GO:0034219","carbohydrate transmembrane transport",0.0320885743393033,0.00773072323891176,"BP",FALSE
+"negative regulation of cellular amide metabolic process","GO:0034249","negative regulation of cellular amide metabolic process",0.0110444800082912,0.0126676897124731,"BP",FALSE
+"cell junction assembly","GO:0034329","cell junction assembly",1.01759330541697e-17,1.02448956875317e-08,"BP",FALSE
+"cell junction organization","GO:0034330","cell junction organization",1.93939625092347e-26,1.63884649205651e-11,"BP",FALSE
+"adherens junction organization","GO:0034332","adherens junction organization",0.0216505213521833,0.000891384248364814,"BP",FALSE
+"adherens junction maintenance","GO:0034334","adherens junction maintenance",0.0398178288723573,0.0420191503683301,"BP",FALSE
+"sodium channel complex","GO:0034706","sodium channel complex",0.00870513958303946,0.0131353414130831,"CC",FALSE
+"somatic stem cell population maintenance","GO:0035019","somatic stem cell population maintenance",0.0251545589925416,9.04054519751268e-07,"BP",FALSE
+"negative regulation of Rho protein signal transduction","GO:0035024","negative regulation of Rho protein signal transduction",0.0291579970812715,0.0425621483489818,"BP",FALSE
+"cardiocyte differentiation","GO:0035051","cardiocyte differentiation",3.40111970956253e-07,0.0165152281537126,"BP",FALSE
+"establishment or maintenance of apical/basal cell polarity","GO:0035088","establishment or maintenance of apical/basal cell polarity",0.0338440038554197,0.0259564077969238,"BP",FALSE
+"appendage morphogenesis","GO:0035107","appendage morphogenesis",8.02123938286441e-06,1.90460856383919e-08,"BP",FALSE
+"limb morphogenesis","GO:0035108","limb morphogenesis",7.75517595949145e-06,3.38073354254815e-09,"BP",FALSE
+"embryonic appendage morphogenesis","GO:0035113","embryonic appendage morphogenesis",4.57112497441302e-05,8.83081225417523e-09,"BP",FALSE
+"embryonic forelimb morphogenesis","GO:0035115","embryonic forelimb morphogenesis",0.00652584597639451,0.00143927500157597,"BP",FALSE
+"embryonic hindlimb morphogenesis","GO:0035116","embryonic hindlimb morphogenesis",0.00128893855020091,7.47722176143497e-06,"BP",FALSE
+"forelimb morphogenesis","GO:0035136","forelimb morphogenesis",0.00725286031840515,0.00548235598265038,"BP",FALSE
+"hindlimb morphogenesis","GO:0035137","hindlimb morphogenesis",0.000675915817904633,1.65871567379918e-06,"BP",FALSE
+"tube formation","GO:0035148","tube formation",0.00162601022761638,3.1697959945991e-09,"BP",FALSE
+"ionotropic glutamate receptor signaling pathway","GO:0035235","ionotropic glutamate receptor signaling pathway",0.000284711539828663,0.0259229609689295,"BP",FALSE
+"tube morphogenesis","GO:0035239","tube morphogenesis",4.7516710322598e-14,5.09786333059463e-15,"BP",FALSE
+"multicellular organism growth","GO:0035264","multicellular organism growth",0.0106982719522106,0.00285693154243368,"BP",FALSE
+"organ growth","GO:0035265","organ growth",2.46924993669572e-05,4.31623137313259e-06,"BP",FALSE
+"endocrine system development","GO:0035270","endocrine system development",0.000409224588677533,5.35182069765504e-05,"BP",FALSE
+"tube development","GO:0035295","tube development",4.15989209269294e-13,5.01693393147398e-18,"BP",FALSE
+"regulation of dephosphorylation","GO:0035303","regulation of dephosphorylation",0.039837935308298,0.0225291990489149,"BP",FALSE
+"hair cell differentiation","GO:0035315","hair cell differentiation",0.00996242797586762,0.0107727376740059,"BP",FALSE
+"peptidyl-tyrosine dephosphorylation","GO:0035335","peptidyl-tyrosine dephosphorylation",0.000375796011612918,0.0135026901299421,"BP",FALSE
+"protein localization to synapse","GO:0035418","protein localization to synapse",1.31462537343079e-06,0.00127869329106421,"BP",FALSE
+"intracellular signal transduction","GO:0035556","intracellular signal transduction",4.25694132954663e-27,3.15519429244792e-05,"BP",FALSE
+"non-canonical Wnt signaling pathway","GO:0035567","non-canonical Wnt signaling pathway",0.0101812611635152,0.00346851303679098,"BP",FALSE
+"protein deacylation","GO:0035601","protein deacylation",0.0257237601270938,0.00275575908392998,"BP",FALSE
+"epithelial cell differentiation involved in kidney development","GO:0035850","epithelial cell differentiation involved in kidney development",0.0300448540428127,1.35561090315736e-05,"BP",FALSE
+"glial cell-derived neurotrophic factor receptor signaling pathway","GO:0035860","glial cell-derived neurotrophic factor receptor signaling pathway",0.0188174402144218,0.00426097592384022,"BP",FALSE
+"aorta development","GO:0035904","aorta development",0.0239293722348184,1.698943618659e-05,"BP",FALSE
+"aorta morphogenesis","GO:0035909","aorta morphogenesis",0.0360689439266596,0.000245502172645045,"BP",FALSE
+"skeletal muscle cell differentiation","GO:0035914","skeletal muscle cell differentiation",0.00100164254725333,0.0128198511462496,"BP",FALSE
+"endodermal cell differentiation","GO:0035987","endodermal cell differentiation",0.0157924091235411,0.0293558318095273,"BP",FALSE
+"protein modification process","GO:0036211","protein modification process",0.00271428632456831,0.00148546328790802,"BP",FALSE
+"somatodendritic compartment","GO:0036477","somatodendritic compartment",1.78166403718565e-16,0.0228135751085221,"CC",FALSE
+"netrin-activated signaling pathway","GO:0038007","netrin-activated signaling pathway",0.0244373565036137,0.00292022789287899,"BP",FALSE
+"p38MAPK cascade","GO:0038066","p38MAPK cascade",0.00113843893865227,0.000683711017692089,"BP",FALSE
+"growth","GO:0040007","growth",3.09524775980448e-11,1.50203861521336e-10,"BP",FALSE
+"regulation of growth","GO:0040008","regulation of growth",4.95619519824092e-06,0.000309442615972665,"BP",FALSE
+"locomotion","GO:0040011","locomotion",7.88213567417438e-27,1.68211969134821e-21,"BP",FALSE
+"regulation of locomotion","GO:0040012","regulation of locomotion",1.68850182124477e-19,1.36688429339843e-10,"BP",FALSE
+"negative regulation of locomotion","GO:0040013","negative regulation of locomotion",2.74367551493764e-08,1.94955076004181e-07,"BP",FALSE
+"positive regulation of locomotion","GO:0040017","positive regulation of locomotion",1.11916013001272e-06,0.000186859935098366,"BP",FALSE
+"regulation of fibroblast growth factor receptor signaling pathway","GO:0040036","regulation of fibroblast growth factor receptor signaling pathway",0.0429681700719556,1.12800584386078e-06,"BP",FALSE
+"wound healing","GO:0042060","wound healing",9.10768471424752e-10,0.000717546527267848,"BP",FALSE
+"gliogenesis","GO:0042063","gliogenesis",1.01801845696498e-07,0.000202363593270178,"BP",FALSE
+"endothelial cell activation","GO:0042118","endothelial cell activation",0.0210367896829004,0.0329685980255929,"BP",FALSE
+"regulation of cell population proliferation","GO:0042127","regulation of cell population proliferation",7.05679109912416e-14,1.34542285606854e-10,"BP",FALSE
+"response to chemical","GO:0042221","response to chemical",1.91728384646794e-25,1.81256486679464e-05,"BP",FALSE
+"tissue regeneration","GO:0042246","tissue regeneration",0.000755611524273644,0.0035722999833831,"BP",FALSE
+"regulation of phosphorylation","GO:0042325","regulation of phosphorylation",3.65714272457417e-08,5.22221473052663e-06,"BP",FALSE
+"negative regulation of phosphorylation","GO:0042326","negative regulation of phosphorylation",0.000107183675838507,5.15336593888016e-07,"BP",FALSE
+"positive regulation of phosphorylation","GO:0042327","positive regulation of phosphorylation",1.23296105057652e-09,0.00561986308713079,"BP",FALSE
+"taxis","GO:0042330","taxis",6.94450499380759e-08,5.06132583665574e-09,"BP",FALSE
+"sarcolemma","GO:0042383","sarcolemma",3.75613236961519e-05,0.00653794411201017,"CC",FALSE
+"ear morphogenesis","GO:0042471","ear morphogenesis",1.23748802221277e-05,3.32495060754138e-07,"BP",FALSE
+"inner ear morphogenesis","GO:0042472","inner ear morphogenesis",4.31340363167274e-05,3.31448277880792e-07,"BP",FALSE
+"odontogenesis of dentin-containing tooth","GO:0042475","odontogenesis of dentin-containing tooth",0.000371470670294581,0.00901249874422166,"BP",FALSE
+"odontogenesis","GO:0042476","odontogenesis",4.31290733175515e-06,0.0165799861193212,"BP",FALSE
+"mechanoreceptor differentiation","GO:0042490","mechanoreceptor differentiation",0.000530716484506343,0.0387083451776584,"BP",FALSE
+"myelination","GO:0042552","myelination",5.54213563440728e-05,0.0191283149520589,"BP",FALSE
+"actomyosin","GO:0042641","actomyosin",6.77959844863773e-06,5.18285097971212e-05,"CC",FALSE
+"regulation of cell fate specification","GO:0042659","regulation of cell fate specification",0.0033642188405172,0.0220884937698278,"BP",FALSE
+"muscle cell differentiation","GO:0042692","muscle cell differentiation",9.63261912945311e-20,0.00300364330462361,"BP",FALSE
+"histone deacetylase binding","GO:0042826","histone deacetylase binding",6.67161001416477e-05,0.00019896931769279,"MF",FALSE
+"regulation of apoptotic process","GO:0042981","regulation of apoptotic process",2.48885687182886e-11,2.34561463455635e-06,"BP",FALSE
+"chordate embryonic development","GO:0043009","chordate embryonic development",1.80150216451398e-08,9.46364652001185e-13,"BP",FALSE
+"camera-type eye development","GO:0043010","camera-type eye development",2.54444324491767e-05,6.90207180095405e-09,"BP",FALSE
+"costamere","GO:0043034","costamere",0.0015071850539393,0.000353108019480874,"CC",FALSE
+"otic placode formation","GO:0043049","otic placode formation",0.0124996494360416,0.000141183632975321,"BP",FALSE
+"extracellular structure organization","GO:0043062","extracellular structure organization",2.27314253685034e-07,0.0173969695376239,"BP",FALSE
+"positive regulation of apoptotic process","GO:0043065","positive regulation of apoptotic process",6.24186324341485e-07,3.34188949476493e-05,"BP",FALSE
+"negative regulation of apoptotic process","GO:0043066","negative regulation of apoptotic process",8.80680356665249e-08,9.28354073811401e-05,"BP",FALSE
+"regulation of programmed cell death","GO:0043067","regulation of programmed cell death",4.202010779938e-11,2.11878068926955e-06,"BP",FALSE
+"positive regulation of programmed cell death","GO:0043068","positive regulation of programmed cell death",1.08686628683999e-06,3.28744210899658e-05,"BP",FALSE
+"negative regulation of programmed cell death","GO:0043069","negative regulation of programmed cell death",5.58578764293269e-08,7.72523661347275e-05,"BP",FALSE
+"positive regulation of catalytic activity","GO:0043085","positive regulation of catalytic activity",3.13477689577824e-11,0.0142137648010835,"BP",FALSE
+"negative regulation of catalytic activity","GO:0043086","negative regulation of catalytic activity",0.0134160841475256,0.00887549583911561,"BP",FALSE
+"regulation of GTPase activity","GO:0043087","regulation of GTPase activity",2.14972720138669e-07,0.00077559866512147,"BP",FALSE
+"receptor metabolic process","GO:0043112","receptor metabolic process",0.000479653356000667,0.0332147595298657,"BP",FALSE
+"receptor clustering","GO:0043113","receptor clustering",0.0137616540906029,0.0159043664668693,"BP",FALSE
+"ErbB-3 class receptor binding","GO:0043125","ErbB-3 class receptor binding",0.0262968059474727,0.0198543202885512,"MF",FALSE
+"stress fiber assembly","GO:0043149","stress fiber assembly",1.23623089138577e-07,0.00116420706572487,"BP",FALSE
+"dendritic spine","GO:0043197","dendritic spine",4.1549787579561e-16,0.0175771278100939,"CC",FALSE
+"dendritic shaft","GO:0043198","dendritic shaft",0.0164139080023202,0.0429912100915865,"CC",FALSE
+"receptor complex","GO:0043235","receptor complex",3.15268864508815e-17,0.00853485397224889,"CC",FALSE
+"regulation of protein-containing complex disassembly","GO:0043244","regulation of protein-containing complex disassembly",0.0383248063940967,0.0491514521359131,"BP",FALSE
+"regulation of protein-containing complex assembly","GO:0043254","regulation of protein-containing complex assembly",0.0119915791239471,0.0354709896155136,"BP",FALSE
+"apical junction complex","GO:0043296","apical junction complex",0.0126350878522431,0.0205418315634795,"CC",FALSE
+"steroid hormone mediated signaling pathway","GO:0043401","steroid hormone mediated signaling pathway",0.00231360202336528,2.24187901906513e-05,"BP",FALSE
+"regulation of MAP kinase activity","GO:0043405","regulation of MAP kinase activity",2.1085142436144e-08,0.034314666206042,"BP",FALSE
+"regulation of MAPK cascade","GO:0043408","regulation of MAPK cascade",0.000657212892582366,0.0150603899467029,"BP",FALSE
+"negative regulation of MAPK cascade","GO:0043409","negative regulation of MAPK cascade",0.0274426971222808,0.01611165934735,"BP",FALSE
+"response to peptide hormone","GO:0043434","response to peptide hormone",5.09022378126836e-07,0.0357372077564721,"BP",FALSE
+"protein kinase B signaling","GO:0043491","protein kinase B signaling",0.000467292753525917,0.00143333736568627,"BP",FALSE
+"muscle adaptation","GO:0043500","muscle adaptation",1.2817221331644e-06,0.00618158739462587,"BP",FALSE
+"regulation of muscle adaptation","GO:0043502","regulation of muscle adaptation",1.80753880067683e-06,0.00415222208815266,"BP",FALSE
+"regulation of JUN kinase activity","GO:0043506","regulation of JUN kinase activity",0.000720805964850338,0.0194048767574101,"BP",FALSE
+"positive regulation of JUN kinase activity","GO:0043507","positive regulation of JUN kinase activity",0.00264721258423667,0.00708085200308912,"BP",FALSE
+"regulation of neuron apoptotic process","GO:0043523","regulation of neuron apoptotic process",0.00930406934951152,0.0116497399308115,"BP",FALSE
+"positive regulation of neuron apoptotic process","GO:0043525","positive regulation of neuron apoptotic process",0.010756354769621,0.0140155866961116,"BP",FALSE
+"blood vessel endothelial cell migration","GO:0043534","blood vessel endothelial cell migration",0.00371194803152179,0.00216256879571967,"BP",FALSE
+"regulation of blood vessel endothelial cell migration","GO:0043535","regulation of blood vessel endothelial cell migration",0.000367573692589477,0.00824610551711153,"BP",FALSE
+"negative regulation of blood vessel endothelial cell migration","GO:0043537","negative regulation of blood vessel endothelial cell migration",0.014465797080934,0.0218209341110023,"BP",FALSE
+"endothelial cell migration","GO:0043542","endothelial cell migration",8.7470151586886e-08,1.38255123111309e-06,"BP",FALSE
+"positive regulation of GTPase activity","GO:0043547","positive regulation of GTPase activity",1.63704644634616e-07,0.00748826420323255,"BP",FALSE
+"regulation of kinase activity","GO:0043549","regulation of kinase activity",9.01480256659308e-10,8.14803760645103e-05,"BP",FALSE
+"sequence-specific DNA binding","GO:0043565","sequence-specific DNA binding",6.53953180399948e-06,9.6044427884017e-21,"MF",FALSE
+"ear development","GO:0043583","ear development",3.81125843796968e-07,8.24411102522026e-10,"BP",FALSE
+"nose development","GO:0043584","nose development",0.0413935692794399,0.0399963354407748,"BP",FALSE
+"skin development","GO:0043588","skin development",0.00404843132162869,3.46395052986902e-06,"BP",FALSE
+"negative regulation of cAMP-mediated signaling","GO:0043951","negative regulation of cAMP-mediated signaling",0.00611907661143003,0.0252639011159817,"BP",FALSE
+"cellular component maintenance","GO:0043954","cellular component maintenance",0.00251209499991036,0.00381534728591685,"BP",FALSE
+"regulation of cellular component biogenesis","GO:0044087","regulation of cellular component biogenesis",5.49225753527897e-11,0.000353816660941654,"BP",FALSE
+"positive regulation of cellular component biogenesis","GO:0044089","positive regulation of cellular component biogenesis",2.91433443166267e-08,0.0299320523450004,"BP",FALSE
+"membrane biogenesis","GO:0044091","membrane biogenesis",0.00716501137520508,0.0124305320581761,"BP",FALSE
+"negative regulation of molecular function","GO:0044092","negative regulation of molecular function",0.00291819768303111,0.0044699547011727,"BP",FALSE
+"positive regulation of molecular function","GO:0044093","positive regulation of molecular function",5.56674088321091e-11,0.00100696495672919,"BP",FALSE
+"cellular polysaccharide metabolic process","GO:0044264","cellular polysaccharide metabolic process",0.016021695727019,0.0474320157697658,"BP",FALSE
+"cell-cell contact zone","GO:0044291","cell-cell contact zone",0.00103699734279961,0.00235837803800065,"CC",FALSE
+"neuron spine","GO:0044309","neuron spine",2.86404632304507e-16,0.0215792244140817,"CC",FALSE
+"wound healing, spreading of cells","GO:0044319","wound healing, spreading of cells",0.00966882979265829,0.0427504290332726,"BP",FALSE
+"cellular response to fibroblast growth factor stimulus","GO:0044344","cellular response to fibroblast growth factor stimulus",0.0461845539700793,7.08539348635977e-07,"BP",FALSE
+"multi-multicellular organism process","GO:0044706","multi-multicellular organism process",0.00298315613904873,0.0488807786785868,"BP",FALSE
+"plasma membrane raft","GO:0044853","plasma membrane raft",2.15861575454211e-05,0.0026637761413483,"CC",FALSE
+"membrane raft","GO:0045121","membrane raft",1.54401924016104e-10,0.000424601601034997,"CC",FALSE
+"cell fate commitment","GO:0045165","cell fate commitment",9.95145820741201e-10,8.89187925060311e-12,"BP",FALSE
+"synapse","GO:0045202","synapse",5.38983675752283e-37,0.000378929324029274,"CC",FALSE
+"postsynaptic membrane","GO:0045211","postsynaptic membrane",2.50235608575448e-21,0.00328299447845851,"CC",FALSE
+"cell-cell junction organization","GO:0045216","cell-cell junction organization",0.000260222157888356,0.00131218837386872,"BP",FALSE
+"cell-cell junction maintenance","GO:0045217","cell-cell junction maintenance",0.0191742758714869,0.02326985207707,"BP",FALSE
+"cadherin binding","GO:0045296","cadherin binding",5.88366637952572e-06,0.0225545268807612,"MF",FALSE
+"fat cell differentiation","GO:0045444","fat cell differentiation",2.20795847613995e-06,2.08511150057904e-06,"BP",FALSE
+"myoblast differentiation","GO:0045445","myoblast differentiation",3.49419678908219e-05,0.033239063993448,"BP",FALSE
+"endothelial cell differentiation","GO:0045446","endothelial cell differentiation",4.29335813978014e-06,0.00740431101522241,"BP",FALSE
+"regulation of cell differentiation","GO:0045595","regulation of cell differentiation",4.07872207154664e-32,4.24372359317293e-20,"BP",FALSE
+"negative regulation of cell differentiation","GO:0045596","negative regulation of cell differentiation",3.56201787694209e-13,2.64921432634117e-16,"BP",FALSE
+"positive regulation of cell differentiation","GO:0045597","positive regulation of cell differentiation",1.59737284854737e-18,2.12583842637591e-11,"BP",FALSE
+"regulation of fat cell differentiation","GO:0045598","regulation of fat cell differentiation",0.00115428860964191,8.0370647240269e-05,"BP",TRUE
+"positive regulation of fat cell differentiation","GO:0045600","positive regulation of fat cell differentiation",0.0299316211920769,7.32284862351341e-05,"BP",TRUE
+"regulation of epidermal cell differentiation","GO:0045604","regulation of epidermal cell differentiation",0.015225875805623,0.00102737935223227,"BP",FALSE
+"negative regulation of epidermal cell differentiation","GO:0045605","negative regulation of epidermal cell differentiation",0.0172182846565601,0.0146962037228359,"BP",FALSE
+"regulation of myeloid cell differentiation","GO:0045637","regulation of myeloid cell differentiation",0.000300051038947754,0.0210004403751091,"BP",FALSE
+"positive regulation of myeloid cell differentiation","GO:0045639","positive regulation of myeloid cell differentiation",0.0077951808690208,0.00690431755469934,"BP",FALSE
+"regulation of erythrocyte differentiation","GO:0045646","regulation of erythrocyte differentiation",0.000123627309116044,0.00315862605930906,"BP",FALSE
+"regulation of myoblast differentiation","GO:0045661","regulation of myoblast differentiation",0.000178008893860187,0.00402322452308219,"BP",FALSE
+"regulation of neuron differentiation","GO:0045664","regulation of neuron differentiation",1.79668247566869e-17,1.219930312581e-13,"BP",FALSE
+"negative regulation of neuron differentiation","GO:0045665","negative regulation of neuron differentiation",6.13702046679383e-07,1.07472939780665e-11,"BP",FALSE
+"positive regulation of neuron differentiation","GO:0045666","positive regulation of neuron differentiation",5.95645903533237e-09,1.07035719270004e-05,"BP",FALSE
+"regulation of osteoblast differentiation","GO:0045667","regulation of osteoblast differentiation",2.09815764262813e-05,4.6347675487323e-06,"BP",FALSE
+"regulation of epidermis development","GO:0045682","regulation of epidermis development",0.00184941714945452,0.000211689485508872,"BP",FALSE
+"negative regulation of epidermis development","GO:0045683","negative regulation of epidermis development",0.00782392000447204,0.02326985207707,"BP",FALSE
+"regulation of glial cell differentiation","GO:0045685","regulation of glial cell differentiation",0.00542911057766721,0.00373789574054824,"BP",FALSE
+"negative regulation of glial cell differentiation","GO:0045686","negative regulation of glial cell differentiation",0.000977795424914655,0.000817985910376587,"BP",FALSE
+"positive regulation of glial cell differentiation","GO:0045687","positive regulation of glial cell differentiation",0.0410107174156628,0.0377139695895062,"BP",FALSE
+"positive regulation of glycogen biosynthetic process","GO:0045725","positive regulation of glycogen biosynthetic process",0.0398178288723573,0.00106941130792307,"BP",FALSE
+"positive regulation of Notch signaling pathway","GO:0045747","positive regulation of Notch signaling pathway",0.000954447585616512,0.00162590834385176,"BP",FALSE
+"regulation of angiogenesis","GO:0045765","regulation of angiogenesis",1.59689006187654e-09,0.0150395860311673,"BP",FALSE
+"positive regulation of glycolytic process","GO:0045821","positive regulation of glycolytic process",0.00287599808932475,0.00629981519629547,"BP",FALSE
+"positive regulation of striated muscle tissue development","GO:0045844","positive regulation of striated muscle tissue development",2.85694095508777e-05,0.000222929173091189,"BP",FALSE
+"regulation of protein kinase activity","GO:0045859","regulation of protein kinase activity",7.35187473487176e-12,0.00120369054266238,"BP",FALSE
+"positive regulation of protein kinase activity","GO:0045860","positive regulation of protein kinase activity",3.59751227073322e-15,0.0113072569334277,"BP",FALSE
+"negative regulation of transcription, DNA-templated","GO:0045892","negative regulation of transcription, DNA-templated",7.26382354551055e-11,5.89151865249505e-20,"BP",FALSE
+"positive regulation of transcription, DNA-templated","GO:0045893","positive regulation of transcription, DNA-templated",5.91652035691805e-16,2.62853802448806e-21,"BP",FALSE
+"negative regulation of growth","GO:0045926","negative regulation of growth",0.00587920145377806,0.000323351656892318,"BP",FALSE
+"negative regulation of nucleobase-containing compound metabolic process","GO:0045934","negative regulation of nucleobase-containing compound metabolic process",1.77827661927296e-07,5.20173390260162e-20,"BP",FALSE
+"positive regulation of nucleobase-containing compound metabolic process","GO:0045935","positive regulation of nucleobase-containing compound metabolic process",9.53677935084356e-13,4.3562911224107e-22,"BP",FALSE
+"negative regulation of phosphate metabolic process","GO:0045936","negative regulation of phosphate metabolic process",2.56381823121959e-05,3.75561114801457e-07,"BP",FALSE
+"positive regulation of phosphate metabolic process","GO:0045937","positive regulation of phosphate metabolic process",4.60883451175265e-10,0.0168524591440851,"BP",FALSE
+"positive regulation of transcription by RNA polymerase II","GO:0045944","positive regulation of transcription by RNA polymerase II",9.8545135239597e-21,5.18881949839159e-25,"BP",FALSE
+"positive regulation of nucleotide metabolic process","GO:0045981","positive regulation of nucleotide metabolic process",0.00371836785180492,0.0263372058247855,"BP",FALSE
+"negative regulation of embryonic development","GO:0045992","negative regulation of embryonic development",0.00187972659043445,0.00112345813759278,"BP",FALSE
+"regulation of embryonic development","GO:0045995","regulation of embryonic development",4.952192030272e-05,0.000519137330229355,"BP",FALSE
+"positive regulation of fatty acid oxidation","GO:0046321","positive regulation of fatty acid oxidation",0.022896701386502,0.0187342139822502,"BP",TRUE
+"glucose import","GO:0046323","glucose import",0.0190146677547631,0.00303225994726554,"BP",FALSE
+"regulation of glucose import","GO:0046324","regulation of glucose import",0.0381941270896262,0.00123092296497247,"BP",FALSE
+"negative regulation of glucose import","GO:0046325","negative regulation of glucose import",0.0285552925263909,0.0221794471296292,"BP",FALSE
+"regulation of JNK cascade","GO:0046328","regulation of JNK cascade",0.0147212633076282,0.019899144815131,"BP",FALSE
+"positive regulation of JNK cascade","GO:0046330","positive regulation of JNK cascade",0.0119196818982584,0.0277546303347047,"BP",FALSE
+"SMAD binding","GO:0046332","SMAD binding",0.000658886352037936,1.54928549573087e-07,"MF",FALSE
+"regulation of photoreceptor cell differentiation","GO:0046532","regulation of photoreceptor cell differentiation",0.00266762166387505,0.0243558447722977,"BP",FALSE
+"regulation of Ras protein signal transduction","GO:0046578","regulation of Ras protein signal transduction",0.000208582959939516,0.00830231993596761,"BP",FALSE
+"negative regulation of Ras protein signal transduction","GO:0046580","negative regulation of Ras protein signal transduction",0.0100557309827687,0.0171006511709401,"BP",FALSE
+"regulation of organ growth","GO:0046620","regulation of organ growth",0.00669869640647934,6.50394205073178e-05,"BP",FALSE
+"positive regulation of organ growth","GO:0046622","positive regulation of organ growth",0.00521301851641592,0.000408795104890842,"BP",FALSE
+"regulation of insulin receptor signaling pathway","GO:0046626","regulation of insulin receptor signaling pathway",0.0338440038554197,0.0259564077969238,"BP",FALSE
+"negative regulation of insulin receptor signaling pathway","GO:0046627","negative regulation of insulin receptor signaling pathway",0.0403004806441481,0.00311515357258837,"BP",FALSE
+"female sex differentiation","GO:0046660","female sex differentiation",0.00677936407915836,0.0252670306665145,"BP",FALSE
+"negative regulation of insulin secretion","GO:0046676","negative regulation of insulin secretion",0.00356093804636498,0.0456133029535276,"BP",FALSE
+"protein autophosphorylation","GO:0046777","protein autophosphorylation",0.00241916131175212,0.0163883570990158,"BP",FALSE
+"filopodium assembly","GO:0046847","filopodium assembly",0.00626959709663673,0.000889406585810294,"BP",FALSE
+"retinoid X receptor binding","GO:0046965","retinoid X receptor binding",0.0402556358796538,0.0148253216973452,"MF",FALSE
+"platelet-derived growth factor receptor signaling pathway","GO:0048008","platelet-derived growth factor receptor signaling pathway",0.0049103377003103,0.00120211838231621,"BP",FALSE
+"vascular endothelial growth factor receptor signaling pathway","GO:0048010","vascular endothelial growth factor receptor signaling pathway",4.65183903002474e-06,0.00564027063115762,"BP",FALSE
+"phosphatidylinositol-mediated signaling","GO:0048015","phosphatidylinositol-mediated signaling",0.00130304879511169,3.2506781384542e-05,"BP",FALSE
+"inositol phosphate-mediated signaling","GO:0048016","inositol phosphate-mediated signaling",0.000153776202379816,0.0263372058247855,"BP",FALSE
+"inositol lipid-mediated signaling","GO:0048017","inositol lipid-mediated signaling",0.001437240646714,1.3696438458461e-05,"BP",TRUE
+"focal adhesion assembly","GO:0048041","focal adhesion assembly",2.2129421510333e-09,0.000971093213423303,"BP",FALSE
+"embryonic eye morphogenesis","GO:0048048","embryonic eye morphogenesis",0.000521895868176835,3.04201967104453e-10,"BP",FALSE
+"regulation of synaptic plasticity","GO:0048167","regulation of synaptic plasticity",1.37578866524537e-11,0.0378092128406694,"BP",FALSE
+"mesoderm morphogenesis","GO:0048332","mesoderm morphogenesis",0.00163587375049307,7.69279998564897e-05,"BP",FALSE
+"mesodermal cell differentiation","GO:0048333","mesodermal cell differentiation",0.000172779373048831,0.00426621951666311,"BP",FALSE
+"cell development","GO:0048468","cell development",1.13712483602872e-38,2.40639119064273e-22,"BP",FALSE
+"cell maturation","GO:0048469","cell maturation",0.0110992836443977,4.15968442902336e-06,"BP",FALSE
+"rhythmic process","GO:0048511","rhythmic process",9.88672809865826e-09,0.0227221998102302,"BP",FALSE
+"animal organ development","GO:0048513","animal organ development",1.098017438193e-28,5.24818040609328e-23,"BP",FALSE
+"blood vessel morphogenesis","GO:0048514","blood vessel morphogenesis",1.1227813678288e-18,8.20413064198884e-10,"BP",FALSE
+"positive regulation of biological process","GO:0048518","positive regulation of biological process",3.15485031648193e-34,3.80599683484699e-19,"BP",FALSE
+"negative regulation of biological process","GO:0048519","negative regulation of biological process",5.43240185263499e-17,7.25371452481512e-19,"BP",FALSE
+"positive regulation of cellular process","GO:0048522","positive regulation of cellular process",9.8821285274159e-35,3.1109539491443e-19,"BP",FALSE
+"negative regulation of cellular process","GO:0048523","negative regulation of cellular process",2.96099258683069e-22,4.77679177562445e-24,"BP",FALSE
+"hematopoietic or lymphoid organ development","GO:0048534","hematopoietic or lymphoid organ development",2.74447050072219e-07,0.0132011972185243,"BP",FALSE
+"response to steroid hormone","GO:0048545","response to steroid hormone",5.88031228291952e-05,1.68260189549543e-05,"BP",FALSE
+"embryonic organ morphogenesis","GO:0048562","embryonic organ morphogenesis",8.99264924532682e-08,2.27462174477814e-15,"BP",FALSE
+"digestive tract development","GO:0048565","digestive tract development",0.0267805304358232,0.000105806190331329,"BP",FALSE
+"embryonic organ development","GO:0048568","embryonic organ development",8.94989166281437e-08,1.37987479518289e-16,"BP",FALSE
+"regulation of response to stimulus","GO:0048583","regulation of response to stimulus",1.09037562168356e-21,2.03892378518266e-07,"BP",FALSE
+"positive regulation of response to stimulus","GO:0048584","positive regulation of response to stimulus",5.94698474586727e-12,0.0174893364795782,"BP",FALSE
+"negative regulation of response to stimulus","GO:0048585","negative regulation of response to stimulus",6.0921100129332e-07,1.50615473380228e-10,"BP",FALSE
+"developmental cell growth","GO:0048588","developmental cell growth",7.38546071473872e-05,4.31173574581007e-06,"BP",FALSE
+"developmental growth","GO:0048589","developmental growth",5.81665660935601e-11,4.21609676109717e-13,"BP",FALSE
+"eye morphogenesis","GO:0048592","eye morphogenesis",4.61824394304699e-07,1.56918389303818e-08,"BP",FALSE
+"camera-type eye morphogenesis","GO:0048593","camera-type eye morphogenesis",9.91820291033e-06,1.26858224317779e-08,"BP",FALSE
+"embryonic camera-type eye morphogenesis","GO:0048596","embryonic camera-type eye morphogenesis",0.00137411736014228,4.54065718931244e-08,"BP",FALSE
+"embryonic morphogenesis","GO:0048598","embryonic morphogenesis",9.26164696376378e-13,1.38271815583265e-20,"BP",FALSE
+"reproductive structure development","GO:0048608","reproductive structure development",1.21139724127308e-08,1.00913373751446e-06,"BP",FALSE
+"regulation of muscle organ development","GO:0048634","regulation of muscle organ development",2.29477583909901e-06,0.000890726788695417,"BP",FALSE
+"positive regulation of muscle organ development","GO:0048636","positive regulation of muscle organ development",4.28539115986588e-05,0.000119502199398862,"BP",FALSE
+"regulation of developmental growth","GO:0048638","regulation of developmental growth",9.3928027269198e-06,8.79210490176097e-06,"BP",FALSE
+"negative regulation of developmental growth","GO:0048640","negative regulation of developmental growth",0.0265970433527552,4.90863791702387e-06,"BP",FALSE
+"muscle organ morphogenesis","GO:0048644","muscle organ morphogenesis",0.00215216185274431,0.0256447386939916,"BP",FALSE
+"animal organ formation","GO:0048645","animal organ formation",0.00730897613860931,1.42219912833249e-05,"BP",FALSE
+"anatomical structure formation involved in morphogenesis","GO:0048646","anatomical structure formation involved in morphogenesis",1.84464151838085e-26,1.96170362584117e-15,"BP",FALSE
+"smooth muscle cell proliferation","GO:0048659","smooth muscle cell proliferation",1.62764385207792e-07,0.0214890224231942,"BP",FALSE
+"regulation of smooth muscle cell proliferation","GO:0048660","regulation of smooth muscle cell proliferation",3.3221031266258e-07,0.0151457191914211,"BP",FALSE
+"neuron fate commitment","GO:0048663","neuron fate commitment",0.00200783474760493,3.76213521110785e-05,"BP",FALSE
+"neuron fate specification","GO:0048665","neuron fate specification",0.00958700604050547,0.00477736159373924,"BP",FALSE
+"neuron development","GO:0048666","neuron development",8.28180459556147e-25,4.18660844687717e-21,"BP",FALSE
+"cell morphogenesis involved in neuron differentiation","GO:0048667","cell morphogenesis involved in neuron differentiation",1.83218113654895e-16,1.89679818645411e-21,"BP",FALSE
+"axon extension","GO:0048675","axon extension",0.000874385748081926,7.7691449747729e-05,"BP",FALSE
+"regulation of axon regeneration","GO:0048679","regulation of axon regeneration",0.00228802120568801,0.0219998168768233,"BP",FALSE
+"negative regulation of axon regeneration","GO:0048681","negative regulation of axon regeneration",0.0398178288723573,0.0420191503683301,"BP",FALSE
+"generation of neurons","GO:0048699","generation of neurons",2.59797311945548e-33,2.32355111293897e-29,"BP",FALSE
+"embryonic cranial skeleton morphogenesis","GO:0048701","embryonic cranial skeleton morphogenesis",0.00180042553735465,0.000943927081628299,"BP",FALSE
+"embryonic viscerocranium morphogenesis","GO:0048703","embryonic viscerocranium morphogenesis",0.0416016183944502,0.00429393125165598,"BP",FALSE
+"embryonic skeletal system morphogenesis","GO:0048704","embryonic skeletal system morphogenesis",0.000534309861112273,1.6469827247723e-05,"BP",FALSE
+"skeletal system morphogenesis","GO:0048705","skeletal system morphogenesis",3.64869368136631e-06,5.92062579836781e-10,"BP",FALSE
+"embryonic skeletal system development","GO:0048706","embryonic skeletal system development",1.59250630591422e-05,5.1136895294424e-05,"BP",FALSE
+"astrocyte differentiation","GO:0048708","astrocyte differentiation",0.00169834699621152,0.000560335406321967,"BP",FALSE
+"oligodendrocyte differentiation","GO:0048709","oligodendrocyte differentiation",0.000483704424587737,0.0126676897124731,"BP",FALSE
+"regulation of oligodendrocyte differentiation","GO:0048713","regulation of oligodendrocyte differentiation",0.0102609128768751,0.00960706076502775,"BP",FALSE
+"negative regulation of oligodendrocyte differentiation","GO:0048715","negative regulation of oligodendrocyte differentiation",0.0267157179012628,0.00338057002826469,"BP",FALSE
+"tissue morphogenesis","GO:0048729","tissue morphogenesis",8.08668091379769e-06,2.13731713293946e-12,"BP",FALSE
+"system development","GO:0048731","system development",2.52925159926723e-44,3.01262236401393e-34,"BP",FALSE
+"gland development","GO:0048732","gland development",0.000224850473685134,4.97285075728792e-09,"BP",FALSE
+"appendage development","GO:0048736","appendage development",0.000485393146269302,1.18968440257423e-08,"BP",FALSE
+"cardiac muscle tissue development","GO:0048738","cardiac muscle tissue development",4.55663127215513e-08,0.00286164394475052,"BP",FALSE
+"smooth muscle tissue development","GO:0048745","smooth muscle tissue development",0.0141585977154141,0.00241133673706682,"BP",FALSE
+"mesenchymal cell differentiation","GO:0048762","mesenchymal cell differentiation",0.00252188801124896,5.09043406971828e-13,"BP",FALSE
+"presynaptic active zone","GO:0048786","presynaptic active zone",0.000217510844539424,0.0307348234735554,"CC",FALSE
+"neuron projection morphogenesis","GO:0048812","neuron projection morphogenesis",2.37860002805221e-16,4.61050789445702e-21,"BP",FALSE
+"dendrite morphogenesis","GO:0048813","dendrite morphogenesis",2.50904841184839e-07,0.00297778614992597,"BP",FALSE
+"regulation of dendrite morphogenesis","GO:0048814","regulation of dendrite morphogenesis",0.000195758999935735,0.0305970791904257,"BP",FALSE
+"inner ear development","GO:0048839","inner ear development",3.420121552724e-06,2.35358744931939e-09,"BP",FALSE
+"artery morphogenesis","GO:0048844","artery morphogenesis",0.0079626308643109,1.52785897958176e-05,"BP",FALSE
+"venous blood vessel morphogenesis","GO:0048845","venous blood vessel morphogenesis",0.0162941829899653,0.00236755527233857,"BP",FALSE
+"brain morphogenesis","GO:0048854","brain morphogenesis",0.0166812843434373,0.0449407246792332,"BP",FALSE
+"anatomical structure development","GO:0048856","anatomical structure development",6.11931212801071e-48,3.23883362370263e-32,"BP",FALSE
+"cell projection morphogenesis","GO:0048858","cell projection morphogenesis",2.8183899994909e-16,5.17912737123189e-22,"BP",FALSE
+"formation of anatomical boundary","GO:0048859","formation of anatomical boundary",0.038556372843973,0.0250962926666452,"BP",FALSE
+"stem cell differentiation","GO:0048863","stem cell differentiation",0.00345192104173687,2.93823620970163e-12,"BP",FALSE
+"cellular developmental process","GO:0048869","cellular developmental process",8.16171262428197e-51,2.98506722324899e-26,"BP",FALSE
+"cell motility","GO:0048870","cell motility",1.04330571574346e-27,1.19547884060447e-16,"BP",FALSE
+"homeostasis of number of cells","GO:0048872","homeostasis of number of cells",0.0010501697899016,0.0253572038067706,"BP",FALSE
+"homeostasis of number of cells within a tissue","GO:0048873","homeostasis of number of cells within a tissue",0.00705609997567951,0.0202073777478075,"BP",FALSE
+"sensory system development","GO:0048880","sensory system development",4.57491498985983e-08,7.12969709065047e-11,"BP",FALSE
+"mechanosensory lateral line system development","GO:0048881","mechanosensory lateral line system development",0.00187738426617587,0.00841457907911194,"BP",FALSE
+"lateral line development","GO:0048882","lateral line development",0.00445208963814493,0.00381534728591685,"BP",FALSE
+"posterior lateral line system development","GO:0048915","posterior lateral line system development",0.00371836785180492,0.00298106096065374,"BP",FALSE
+"posterior lateral line development","GO:0048916","posterior lateral line development",0.00163581047540234,0.00220188751129732,"BP",FALSE
+"posterior lateral line neuromast development","GO:0048919","posterior lateral line neuromast development",0.00560210758645641,0.0270435095137479,"BP",FALSE
+"lateral line system development","GO:0048925","lateral line system development",0.00514833910907581,0.00451817454702728,"BP",FALSE
+"epithelial cell proliferation","GO:0050673","epithelial cell proliferation",5.1584182349389e-06,1.11009002720923e-06,"BP",FALSE
+"regulation of epithelial cell proliferation","GO:0050678","regulation of epithelial cell proliferation",3.37152592140971e-05,2.33742257156136e-06,"BP",FALSE
+"positive regulation of epithelial cell proliferation","GO:0050679","positive regulation of epithelial cell proliferation",3.88764698578693e-06,4.65551746021096e-05,"BP",FALSE
+"negative regulation of protein secretion","GO:0050709","negative regulation of protein secretion",0.00956897520913035,0.0459293932468626,"BP",FALSE
+"regulation of neurogenesis","GO:0050767","regulation of neurogenesis",1.01876196857983e-21,3.04448574615438e-16,"BP",FALSE
+"negative regulation of neurogenesis","GO:0050768","negative regulation of neurogenesis",3.91819357720612e-08,2.93840225727004e-13,"BP",FALSE
+"positive regulation of neurogenesis","GO:0050769","positive regulation of neurogenesis",5.99129416658119e-12,2.31426856687247e-08,"BP",FALSE
+"regulation of axonogenesis","GO:0050770","regulation of axonogenesis",0.00159691772034192,8.58633198929577e-07,"BP",FALSE
+"positive regulation of axonogenesis","GO:0050772","positive regulation of axonogenesis",0.00312501241271698,0.0256356028460303,"BP",FALSE
+"regulation of dendrite development","GO:0050773","regulation of dendrite development",5.56828939249389e-09,0.00350972267914861,"BP",FALSE
+"regulation of biological process","GO:0050789","regulation of biological process",2.12745128803763e-35,2.87762342622826e-12,"BP",FALSE
+"regulation of catalytic activity","GO:0050790","regulation of catalytic activity",3.3613646400453e-13,0.0280828424541728,"BP",FALSE
+"regulation of developmental process","GO:0050793","regulation of developmental process",1.78258215325213e-40,1.60506780485225e-22,"BP",FALSE
+"regulation of cellular process","GO:0050794","regulation of cellular process",3.6474772608101e-38,2.03221343144735e-15,"BP",FALSE
+"regulation of synapse structure or activity","GO:0050803","regulation of synapse structure or activity",2.43771004002112e-12,8.29776316868905e-05,"BP",FALSE
+"modulation of chemical synaptic transmission","GO:0050804","modulation of chemical synaptic transmission",3.81779424693667e-18,0.00162876430891089,"BP",FALSE
+"negative regulation of synaptic transmission","GO:0050805","negative regulation of synaptic transmission",6.98772798934278e-05,0.0364077240611673,"BP",FALSE
+"positive regulation of synaptic transmission","GO:0050806","positive regulation of synaptic transmission",2.04865692644903e-06,0.00550301494990856,"BP",FALSE
+"regulation of synapse organization","GO:0050807","regulation of synapse organization",8.88932472798206e-12,3.60170435418555e-05,"BP",FALSE
+"synapse organization","GO:0050808","synapse organization",1.47748752639086e-19,7.07168903789023e-08,"BP",FALSE
+"cell adhesion molecule binding","GO:0050839","cell adhesion molecule binding",2.15116132017056e-07,0.024451929232264,"MF",FALSE
+"brown fat cell differentiation","GO:0050873","brown fat cell differentiation",0.00522029796092808,0.0171006511709401,"BP",TRUE
+"cognition","GO:0050890","cognition",1.75622792718915e-09,0.00102581812349347,"BP",FALSE
+"response to stimulus","GO:0050896","response to stimulus",7.5801394752909e-50,1.63545267051343e-07,"BP",FALSE
+"actin filament bundle assembly","GO:0051017","actin filament bundle assembly",4.60000100217499e-12,0.000706888898110598,"BP",FALSE
+"negative regulation of secretion","GO:0051048","negative regulation of secretion",0.00041535095933746,0.023547817230738,"BP",FALSE
+"negative regulation of transport","GO:0051051","negative regulation of transport",2.52312585218019e-06,0.0398530309317822,"BP",FALSE
+"regulation of small GTPase mediated signal transduction","GO:0051056","regulation of small GTPase mediated signal transduction",2.44779490871188e-08,0.00109386701840958,"BP",FALSE
+"negative regulation of small GTPase mediated signal transduction","GO:0051058","negative regulation of small GTPase mediated signal transduction",0.00373802945392295,0.00564553097691323,"BP",FALSE
+"negative regulation of developmental process","GO:0051093","negative regulation of developmental process",7.41014758511131e-17,9.30875219732281e-19,"BP",FALSE
+"positive regulation of developmental process","GO:0051094","positive regulation of developmental process",1.25798938552468e-27,1.28450941385046e-12,"BP",FALSE
+"regulation of binding","GO:0051098","regulation of binding",0.0138593498274924,0.0035542945617156,"BP",FALSE
+"regulation of cellular component organization","GO:0051128","regulation of cellular component organization",8.44337853436232e-16,5.74885177217234e-09,"BP",FALSE
+"negative regulation of cellular component organization","GO:0051129","negative regulation of cellular component organization",0.000238984606932289,3.52670917573694e-05,"BP",FALSE
+"positive regulation of cellular component organization","GO:0051130","positive regulation of cellular component organization",3.93085227892706e-10,1.8607985589299e-05,"BP",FALSE
+"smooth muscle cell differentiation","GO:0051145","smooth muscle cell differentiation",4.54225031390489e-05,0.000281889439673358,"BP",FALSE
+"regulation of muscle cell differentiation","GO:0051147","regulation of muscle cell differentiation",4.35551978650269e-09,0.00102049279700252,"BP",FALSE
+"negative regulation of muscle cell differentiation","GO:0051148","negative regulation of muscle cell differentiation",0.00192162149210506,0.0139995427250146,"BP",FALSE
+"positive regulation of muscle cell differentiation","GO:0051149","positive regulation of muscle cell differentiation",2.86057116201125e-07,0.0478032237121052,"BP",FALSE
+"regulation of smooth muscle cell differentiation","GO:0051150","regulation of smooth muscle cell differentiation",0.0143005954166259,0.0235125953094829,"BP",FALSE
+"regulation of striated muscle cell differentiation","GO:0051153","regulation of striated muscle cell differentiation",3.86606074483218e-08,0.00374673358414195,"BP",FALSE
+"positive regulation of striated muscle cell differentiation","GO:0051155","positive regulation of striated muscle cell differentiation",4.2018858213727e-06,0.0267475062763675,"BP",FALSE
+"regulation of nitrogen compound metabolic process","GO:0051171","regulation of nitrogen compound metabolic process",0.0132506248825135,1.17477549707155e-19,"BP",FALSE
+"negative regulation of nitrogen compound metabolic process","GO:0051172","negative regulation of nitrogen compound metabolic process",1.93267977852137e-10,5.32708612512863e-20,"BP",FALSE
+"positive regulation of nitrogen compound metabolic process","GO:0051173","positive regulation of nitrogen compound metabolic process",3.67654088434554e-14,1.80202603427698e-18,"BP",FALSE
+"regulation of phosphorus metabolic process","GO:0051174","regulation of phosphorus metabolic process",1.42250870739098e-09,1.60079689063987e-05,"BP",FALSE
+"localization","GO:0051179","localization",1.68618083154948e-33,0.0104795822479363,"BP",FALSE
+"cartilage development","GO:0051216","cartilage development",1.98704845827778e-07,1.30336463316888e-05,"BP",FALSE
+"negative regulation of protein transport","GO:0051224","negative regulation of protein transport",0.0165784131225476,0.0225889014572512,"BP",FALSE
+"regulation of multicellular organismal process","GO:0051239","regulation of multicellular organismal process",3.73307267745732e-39,2.76206066269062e-16,"BP",FALSE
+"positive regulation of multicellular organismal process","GO:0051240","positive regulation of multicellular organismal process",4.22186265107864e-22,3.19308900349241e-09,"BP",FALSE
+"negative regulation of multicellular organismal process","GO:0051241","negative regulation of multicellular organismal process",3.90281090171068e-20,8.21236466339768e-13,"BP",FALSE
+"regulation of protein metabolic process","GO:0051246","regulation of protein metabolic process",1.38714710232782e-07,5.93562849333355e-07,"BP",FALSE
+"positive regulation of protein metabolic process","GO:0051247","positive regulation of protein metabolic process",4.74608581520124e-07,0.00150071002353171,"BP",FALSE
+"negative regulation of protein metabolic process","GO:0051248","negative regulation of protein metabolic process",4.90277656334465e-06,8.48731756249779e-06,"BP",FALSE
+"regulation of RNA metabolic process","GO:0051252","regulation of RNA metabolic process",0.0344502342282668,1.13947040708687e-23,"BP",FALSE
+"negative regulation of RNA metabolic process","GO:0051253","negative regulation of RNA metabolic process",2.10227343783637e-10,3.37727883043338e-21,"BP",FALSE
+"positive regulation of RNA metabolic process","GO:0051254","positive regulation of RNA metabolic process",1.8585167674943e-14,1.60026365691129e-24,"BP",FALSE
+"protein polymerization","GO:0051258","protein polymerization",0.00025476869174333,0.0138976603759916,"BP",FALSE
+"regulation of cellular component movement","GO:0051270","regulation of cellular component movement",1.17058445927879e-26,8.05005894556266e-12,"BP",FALSE
+"negative regulation of cellular component movement","GO:0051271","negative regulation of cellular component movement",4.62255766713063e-08,8.55187060177999e-08,"BP",FALSE
+"positive regulation of cellular component movement","GO:0051272","positive regulation of cellular component movement",7.42679004068387e-13,3.87283973690699e-05,"BP",FALSE
+"regulation of hydrolase activity","GO:0051336","regulation of hydrolase activity",4.24712376944279e-05,0.0478987168295502,"BP",FALSE
+"regulation of transferase activity","GO:0051338","regulation of transferase activity",2.63400516611568e-09,0.00124371356177873,"BP",FALSE
+"positive regulation of transferase activity","GO:0051347","positive regulation of transferase activity",2.431450247921e-11,0.00728229709188149,"BP",FALSE
+"response to glucocorticoid","GO:0051384","response to glucocorticoid",0.0361657922025274,0.011704282388054,"BP",FALSE
+"neuron apoptotic process","GO:0051402","neuron apoptotic process",0.00353463223965769,0.00969055894492012,"BP",FALSE
+"regulation of filopodium assembly","GO:0051489","regulation of filopodium assembly",0.0391163157837231,0.00909966708899242,"BP",FALSE
+"regulation of stress fiber assembly","GO:0051492","regulation of stress fiber assembly",1.87086048648774e-06,0.00159334328702925,"BP",FALSE
+"regulation of cytoskeleton organization","GO:0051493","regulation of cytoskeleton organization",4.42116385269588e-06,0.00156544123874837,"BP",FALSE
+"negative regulation of cytoskeleton organization","GO:0051494","negative regulation of cytoskeleton organization",0.00494170133116409,0.000219130429424621,"BP",FALSE
+"positive regulation of stress fiber assembly","GO:0051496","positive regulation of stress fiber assembly",0.000433373857188345,0.00777491707645783,"BP",FALSE
+"negative regulation of stress fiber assembly","GO:0051497","negative regulation of stress fiber assembly",0.0016697454027343,0.0195182944441232,"BP",FALSE
+"localization of cell","GO:0051674","localization of cell",1.04330571574346e-27,1.19547884060447e-16,"BP",FALSE
+"cellular response to stimulus","GO:0051716","cellular response to stimulus",1.4740715009437e-38,4.59304042291676e-08,"BP",FALSE
+"regulation of focal adhesion assembly","GO:0051893","regulation of focal adhesion assembly",2.68051846744042e-07,0.000784504240090108,"BP",FALSE
+"regulation of protein kinase B signaling","GO:0051896","regulation of protein kinase B signaling",0.00472171754011694,0.00332047801496343,"BP",FALSE
+"positive regulation of protein kinase B signaling","GO:0051897","positive regulation of protein kinase B signaling",0.00430195065475832,0.00474766439070046,"BP",FALSE
+"regulation of nervous system development","GO:0051960","regulation of nervous system development",7.43781774023961e-26,2.98294123492108e-18,"BP",FALSE
+"negative regulation of nervous system development","GO:0051961","negative regulation of nervous system development",3.6617641499606e-09,1.52099935404524e-12,"BP",FALSE
+"positive regulation of nervous system development","GO:0051962","positive regulation of nervous system development",6.11479137053409e-15,6.69759464131765e-10,"BP",FALSE
+"regulation of synapse assembly","GO:0051963","regulation of synapse assembly",2.02821528310015e-08,5.45118862838453e-06,"BP",FALSE
+"positive regulation of synapse assembly","GO:0051965","positive regulation of synapse assembly",0.000271618647807732,0.000199710802571622,"BP",FALSE
+"negative regulation of synaptic transmission, glutamatergic","GO:0051967","negative regulation of synaptic transmission, glutamatergic",0.00103132914116571,0.0250962926666452,"BP",FALSE
+"cardiac muscle tissue growth","GO:0055017","cardiac muscle tissue growth",0.000143912222912215,0.00111085198501048,"BP",FALSE
+"regulation of cardiac muscle tissue growth","GO:0055021","regulation of cardiac muscle tissue growth",0.00189347128685899,0.00690316607276812,"BP",FALSE
+"positive regulation of cardiac muscle tissue growth","GO:0055023","positive regulation of cardiac muscle tissue growth",0.00337523823672984,0.00144643865861361,"BP",FALSE
+"regulation of cardiac muscle tissue development","GO:0055024","regulation of cardiac muscle tissue development",3.83938284466544e-05,0.00271481462299282,"BP",FALSE
+"positive regulation of cardiac muscle tissue development","GO:0055025","positive regulation of cardiac muscle tissue development",0.000898660718352708,0.000319328913082722,"BP",FALSE
+"digestive system development","GO:0055123","digestive system development",0.019235280888242,2.12150510052396e-06,"BP",FALSE
+"roof of mouth development","GO:0060021","roof of mouth development",0.00582324224477481,1.95669177578378e-06,"BP",FALSE
+"pharyngeal system development","GO:0060037","pharyngeal system development",0.00522029796092808,0.00164766308787124,"BP",FALSE
+"cardiac muscle cell proliferation","GO:0060038","cardiac muscle cell proliferation",0.00626959709663673,0.000889406585810294,"BP",FALSE
+"pericardium development","GO:0060039","pericardium development",0.0289443661691457,0.0112037101030195,"BP",FALSE
+"retina development in camera-type eye","GO:0060041","retina development in camera-type eye",0.000929968851108247,9.33767281970374e-05,"BP",FALSE
+"retina morphogenesis in camera-type eye","GO:0060042","retina morphogenesis in camera-type eye",0.000518103382710909,0.00898883629086286,"BP",FALSE
+"regulation of cardiac muscle cell proliferation","GO:0060043","regulation of cardiac muscle cell proliferation",0.00969440451368745,0.00716765124221457,"BP",FALSE
+"positive regulation of cardiac muscle cell proliferation","GO:0060045","positive regulation of cardiac muscle cell proliferation",0.0143005954166259,0.00143927500157597,"BP",FALSE
+"embryonic retina morphogenesis in camera-type eye","GO:0060059","embryonic retina morphogenesis in camera-type eye",0.0205475314269464,0.00503230135412758,"BP",FALSE
+"canonical Wnt signaling pathway","GO:0060070","canonical Wnt signaling pathway",7.21810139711708e-05,8.48602239717424e-05,"BP",FALSE
+"inner ear receptor cell differentiation","GO:0060113","inner ear receptor cell differentiation",0.00613154424186614,0.0397519023756296,"BP",FALSE
+"limb development","GO:0060173","limb development",0.000591805803629298,7.7830865950724e-10,"BP",FALSE
+"regulation of glial cell proliferation","GO:0060251","regulation of glial cell proliferation",0.0380108036249543,0.0169700592819155,"BP",FALSE
+"regulation of cell development","GO:0060284","regulation of cell development",1.13007960443002e-20,6.48422422002525e-18,"BP",FALSE
+"long-term synaptic potentiation","GO:0060291","long-term synaptic potentiation",0.000102674782645994,0.0206379984783492,"BP",FALSE
+"cardiac epithelial to mesenchymal transition","GO:0060317","cardiac epithelial to mesenchymal transition",0.0102269175587146,0.0238936971275503,"BP",FALSE
+"head development","GO:0060322","head development",2.29150563677925e-13,1.52858587006003e-22,"BP",FALSE
+"face development","GO:0060324","face development",0.0233261676979072,4.42660547609211e-05,"BP",FALSE
+"regulation of cellular localization","GO:0060341","regulation of cellular localization",7.75357290877359e-10,0.0221604420122022,"BP",FALSE
+"bone development","GO:0060348","bone development",3.43219659245068e-06,0.000607776000650646,"BP",FALSE
+"bone morphogenesis","GO:0060349","bone morphogenesis",0.000976619231333487,0.000546294421073106,"BP",FALSE
+"endochondral bone morphogenesis","GO:0060350","endochondral bone morphogenesis",0.000273864886954966,0.00381265753955362,"BP",FALSE
+"pathway-restricted SMAD protein phosphorylation","GO:0060389","pathway-restricted SMAD protein phosphorylation",0.0160887296919985,0.0228664314300259,"BP",FALSE
+"regulation of pathway-restricted SMAD protein phosphorylation","GO:0060393","regulation of pathway-restricted SMAD protein phosphorylation",0.0172692820248544,0.00716765124221457,"BP",FALSE
+"SMAD protein signal transduction","GO:0060395","SMAD protein signal transduction",0.00184207360482952,0.00582751538763994,"BP",FALSE
+"cardiac septum morphogenesis","GO:0060411","cardiac septum morphogenesis",7.86377359970219e-06,3.70498208879056e-07,"BP",FALSE
+"ventricular septum morphogenesis","GO:0060412","ventricular septum morphogenesis",0.00519770560082997,0.00025408314447581,"BP",FALSE
+"muscle tissue morphogenesis","GO:0060415","muscle tissue morphogenesis",0.00181812873482716,0.0432223172727858,"BP",FALSE
+"heart growth","GO:0060419","heart growth",0.000104167531202008,0.000759165352695831,"BP",FALSE
+"regulation of heart growth","GO:0060420","regulation of heart growth",0.00134755710940742,0.004668979415779,"BP",FALSE
+"positive regulation of heart growth","GO:0060421","positive regulation of heart growth",0.000737470563399721,0.00138086289102152,"BP",FALSE
+"epithelium development","GO:0060429","epithelium development",1.02672708931852e-07,1.11053814259515e-20,"BP",FALSE
+"trachea development","GO:0060438","trachea development",0.0420351440528212,0.00500463848797564,"BP",FALSE
+"mesenchyme development","GO:0060485","mesenchyme development",0.000936605063307651,2.57029316174594e-13,"BP",FALSE
+"prostate gland morphogenesis","GO:0060512","prostate gland morphogenesis",0.0281887448653211,9.39591082931115e-05,"BP",FALSE
+"prostatic bud formation","GO:0060513","prostatic bud formation",0.0398178288723573,0.00106941130792307,"BP",FALSE
+"trachea cartilage development","GO:0060534","trachea cartilage development",0.049250259958429,0.00290294497694093,"BP",FALSE
+"muscle tissue development","GO:0060537","muscle tissue development",2.04907263108557e-14,3.24917832369884e-06,"BP",FALSE
+"skeletal muscle organ development","GO:0060538","skeletal muscle organ development",7.74670094542626e-09,0.000268365312033611,"BP",FALSE
+"respiratory system development","GO:0060541","respiratory system development",0.00037465392176022,6.05632899611687e-11,"BP",FALSE
+"negative regulation of cell death","GO:0060548","negative regulation of cell death",2.95204436189009e-08,6.79770657222505e-05,"BP",FALSE
+"developmental growth involved in morphogenesis","GO:0060560","developmental growth involved in morphogenesis",6.8776384925129e-05,1.13843008631823e-07,"BP",FALSE
+"apoptotic process involved in morphogenesis","GO:0060561","apoptotic process involved in morphogenesis",0.00683410849735502,0.000505771342235675,"BP",FALSE
+"epithelial tube morphogenesis","GO:0060562","epithelial tube morphogenesis",0.0167943824055603,7.02386373906125e-08,"BP",FALSE
+"neuroepithelial cell differentiation","GO:0060563","neuroepithelial cell differentiation",0.00830546304838477,0.00040237604177478,"BP",FALSE
+"morphogenesis of an epithelial fold","GO:0060571","morphogenesis of an epithelial fold",0.00260214256241936,0.000254297301115904,"BP",FALSE
+"morphogenesis of an epithelial bud","GO:0060572","morphogenesis of an epithelial bud",0.00782392000447204,0.000230090123024787,"BP",FALSE
+"lateral sprouting from an epithelium","GO:0060601","lateral sprouting from an epithelium",0.0418109272815949,0.000179068039830873,"BP",FALSE
+"placenta blood vessel development","GO:0060674","placenta blood vessel development",0.0287420913180904,0.0332778862169197,"BP",FALSE
+"ureteric bud morphogenesis","GO:0060675","ureteric bud morphogenesis",0.000722996790865777,3.36006368105413e-05,"BP",FALSE
+"regulation of prostatic bud formation","GO:0060685","regulation of prostatic bud formation",0.0131773480442803,0.0147946558383079,"BP",FALSE
+"negative regulation of prostatic bud formation","GO:0060686","negative regulation of prostatic bud formation",0.0364675148946761,0.0102959999552838,"BP",FALSE
+"regulation of morphogenesis of a branching structure","GO:0060688","regulation of morphogenesis of a branching structure",0.00911117432586221,0.000874477169548166,"BP",FALSE
+"cell differentiation involved in embryonic placenta development","GO:0060706","cell differentiation involved in embryonic placenta development",0.0292704442698139,0.0109397083460076,"BP",FALSE
+"labyrinthine layer development","GO:0060711","labyrinthine layer development",0.0175595939686809,5.78097950134333e-05,"BP",FALSE
+"labyrinthine layer morphogenesis","GO:0060713","labyrinthine layer morphogenesis",0.0415613583135144,0.00177996536344731,"BP",FALSE
+"labyrinthine layer blood vessel development","GO:0060716","labyrinthine layer blood vessel development",0.0121637619536248,0.0459691960369806,"BP",FALSE
+"prostate gland epithelium morphogenesis","GO:0060740","prostate gland epithelium morphogenesis",0.0386256029220146,6.76260728150222e-05,"BP",FALSE
+"ectodermal placode formation","GO:0060788","ectodermal placode formation",0.0137330977259308,0.000224711392808814,"BP",FALSE
+"cell fate commitment involved in formation of primary germ layer","GO:0060795","cell fate commitment involved in formation of primary germ layer",0.0072036045308502,0.00144643865861361,"BP",FALSE
+"regulation of canonical Wnt signaling pathway","GO:0060828","regulation of canonical Wnt signaling pathway",0.00375692755565293,0.00182458677600529,"BP",FALSE
+"artery development","GO:0060840","artery development",0.00416758065011649,1.11251318277691e-05,"BP",FALSE
+"venous blood vessel development","GO:0060841","venous blood vessel development",0.0139710795046763,0.000441430193022441,"BP",FALSE
+"regulation of transcription involved in cell fate commitment","GO:0060850","regulation of transcription involved in cell fate commitment",0.0121637619536248,0.0459691960369806,"BP",FALSE
+"cell migration involved in heart development","GO:0060973","cell migration involved in heart development",0.0278648989761476,0.00378145361040687,"BP",FALSE
+"kidney morphogenesis","GO:0060993","kidney morphogenesis",0.000860088862866679,8.74023215995712e-05,"BP",FALSE
+"dendritic spine development","GO:0060996","dendritic spine development",0.000727922648464628,0.0215024582913789,"BP",FALSE
+"cell differentiation involved in kidney development","GO:0061005","cell differentiation involved in kidney development",0.0126590673924335,9.76772664618238e-07,"BP",FALSE
+"hepaticobiliary system development","GO:0061008","hepaticobiliary system development",0.0407525130806112,0.0362035406435585,"BP",FALSE
+"positive regulation of mRNA catabolic process","GO:0061014","positive regulation of mRNA catabolic process",0.0449820516147093,0.00518370040793677,"BP",FALSE
+"establishment of endothelial barrier","GO:0061028","establishment of endothelial barrier",0.0026784431881981,0.0132462465760199,"BP",FALSE
+"regulation of cartilage development","GO:0061035","regulation of cartilage development",3.79220052723566e-06,7.70252829760335e-05,"BP",FALSE
+"positive regulation of cartilage development","GO:0061036","positive regulation of cartilage development",0.00187972659043445,0.00308496710284055,"BP",FALSE
+"regulation of branching involved in lung morphogenesis","GO:0061046","regulation of branching involved in lung morphogenesis",0.0242767055563261,0.0412091593790454,"BP",FALSE
+"somite development","GO:0061053","somite development",0.0296579489907436,5.32786927189515e-05,"BP",FALSE
+"muscle structure development","GO:0061061","muscle structure development",5.55810454540978e-26,1.47959268861313e-07,"BP",FALSE
+"pancreas morphogenesis","GO:0061113","pancreas morphogenesis",0.0162034608039239,0.0316910105503374,"BP",FALSE
+"endothelial tube morphogenesis","GO:0061154","endothelial tube morphogenesis",0.000608755436744176,0.0195182944441232,"BP",FALSE
+"establishment or maintenance of bipolar cell polarity","GO:0061245","establishment or maintenance of bipolar cell polarity",0.0338440038554197,0.0259564077969238,"BP",FALSE
+"cell surface receptor signaling pathway involved in heart development","GO:0061311","cell surface receptor signaling pathway involved in heart development",0.0250880607306127,0.0216480545396941,"BP",FALSE
+"renal tubule development","GO:0061326","renal tubule development",1.11753109970963e-05,0.000127365367193497,"BP",FALSE
+"renal tubule morphogenesis","GO:0061333","renal tubule morphogenesis",5.30591752369398e-05,0.000174862365366087,"BP",FALSE
+"neural precursor cell proliferation","GO:0061351","neural precursor cell proliferation",4.59245567520021e-05,9.34340673770871e-10,"BP",FALSE
+"regulation of extent of cell growth","GO:0061387","regulation of extent of cell growth",0.0416146897472474,0.000498927169293134,"BP",FALSE
+"connective tissue development","GO:0061448","connective tissue development",0.00499472166928464,4.24769658464939e-05,"BP",FALSE
+"reproductive system development","GO:0061458","reproductive system development",1.83917447302352e-08,1.49342430490403e-06,"BP",FALSE
+"response to anticoagulant","GO:0061476","response to anticoagulant",0.0242767055563261,0.0412091593790454,"BP",FALSE
+"hindgut development","GO:0061525","hindgut development",0.0438026968377474,0.0279162487637317,"BP",FALSE
+"axon development","GO:0061564","axon development",6.41249541817603e-11,4.5926625818448e-17,"BP",FALSE
+"actin filament bundle organization","GO:0061572","actin filament bundle organization",2.04027858649781e-11,0.000898254127175218,"BP",FALSE
+"pri-miRNA transcription by RNA polymerase II","GO:0061614","pri-miRNA transcription by RNA polymerase II",2.91868294264824e-06,5.93548367603243e-05,"BP",FALSE
+"RNA polymerase II-specific DNA-binding transcription factor binding","GO:0061629","RNA polymerase II-specific DNA-binding transcription factor binding",0.0140199826596053,0.00729382947556536,"MF",FALSE
+"secondary palate development","GO:0062009","secondary palate development",0.00946476000938505,0.0051421298138394,"BP",FALSE
+"positive regulation of small molecule metabolic process","GO:0062013","positive regulation of small molecule metabolic process",0.00144017999338819,0.00672383237505925,"BP",FALSE
+"protein localization to postsynapse","GO:0062237","protein localization to postsynapse",2.28888597854785e-05,0.0121603188547051,"BP",FALSE
+"biological regulation","GO:0065007","biological regulation",2.03373398851415e-41,6.63892532894581e-11,"BP",FALSE
+"regulation of biological quality","GO:0065008","regulation of biological quality",5.48602235408474e-32,0.00267140587288005,"BP",FALSE
+"regulation of molecular function","GO:0065009","regulation of molecular function",5.11682956367202e-16,0.000258991327962858,"BP",FALSE
+"anchoring junction","GO:0070161","anchoring junction",1.34370351885481e-17,9.96297958039851e-05,"CC",FALSE
+"cornification","GO:0070268","cornification",0.00181332164808505,0.00128515333985693,"BP",FALSE
+"regulation of stress-activated protein kinase signaling cascade","GO:0070302","regulation of stress-activated protein kinase signaling cascade",0.0047312417593465,0.0163883570990158,"BP",FALSE
+"positive regulation of stress-activated protein kinase signaling cascade","GO:0070304","positive regulation of stress-activated protein kinase signaling cascade",0.00492098175827745,0.0264752606190831,"BP",FALSE
+"negative regulation of ERK1 and ERK2 cascade","GO:0070373","negative regulation of ERK1 and ERK2 cascade",0.027787931289274,0.00987845186785469,"BP",FALSE
+"I-SMAD binding","GO:0070411","I-SMAD binding",0.0339444359469636,0.00657695334344563,"MF",FALSE
+"repressing transcription factor binding","GO:0070491","repressing transcription factor binding",0.0369708503728092,1.40410453432001e-05,"MF",FALSE
+"regulation of neuron projection regeneration","GO:0070570","regulation of neuron projection regeneration",0.00511768088432862,0.039859079825082,"BP",FALSE
+"response to growth factor","GO:0070848","response to growth factor",1.03196815888505e-09,4.1842024209269e-08,"BP",FALSE
+"response to epidermal growth factor","GO:0070849","response to epidermal growth factor",0.00692470003880953,0.0200682429160218,"BP",FALSE
+"regulation of glycogen metabolic process","GO:0070873","regulation of glycogen metabolic process",0.00652584597639451,0.000478277527325005,"BP",FALSE
+"cellular response to chemical stimulus","GO:0070887","cellular response to chemical stimulus",5.41390931475068e-24,0.000939759735101477,"BP",FALSE
+"E-box binding","GO:0070888","E-box binding",0.00349946803114419,0.00923746630442944,"MF",FALSE
+"neuron death","GO:0070997","neuron death",0.00100699840814406,0.00279688432185055,"BP",FALSE
+"regulation of cell cycle arrest","GO:0071156","regulation of cell cycle arrest",0.037470182329054,0.0189854389605673,"BP",FALSE
+"positive regulation of cell cycle arrest","GO:0071158","positive regulation of cell cycle arrest",0.0346788548111669,0.0363525837043729,"BP",FALSE
+"cellular response to acid chemical","GO:0071229","cellular response to acid chemical",2.53535520436785e-06,0.00549266428579931,"BP",FALSE
+"cellular response to lithium ion","GO:0071285","cellular response to lithium ion",0.00494228120452952,0.017421355366685,"BP",FALSE
+"cellular response to retinoic acid","GO:0071300","cellular response to retinoic acid",0.00804342714105216,0.0030574516971471,"BP",FALSE
+"cellular response to organic substance","GO:0071310","cellular response to organic substance",1.66002749536045e-20,2.82342261011314e-06,"BP",FALSE
+"cellular response to growth factor stimulus","GO:0071363","cellular response to growth factor stimulus",5.03462013008228e-09,3.31899818448846e-08,"BP",FALSE
+"cellular response to epidermal growth factor stimulus","GO:0071364","cellular response to epidermal growth factor stimulus",0.00711299519588283,0.0166686412385763,"BP",FALSE
+"cellular response to steroid hormone stimulus","GO:0071383","cellular response to steroid hormone stimulus",0.000611165758728861,1.84847856519547e-05,"BP",FALSE
+"cellular response to lipid","GO:0071396","cellular response to lipid",0.00166476911431408,0.000378470835365521,"BP",TRUE
+"cellular response to organic cyclic compound","GO:0071407","cellular response to organic cyclic compound",2.49778485297021e-08,0.0127785331342758,"BP",FALSE
+"cellular response to organonitrogen compound","GO:0071417","cellular response to organonitrogen compound",9.67832386595242e-10,0.0136582794147258,"BP",FALSE
+"cellular response to endogenous stimulus","GO:0071495","cellular response to endogenous stimulus",9.63409174844237e-23,2.79774871852142e-10,"BP",FALSE
+"dopaminergic neuron differentiation","GO:0071542","dopaminergic neuron differentiation",0.0136121265617696,0.00012179132535654,"BP",FALSE
+"response to transforming growth factor beta","GO:0071559","response to transforming growth factor beta",8.42115713084852e-08,0.000131187588731478,"BP",FALSE
+"cellular response to transforming growth factor beta stimulus","GO:0071560","cellular response to transforming growth factor beta stimulus",8.31818285940895e-07,0.000102005421409539,"BP",FALSE
+"otic vesicle development","GO:0071599","otic vesicle development",0.0186723480070648,0.0250537752773779,"BP",FALSE
+"otic vesicle morphogenesis","GO:0071600","otic vesicle morphogenesis",0.0141585977154141,0.0160580734987096,"BP",FALSE
+"anatomical structure maturation","GO:0071695","anatomical structure maturation",0.00168732608210466,8.35496320386078e-07,"BP",FALSE
+"ectodermal placode development","GO:0071696","ectodermal placode development",0.00148134600446738,5.98945709228562e-05,"BP",FALSE
+"ectodermal placode morphogenesis","GO:0071697","ectodermal placode morphogenesis",0.00435548757949643,0.000203207683430989,"BP",FALSE
+"olfactory placode development","GO:0071698","olfactory placode development",0.00492670895791804,0.0144296508431709,"BP",FALSE
+"membrane assembly","GO:0071709","membrane assembly",0.0184038536743293,0.00381484730502823,"BP",FALSE
+"response to BMP","GO:0071772","response to BMP",2.49577534925678e-07,2.20091746521348e-05,"BP",FALSE
+"cellular response to BMP stimulus","GO:0071773","cellular response to BMP stimulus",2.49577534925678e-07,2.20091746521348e-05,"BP",FALSE
+"cellular component organization or biogenesis","GO:0071840","cellular component organization or biogenesis",0.000130730707566977,1.63990686107065e-07,"BP",FALSE
+"14-3-3 protein binding","GO:0071889","14-3-3 protein binding",0.000783923248605397,0.0361685893651348,"MF",FALSE
+"regulation of protein serine/threonine kinase activity","GO:0071900","regulation of protein serine/threonine kinase activity",2.65212033408094e-08,0.00484034661212053,"BP",FALSE
+"positive regulation of protein serine/threonine kinase activity","GO:0071902","positive regulation of protein serine/threonine kinase activity",8.14237884180257e-10,0.035384629164605,"BP",FALSE
+"renal system development","GO:0072001","renal system development",1.90451433096389e-05,1.46658696490848e-11,"BP",FALSE
+"nephron development","GO:0072006","nephron development",1.67725175620127e-05,6.53262047552395e-09,"BP",FALSE
+"nephron epithelium development","GO:0072009","nephron epithelium development",5.76416205060088e-05,3.73494667075156e-08,"BP",FALSE
+"nephron morphogenesis","GO:0072028","nephron morphogenesis",5.34415112979253e-05,0.000243320643678609,"BP",FALSE
+"kidney epithelium development","GO:0072073","kidney epithelium development",1.3056995040632e-05,9.00098844112723e-13,"BP",FALSE
+"nephron tubule morphogenesis","GO:0072078","nephron tubule morphogenesis",0.000197643390815245,0.000211768674183918,"BP",FALSE
+"nephron tubule development","GO:0072080","nephron tubule development",7.93797650265546e-06,8.74023215995712e-05,"BP",FALSE
+"nephron epithelium morphogenesis","GO:0072088","nephron epithelium morphogenesis",0.000143046387132104,0.000486475548496722,"BP",FALSE
+"stem cell proliferation","GO:0072089","stem cell proliferation",0.0426292047827175,1.6930093398811e-07,"BP",FALSE
+"regulation of stem cell proliferation","GO:0072091","regulation of stem cell proliferation",0.0464121365188791,0.00012498660283269,"BP",FALSE
+"mesenchyme morphogenesis","GO:0072132","mesenchyme morphogenesis",6.78863260996742e-05,0.000536806988990067,"BP",FALSE
+"nephron tubule epithelial cell differentiation","GO:0072160","nephron tubule epithelial cell differentiation",0.0196004445444978,0.0352114086341636,"BP",FALSE
+"mesonephric epithelium development","GO:0072163","mesonephric epithelium development",7.58065660396379e-05,5.91236761961809e-11,"BP",FALSE
+"mesonephric tubule development","GO:0072164","mesonephric tubule development",7.58065660396379e-05,5.91236761961809e-11,"BP",FALSE
+"mesonephric tubule morphogenesis","GO:0072171","mesonephric tubule morphogenesis",0.000992472027268945,4.15908345790242e-05,"BP",FALSE
+"epithelial tube formation","GO:0072175","epithelial tube formation",0.00216260110697605,4.83841745196633e-08,"BP",FALSE
+"regulation of metanephros development","GO:0072215","regulation of metanephros development",0.0415613583135144,0.0137082724381322,"BP",FALSE
+"metanephric nephron tubule formation","GO:0072289","metanephric nephron tubule formation",0.0128527725523517,0.0342009134845177,"BP",FALSE
+"cardiovascular system development","GO:0072358","cardiovascular system development",2.40663547930491e-19,1.75357438358841e-10,"BP",FALSE
+"circulatory system development","GO:0072359","circulatory system development",1.06710628033369e-21,2.06342328565081e-14,"BP",FALSE
+"protein phosphatase activator activity","GO:0072542","protein phosphatase activator activity",0.0312985610053541,0.00267578310141168,"MF",FALSE
+"regulation of primary metabolic process","GO:0080090","regulation of primary metabolic process",0.00621244182745255,1.18578522762389e-19,"BP",FALSE
+"regulation of cell migration involved in sprouting angiogenesis","GO:0090049","regulation of cell migration involved in sprouting angiogenesis",0.00110285144096298,0.013526775842637,"BP",FALSE
+"regulation of anatomical structure size","GO:0090066","regulation of anatomical structure size",3.05322769977713e-05,0.00135528631279977,"BP",FALSE
+"negative regulation of canonical Wnt signaling pathway","GO:0090090","negative regulation of canonical Wnt signaling pathway",0.04136391138426,0.0253695268843176,"BP",FALSE
+"regulation of transmembrane receptor protein serine/threonine kinase signaling pathway","GO:0090092","regulation of transmembrane receptor protein serine/threonine kinase signaling pathway",2.23550100656466e-07,5.87522857213664e-05,"BP",FALSE
+"positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway","GO:0090100","positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway",0.000246202592174633,0.0424633052846011,"BP",FALSE
+"negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway","GO:0090101","negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway",0.00230479719455897,0.00773760672237283,"BP",FALSE
+"regulation of cell-substrate junction assembly","GO:0090109","regulation of cell-substrate junction assembly",2.68051846744042e-07,0.000784504240090108,"BP",FALSE
+"tissue migration","GO:0090130","tissue migration",3.35369279121432e-09,1.48111974366342e-09,"BP",FALSE
+"epithelium migration","GO:0090132","epithelium migration",8.06289641947922e-09,5.73579604440992e-10,"BP",FALSE
+"epithelial cell-cell adhesion","GO:0090136","epithelial cell-cell adhesion",0.0172182846565601,0.0146962037228359,"BP",FALSE
+"regulation of kidney development","GO:0090183","regulation of kidney development",0.000973537773013152,0.0415819503172025,"BP",FALSE
+"regulation of cellular response to growth factor stimulus","GO:0090287","regulation of cellular response to growth factor stimulus",5.02973407192609e-10,1.59284323151428e-07,"BP",FALSE
+"negative regulation of cellular response to growth factor stimulus","GO:0090288","negative regulation of cellular response to growth factor stimulus",0.000223793197613081,0.0024098659619949,"BP",FALSE
+"regulation of protein deacetylation","GO:0090311","regulation of protein deacetylation",0.0203310978576147,0.0358027344774669,"BP",FALSE
+"epiboly involved in wound healing","GO:0090505","epiboly involved in wound healing",0.00966882979265829,0.0427504290332726,"BP",FALSE
+"sensory organ morphogenesis","GO:0090596","sensory organ morphogenesis",1.19424435845785e-10,3.6102427012027e-13,"BP",FALSE
+"glycoprotein complex","GO:0090665","glycoprotein complex",0.0102160645427121,0.00645096865836131,"CC",FALSE
+"perinuclear endoplasmic reticulum","GO:0097038","perinuclear endoplasmic reticulum",0.0183013718307082,0.0142764191945711,"CC",FALSE
+"synaptic membrane","GO:0097060","synaptic membrane",2.41108805941498e-22,0.028887666049918,"CC",FALSE
+"dendritic spine organization","GO:0097061","dendritic spine organization",0.0031738564454919,0.00308364676187839,"BP",FALSE
+"synaptic vesicle clustering","GO:0097091","synaptic vesicle clustering",0.0126608823397143,0.00121374720871736,"BP",FALSE
+"postsynaptic density organization","GO:0097106","postsynaptic density organization",0.000251468939599258,0.0123021207181066,"BP",FALSE
+"postsynaptic density assembly","GO:0097107","postsynaptic density assembly",0.00118077211953529,0.0220884937698278,"BP",FALSE
+"neuroligin family protein binding","GO:0097109","neuroligin family protein binding",0.0430452769445235,0.0054756867423409,"MF",FALSE
+"postsynaptic density protein 95 clustering","GO:0097119","postsynaptic density protein 95 clustering",0.0188174402144218,0.000844407039368808,"BP",FALSE
+"receptor localization to synapse","GO:0097120","receptor localization to synapse",4.92360572617807e-05,0.00563448608355825,"BP",FALSE
+"neuronal stem cell population maintenance","GO:0097150","neuronal stem cell population maintenance",0.0281887448653211,0.0141468246997261,"BP",FALSE
+"mesenchymal cell apoptotic process","GO:0097152","mesenchymal cell apoptotic process",0.00561084247788623,0.000588298404325747,"BP",FALSE
+"supramolecular fiber organization","GO:0097435","supramolecular fiber organization",8.82177824998452e-15,0.000279833994501815,"BP",FALSE
+"dendritic tree","GO:0097447","dendritic tree",1.64339416415605e-18,0.00562947791202841,"CC",FALSE
+"neuron projection guidance","GO:0097485","neuron projection guidance",2.21832324401244e-06,1.89959504532577e-19,"BP",FALSE
+"contractile actin filament bundle","GO:0097517","contractile actin filament bundle",0.000281394911480826,9.43770320031725e-05,"CC",FALSE
+"calcineurin-mediated signaling","GO:0097720","calcineurin-mediated signaling",0.000109834798805857,0.00220188751129732,"BP",FALSE
+"ligand-activated transcription factor activity","GO:0098531","ligand-activated transcription factor activity",3.43087456608548e-08,1.15287919796851e-05,"MF",FALSE
+"membrane region","GO:0098589","membrane region",1.43260121287232e-10,0.000491126167935926,"CC",FALSE
+"cell-cell adhesion","GO:0098609","cell-cell adhesion",2.57686224335235e-14,1.83214610757151e-06,"BP",FALSE
+"Schaffer collateral - CA1 synapse","GO:0098685","Schaffer collateral - CA1 synapse",0.000149289309280097,0.00221139371250036,"CC",FALSE
+"postsynaptic specialization assembly","GO:0098698","postsynaptic specialization assembly",0.000892218874721747,0.0252639011159817,"BP",FALSE
+"maintenance of cell number","GO:0098727","maintenance of cell number",0.0193099980207509,2.23471881984662e-06,"BP",FALSE
+"macromolecule deacylation","GO:0098732","macromolecule deacylation",0.0302865779569748,0.00415047966047834,"BP",FALSE
+"cell-cell adhesion via plasma-membrane adhesion molecules","GO:0098742","cell-cell adhesion via plasma-membrane adhesion molecules",0.00677918361537634,0.000217729088949617,"BP",FALSE
+"cell aggregation","GO:0098743","cell aggregation",0.00966882979265829,0.00814899705205019,"BP",FALSE
+"molecular function regulator","GO:0098772","molecular function regulator",4.68992785211289e-09,0.00374850150866502,"MF",FALSE
+"postsynapse","GO:0098794","postsynapse",1.9513282841126e-31,0.000844389667818844,"CC",FALSE
+"postsynaptic density membrane","GO:0098839","postsynaptic density membrane",1.68749596025943e-10,0.0013277563227877,"CC",FALSE
+"membrane microdomain","GO:0098857","membrane microdomain",1.15488725594029e-10,0.000458599263707251,"CC",FALSE
+"intrinsic component of presynaptic membrane","GO:0098889","intrinsic component of presynaptic membrane",0.00101007943310829,0.0112400105976362,"CC",FALSE
+"intrinsic component of postsynaptic membrane","GO:0098936","intrinsic component of postsynaptic membrane",2.10046314947643e-10,0.00600506205531476,"CC",FALSE
+"intrinsic component of postsynaptic specialization membrane","GO:0098948","intrinsic component of postsynaptic specialization membrane",3.23175343740188e-10,0.00384040419287169,"CC",FALSE
+"glutamatergic synapse","GO:0098978","glutamatergic synapse",1.98169730587636e-19,3.72285555969251e-05,"CC",FALSE
+"neuron to neuron synapse","GO:0098984","neuron to neuron synapse",3.54728487794227e-19,0.000882180457586338,"CC",FALSE
+"presynapse assembly","GO:0099054","presynapse assembly",0.000433373857188345,0.000751777993341694,"BP",FALSE
+"integral component of postsynaptic membrane","GO:0099055","integral component of postsynaptic membrane",9.03063976952585e-10,0.00595886941528704,"CC",FALSE
+"integral component of presynaptic membrane","GO:0099056","integral component of presynaptic membrane",0.00387965148774714,0.0257762530362726,"CC",FALSE
+"integral component of postsynaptic specialization membrane","GO:0099060","integral component of postsynaptic specialization membrane",1.21604619791322e-09,0.00200128991265006,"CC",FALSE
+"integral component of postsynaptic density membrane","GO:0099061","integral component of postsynaptic density membrane",8.20689457381427e-07,8.71282421262915e-05,"CC",FALSE
+"postsynapse assembly","GO:0099068","postsynapse assembly",0.000675915817904633,0.00348735683348895,"BP",FALSE
+"regulation of postsynaptic membrane neurotransmitter receptor levels","GO:0099072","regulation of postsynaptic membrane neurotransmitter receptor levels",2.68206292440099e-05,0.00830108231148287,"BP",FALSE
+"postsynaptic specialization organization","GO:0099084","postsynaptic specialization organization",0.000287721639057741,0.0114341009125218,"BP",FALSE
+"intrinsic component of postsynaptic density membrane","GO:0099146","intrinsic component of postsynaptic density membrane",2.2685585265411e-07,0.000237036647074189,"CC",FALSE
+"regulation of postsynaptic specialization assembly","GO:0099150","regulation of postsynaptic specialization assembly",0.0407447072049329,0.00826031843480017,"BP",FALSE
+"regulation of postsynaptic density assembly","GO:0099151","regulation of postsynaptic density assembly",0.0398178288723573,0.0144296508431709,"BP",FALSE
+"presynapse organization","GO:0099172","presynapse organization",0.000656337378182007,0.00135072395514302,"BP",FALSE
+"postsynapse organization","GO:0099173","postsynapse organization",1.13897407520319e-05,0.000196704166968924,"BP",FALSE
+"regulation of presynapse organization","GO:0099174","regulation of presynapse organization",0.00148134600446738,0.000535851585125415,"BP",FALSE
+"regulation of postsynapse organization","GO:0099175","regulation of postsynapse organization",0.000135504156617206,0.000632140664584071,"BP",FALSE
+"regulation of trans-synaptic signaling","GO:0099177","regulation of trans-synaptic signaling",3.81779424693667e-18,0.00162876430891089,"BP",FALSE
+"intrinsic component of synaptic membrane","GO:0099240","intrinsic component of synaptic membrane",5.34465018006839e-11,0.00542703573135225,"CC",FALSE
+"trans-synaptic signaling","GO:0099537","trans-synaptic signaling",3.51428845642882e-25,0.0434505351758186,"BP",FALSE
+"synaptic membrane adhesion","GO:0099560","synaptic membrane adhesion",5.89713793452603e-06,4.23085501727841e-06,"BP",FALSE
+"postsynaptic specialization","GO:0099572","postsynaptic specialization",1.93434346639105e-23,0.00090710200960138,"CC",FALSE
+"regulation of neurotransmitter receptor activity","GO:0099601","regulation of neurotransmitter receptor activity",4.27466671315325e-08,0.0128893072823174,"BP",FALSE
+"postsynaptic specialization membrane","GO:0099634","postsynaptic specialization membrane",1.44332580968955e-13,0.0152176325122858,"CC",FALSE
+"integral component of synaptic membrane","GO:0099699","integral component of synaptic membrane",5.94272540020925e-10,0.0145969742928022,"CC",FALSE
+"neuron projection organization","GO:0106027","neuron projection organization",0.00166493285999683,0.00219091066171419,"BP",FALSE
+"regulation of actomyosin structure organization","GO:0110020","regulation of actomyosin structure organization",2.41522690590715e-07,0.000390363265500801,"BP",FALSE
+"regulation of actin filament organization","GO:0110053","regulation of actin filament organization",1.98663336331271e-06,0.000163291432326139,"BP",FALSE
+"positive regulation of animal organ morphogenesis","GO:0110110","positive regulation of animal organ morphogenesis",0.00267239683902221,0.0277311436128269,"BP",FALSE
+"negative regulation of animal organ morphogenesis","GO:0110111","negative regulation of animal organ morphogenesis",0.00728748188118416,6.45856045981227e-05,"BP",FALSE
+"regulation of plasma membrane bounded cell projection organization","GO:0120035","regulation of plasma membrane bounded cell projection organization",6.89358619769283e-12,1.32493002058991e-09,"BP",FALSE
+"plasma membrane bounded cell projection organization","GO:0120036","plasma membrane bounded cell projection organization",1.39793618908592e-17,4.00915633453613e-17,"BP",FALSE
+"plasma membrane bounded cell projection morphogenesis","GO:0120039","plasma membrane bounded cell projection morphogenesis",2.95047313453296e-16,1.07914373947944e-21,"BP",FALSE
+"neuron projection arborization","GO:0140058","neuron projection arborization",0.0143005954166259,0.010103156690061,"BP",FALSE
+"transcription regulator activity","GO:0140110","transcription regulator activity",1.32858417739056e-07,2.35725944170184e-26,"MF",FALSE
+"DNA-binding transcription factor binding","GO:0140297","DNA-binding transcription factor binding",0.000637047733141567,1.052034060836e-07,"MF",FALSE
+"regulation of neuron projection arborization","GO:0150011","regulation of neuron projection arborization",0.022896701386502,0.0187342139822502,"BP",FALSE
+"regulation of postsynapse assembly","GO:0150052","regulation of postsynapse assembly",0.0407447072049329,0.00826031843480017,"BP",FALSE
+"visual system development","GO:0150063","visual system development",4.11529903356343e-07,9.94993627848556e-09,"BP",FALSE
+"cell-substrate junction organization","GO:0150115","cell-substrate junction organization",6.07734173817507e-10,0.000334167567399552,"BP",FALSE
+"regulation of cell-substrate junction organization","GO:0150116","regulation of cell-substrate junction organization",8.99297221604977e-07,0.000487781168914438,"BP",FALSE
+"cell-cell signaling by wnt","GO:0198738","cell-cell signaling by wnt",3.2452959665651e-07,8.39561173681775e-08,"BP",FALSE
+"regulation of cellular response to insulin stimulus","GO:1900076","regulation of cellular response to insulin stimulus",0.0146188354876146,0.0421878817523997,"BP",FALSE
+"negative regulation of cellular response to insulin stimulus","GO:1900077","negative regulation of cellular response to insulin stimulus",0.0144016115085885,0.0024180540546563,"BP",FALSE
+"regulation of defense response to bacterium","GO:1900424","regulation of defense response to bacterium",0.0124996494360416,0.0136119854702192,"BP",FALSE
+"regulation of glutamate receptor signaling pathway","GO:1900449","regulation of glutamate receptor signaling pathway",1.85602425788057e-07,0.00945282699168872,"BP",FALSE
+"positive regulation of purine nucleotide metabolic process","GO:1900544","positive regulation of purine nucleotide metabolic process",0.00371836785180492,0.0263372058247855,"BP",FALSE
+"regulation of p38MAPK cascade","GO:1900744","regulation of p38MAPK cascade",0.000979899257762667,0.0102897311240376,"BP",FALSE
+"regulation of extracellular matrix assembly","GO:1901201","regulation of extracellular matrix assembly",0.0275223276591794,0.00642933023148425,"BP",FALSE
+"positive regulation of extracellular matrix assembly","GO:1901203","positive regulation of extracellular matrix assembly",0.0210367896829004,0.0329685980255929,"BP",FALSE
+"regulation of neuron death","GO:1901214","regulation of neuron death",0.000947114994997327,0.00302436589291649,"BP",FALSE
+"negative regulation of neuron death","GO:1901215","negative regulation of neuron death",0.0319991441027215,0.0458503559013535,"BP",FALSE
+"positive regulation of neuron death","GO:1901216","positive regulation of neuron death",0.00659476430034851,0.000450830932782291,"BP",FALSE
+"regulation of vasculature development","GO:1901342","regulation of vasculature development",6.97541089321334e-11,0.00218955888505373,"BP",FALSE
+"negative regulation of vasculature development","GO:1901343","negative regulation of vasculature development",8.70586480632987e-05,0.0020335679297489,"BP",FALSE
+"negative regulation of hematopoietic progenitor cell differentiation","GO:1901533","negative regulation of hematopoietic progenitor cell differentiation",0.038556372843973,0.0250962926666452,"BP",FALSE
+"response to peptide","GO:1901652","response to peptide",0.00107846130569085,0.0460118322246615,"BP",FALSE
+"sulfur compound binding","GO:1901681","sulfur compound binding",0.0220421010412886,0.00317592981537279,"MF",FALSE
+"response to nitrogen compound","GO:1901698","response to nitrogen compound",4.57457586799068e-09,0.0118052992357722,"BP",FALSE
+"cellular response to nitrogen compound","GO:1901699","cellular response to nitrogen compound",2.1915400476367e-10,0.0448993184044339,"BP",FALSE
+"response to oxygen-containing compound","GO:1901700","response to oxygen-containing compound",6.39937590231579e-14,0.00872606334542319,"BP",FALSE
+"cellular response to oxygen-containing compound","GO:1901701","cellular response to oxygen-containing compound",2.89127319065869e-15,0.00632877973872513,"BP",FALSE
+"regulation of muscle tissue development","GO:1901861","regulation of muscle tissue development",1.2108327098936e-06,0.00202685258746332,"BP",FALSE
+"positive regulation of muscle tissue development","GO:1901863","positive regulation of muscle tissue development",2.00732661050694e-05,0.000175320154116132,"BP",FALSE
+"regulation of protein depolymerization","GO:1901879","regulation of protein depolymerization",0.0265410887320789,0.0365708967171257,"BP",FALSE
+"negative regulation of protein depolymerization","GO:1901880","negative regulation of protein depolymerization",0.0427519424416862,0.00612089327289958,"BP",FALSE
+"regulation of cell junction assembly","GO:1901888","regulation of cell junction assembly",4.84715830998833e-12,4.61771269644157e-07,"BP",FALSE
+"negative regulation of cell junction assembly","GO:1901889","negative regulation of cell junction assembly",0.00158850695454,0.0346476445065682,"BP",FALSE
+"positive regulation of cell junction assembly","GO:1901890","positive regulation of cell junction assembly",0.000243774156857612,0.000896988065710256,"BP",FALSE
+"regulation of sodium ion transmembrane transport","GO:1902305","regulation of sodium ion transmembrane transport",0.000453847425962345,0.0139995427250146,"BP",FALSE
+"protein localization to cell junction","GO:1902414","protein localization to cell junction",2.17012904250203e-06,0.00140569849722478,"BP",FALSE
+"regulation of protein localization to synapse","GO:1902473","regulation of protein localization to synapse",0.000375497513592613,0.0235125953094829,"BP",FALSE
+"regulation of intracellular signal transduction","GO:1902531","regulation of intracellular signal transduction",1.98975568445528e-08,0.000108962745616449,"BP",FALSE
+"negative regulation of intracellular signal transduction","GO:1902532","negative regulation of intracellular signal transduction",0.00246744953235635,6.81990250657182e-05,"BP",FALSE
+"negative regulation of RNA biosynthetic process","GO:1902679","negative regulation of RNA biosynthetic process",6.3352817335459e-10,2.07217232695637e-19,"BP",FALSE
+"positive regulation of RNA biosynthetic process","GO:1902680","positive regulation of RNA biosynthetic process",3.64834121885498e-14,5.74798127068001e-22,"BP",FALSE
+"apoptotic process involved in development","GO:1902742","apoptotic process involved in development",0.000839913229195148,0.000523612722682821,"BP",FALSE
+"regulation of retina development in camera-type eye","GO:1902866","regulation of retina development in camera-type eye",0.0398178288723573,0.0420191503683301,"BP",FALSE
+"regulation of pri-miRNA transcription by RNA polymerase II","GO:1902893","regulation of pri-miRNA transcription by RNA polymerase II",1.60202446365347e-06,0.000256975960510021,"BP",FALSE
+"negative regulation of pri-miRNA transcription by RNA polymerase II","GO:1902894","negative regulation of pri-miRNA transcription by RNA polymerase II",2.99469078094572e-05,0.00194850214893873,"BP",FALSE
+"positive regulation of pri-miRNA transcription by RNA polymerase II","GO:1902895","positive regulation of pri-miRNA transcription by RNA polymerase II",0.000418059589381223,0.0146126914359636,"BP",FALSE
+"regulation of supramolecular fiber organization","GO:1902903","regulation of supramolecular fiber organization",3.82809656063902e-09,0.000145872969114771,"BP",FALSE
+"negative regulation of supramolecular fiber organization","GO:1902904","negative regulation of supramolecular fiber organization",0.000195057783565928,0.000106691950003594,"BP",FALSE
+"positive regulation of supramolecular fiber organization","GO:1902905","positive regulation of supramolecular fiber organization",1.08864976284717e-06,0.023116501008063,"BP",FALSE
+"regulation of extracellular matrix organization","GO:1903053","regulation of extracellular matrix organization",0.0194177861278557,0.00960706076502775,"BP",FALSE
+"regulation of protein localization to plasma membrane","GO:1903076","regulation of protein localization to plasma membrane",0.023893350552335,0.0474320157697658,"BP",FALSE
+"negative regulation of mRNA metabolic process","GO:1903312","negative regulation of mRNA metabolic process",0.0137616540906029,0.0473098875532776,"BP",FALSE
+"negative regulation of protein maturation","GO:1903318","negative regulation of protein maturation",0.0418109272815949,0.00859876704847286,"BP",FALSE
+"regulation of nucleic acid-templated transcription","GO:1903506","regulation of nucleic acid-templated transcription",0.0485051654412633,5.70000198928786e-21,"BP",FALSE
+"negative regulation of nucleic acid-templated transcription","GO:1903507","negative regulation of nucleic acid-templated transcription",5.46714032553383e-10,1.84385344471173e-19,"BP",FALSE
+"positive regulation of nucleic acid-templated transcription","GO:1903508","positive regulation of nucleic acid-templated transcription",3.1089340656687e-14,5.15183763245131e-22,"BP",FALSE
+"negative regulation of secretion by cell","GO:1903531","negative regulation of secretion by cell",0.00106458140206132,0.0270106665682065,"BP",FALSE
+"protein localization to postsynaptic membrane","GO:1903539","protein localization to postsynaptic membrane",0.000266759686508273,0.014426797195265,"BP",FALSE
+"positive regulation of ATP metabolic process","GO:1903580","positive regulation of ATP metabolic process",0.0184038536743293,0.00381484730502823,"BP",FALSE
+"regulation of hemopoiesis","GO:1903706","regulation of hemopoiesis",2.83974472521129e-05,0.00752209573193548,"BP",FALSE
+"negative regulation of hemopoiesis","GO:1903707","negative regulation of hemopoiesis",0.00354322922661385,0.0033488956105276,"BP",FALSE
+"regulation of cellular protein localization","GO:1903827","regulation of cellular protein localization",2.29073059873356e-05,0.0302846568826291,"BP",FALSE
+"regulation of cellular response to transforming growth factor beta stimulus","GO:1903844","regulation of cellular response to transforming growth factor beta stimulus",3.99721281645882e-05,0.00737487234142302,"BP",FALSE
+"negative regulation of cellular response to transforming growth factor beta stimulus","GO:1903845","negative regulation of cellular response to transforming growth factor beta stimulus",0.00469403602923069,0.00862906660913591,"BP",FALSE
+"epithelial cell apoptotic process","GO:1904019","epithelial cell apoptotic process",0.0431443434830123,0.00707561752754715,"BP",FALSE
+"response to ionomycin","GO:1904636","response to ionomycin",0.0140983269151159,0.0387504655193288,"BP",FALSE
+"cellular response to ionomycin","GO:1904637","cellular response to ionomycin",0.0140983269151159,0.0387504655193288,"BP",FALSE
+"glucose transmembrane transport","GO:1904659","glucose transmembrane transport",0.0458038115907069,0.00282167526265363,"BP",FALSE
+"regulation of vascular smooth muscle cell proliferation","GO:1904705","regulation of vascular smooth muscle cell proliferation",0.000245462926704439,0.00772871509780638,"BP",FALSE
+"positive regulation of vascular smooth muscle cell proliferation","GO:1904707","positive regulation of vascular smooth muscle cell proliferation",0.000724557876744784,0.0391308903020215,"BP",FALSE
+"vascular associated smooth muscle cell migration","GO:1904738","vascular associated smooth muscle cell migration",0.00173639574634958,0.0288001671485099,"BP",FALSE
+"excitatory synapse assembly","GO:1904861","excitatory synapse assembly",2.95812516270256e-05,0.00487757358192218,"BP",FALSE
+"cranial skeletal system development","GO:1904888","cranial skeletal system development",0.00393270192360007,0.00548388864475178,"BP",FALSE
+"regulation of excitatory synapse assembly","GO:1904889","regulation of excitatory synapse assembly",0.0068251865418696,0.00859876704847286,"BP",FALSE
+"negative regulation of establishment of protein localization","GO:1904950","negative regulation of establishment of protein localization",0.0182834083838288,0.015087753915197,"BP",FALSE
+"cell surface receptor signaling pathway involved in cell-cell signaling","GO:1905114","cell surface receptor signaling pathway involved in cell-cell signaling",8.16543371211292e-14,7.03616832917843e-08,"BP",FALSE
+"semi-lunar valve development","GO:1905314","semi-lunar valve development",0.0036064414852466,0.000198005249528037,"BP",FALSE
+"regulation of morphogenesis of an epithelium","GO:1905330","regulation of morphogenesis of an epithelium",0.0483624790861688,0.000452822775215311,"BP",FALSE
+"negative regulation of morphogenesis of an epithelium","GO:1905331","negative regulation of morphogenesis of an epithelium",0.0289443661691457,0.00121374720871736,"BP",FALSE
+"regulation of presynapse assembly","GO:1905606","regulation of presynapse assembly",0.00142141190995076,0.000312418183901033,"BP",FALSE
+"regulation of postsynaptic density organization","GO:1905874","regulation of postsynaptic density organization",0.0275223276591794,0.00642933023148425,"BP",FALSE
+"glutamatergic neuron differentiation","GO:1905962","glutamatergic neuron differentiation",0.00976696703854112,0.0279162487637317,"BP",FALSE
+"neuron projection extension","GO:1990138","neuron projection extension",0.000669729693032747,9.96977923659261e-05,"BP",FALSE
+"sequence-specific double-stranded DNA binding","GO:1990837","sequence-specific double-stranded DNA binding",1.60280725087889e-07,1.1531148077373e-21,"MF",FALSE
+"vascular smooth muscle cell proliferation","GO:1990874","vascular smooth muscle cell proliferation",0.000245462926704439,0.00772871509780638,"BP",FALSE
+"regulation of multicellular organismal development","GO:2000026","regulation of multicellular organismal development",1.15451398403717e-34,4.91594355713019e-20,"BP",FALSE
+"regulation of animal organ morphogenesis","GO:2000027","regulation of animal organ morphogenesis",0.00164950429128051,2.73045486422683e-05,"BP",FALSE
+"negative regulation of cellular macromolecule biosynthetic process","GO:2000113","negative regulation of cellular macromolecule biosynthetic process",9.40917402179429e-10,1.32387503180708e-21,"BP",FALSE
+"regulation of cell motility","GO:2000145","regulation of cell motility",3.63409003353179e-25,2.51872395766027e-12,"BP",FALSE
+"negative regulation of cell motility","GO:2000146","negative regulation of cell motility",1.04960022979638e-08,3.94276591809616e-07,"BP",FALSE
+"positive regulation of cell motility","GO:2000147","positive regulation of cell motility",1.51739691266204e-12,6.34067394742743e-06,"BP",FALSE
+"regulation of neural precursor cell proliferation","GO:2000177","regulation of neural precursor cell proliferation",1.9333003673445e-06,0.000572327358671123,"BP",FALSE
+"positive regulation of neural precursor cell proliferation","GO:2000179","positive regulation of neural precursor cell proliferation",0.0166812843434373,0.000612003510059818,"BP",FALSE
+"negative regulation of blood vessel morphogenesis","GO:2000181","negative regulation of blood vessel morphogenesis",0.000392612312465181,0.0104179807605707,"BP",FALSE
+"regulation of NMDA receptor activity","GO:2000310","regulation of NMDA receptor activity",0.000979899257762667,0.00448511505090102,"BP",FALSE
+"regulation of sodium ion transmembrane transporter activity","GO:2000649","regulation of sodium ion transmembrane transporter activity",0.000369141100496035,0.00653086007995206,"BP",FALSE
+"regulation of heart morphogenesis","GO:2000826","regulation of heart morphogenesis",0.0490436196789653,0.00449968098222975,"BP",FALSE
+"regulation of endothelial cell chemotaxis","GO:2001026","regulation of endothelial cell chemotaxis",0.00153862168248168,0.0185555923460313,"BP",FALSE
+"positive regulation of endothelial cell chemotaxis","GO:2001028","positive regulation of endothelial cell chemotaxis",0.00238125890455786,0.0328226505266104,"BP",FALSE
+"regulation of mesenchymal cell apoptotic process","GO:2001053","regulation of mesenchymal cell apoptotic process",0.00286449110944958,0.000375289470953618,"BP",FALSE
+"negative regulation of mesenchymal cell apoptotic process","GO:2001054","negative regulation of mesenchymal cell apoptotic process",0.00730112346081131,0.00125512730879241,"BP",FALSE
+"regulation of RNA biosynthetic process","GO:2001141","regulation of RNA biosynthetic process",0.0470615386344556,3.98733228597164e-21,"BP",FALSE

@@ -1,0 +1,34 @@
+"","GOID","Ontology.ATAC","Pvalue.ATAC","Term.ATAC","lipid.related"
+"1","GO:0000038","BP",0.0441955645664726,"very long-chain fatty acid metabolic process",TRUE
+"2","GO:0005543","MF",0.000604220717462373,"phospholipid binding",TRUE
+"3","GO:0006636","BP",0.0154409992576078,"unsaturated fatty acid biosynthetic process",TRUE
+"4","GO:0008289","MF",0.016233006993871,"lipid binding",TRUE
+"5","GO:0009922","MF",0.0282205550650084,"fatty acid elongase activity",TRUE
+"6","GO:0010877","BP",0.0401496307603072,"lipid transport involved in lipid storage",TRUE
+"7","GO:0015607","MF",0.0205215695832317,"ATPase-coupled fatty-acyl-CoA transmembrane transporter activity",TRUE
+"8","GO:0015916","BP",0.0401496307603072,"fatty-acyl-CoA transport",TRUE
+"9","GO:0019367","BP",0.0276071822972687,"fatty acid elongation, saturated fatty acid",TRUE
+"10","GO:0019368","BP",0.0276071822972687,"fatty acid elongation, unsaturated fatty acid",TRUE
+"11","GO:0019915","BP",0.0356323891445168,"lipid storage",TRUE
+"12","GO:0030497","BP",0.00839470607529741,"fatty acid elongation",TRUE
+"13","GO:0033700","BP",0.0456494461726092,"phospholipid efflux",TRUE
+"14","GO:0034625","BP",0.0276071822972687,"fatty acid elongation, monounsaturated fatty acid",TRUE
+"15","GO:0034626","BP",0.0276071822972687,"fatty acid elongation, polyunsaturated fatty acid",TRUE
+"16","GO:0035337","BP",0.00785673357034098,"fatty-acyl-CoA metabolic process",TRUE
+"17","GO:0036111","BP",0.0401496307603072,"very long-chain fatty-acyl-CoA metabolic process",TRUE
+"18","GO:0036113","BP",0.0202799624078746,"very long-chain fatty-acyl-CoA catabolic process",TRUE
+"19","GO:0036115","BP",0.0401496307603072,"fatty-acyl-CoA catabolic process",TRUE
+"20","GO:0045598","BP",8.66187045860955e-05,"regulation of fat cell differentiation",TRUE
+"21","GO:0045600","BP",0.000184010224355124,"positive regulation of fat cell differentiation",TRUE
+"22","GO:0045834","BP",0.0456040039856838,"positive regulation of lipid metabolic process",TRUE
+"23","GO:0046890","BP",0.0309495952952749,"regulation of lipid biosynthetic process",TRUE
+"24","GO:0046949","BP",0.0196937293977889,"fatty-acyl-CoA biosynthetic process",TRUE
+"25","GO:0050872","BP",0.00538698718100947,"white fat cell differentiation",TRUE
+"26","GO:0050873","BP",0.000635398569403695,"brown fat cell differentiation",TRUE
+"27","GO:0055089","BP",0.0122158880275826,"fatty acid homeostasis",TRUE
+"28","GO:0070344","BP",0.0408150408773603,"regulation of fat cell proliferation",TRUE
+"29","GO:0090335","BP",0.00648921011188843,"regulation of brown fat cell differentiation",TRUE
+"30","GO:0090336","BP",0.0224157040768688,"positive regulation of brown fat cell differentiation",TRUE
+"31","GO:1901570","BP",0.0344138401196722,"fatty acid derivative biosynthetic process",TRUE
+"32","GO:1903000","BP",0.0401496307603072,"regulation of lipid transport across blood-brain barrier",TRUE
+"33","GO:1903002","BP",0.0401496307603072,"positive regulation of lipid transport across blood-brain barrier",TRUE
