@@ -1,0 +1,15 @@
+Mixture Component	Class	Molecular Weight	Molar concentration in Embryo (uM)	Molar concentration in Yolk (uM)	Molar concentration in Ovaries (uM)
+15:0-18:1(d7) PC	PC	753.11	0.62	3.12	0.7
+18:1(d7) Lyso PC	LPC	528.72	0.89	4.44	0.99
+15:0-18:1(d7) PE	PE	711.03	0.66	3.31	0.74
+18:1(d7) Lyso PE	LPE	486.64	0.97	4.83	1.08
+15:0-18:1(d7) PG (Na Salt)	PG	764.02	0.62	3.08	0.69
+15:0-18:1(d7) PI (NH4 Salt)	PI	847.13	0.55	2.77	0.62
+15:0-18:1(d7) PS (Na Salt)	PS	777.02	0.6	3.02	0.68
+15:0-18:1(d7)-15:0 TAG	TG	812.37	0.58	2.89	0.65
+15:0-18:1(d7) DAG	DG	587.98	0.8	4	0.89
+18:1(d7) MAG	MG	363.59	1.29	6.46	1.44
+18:1(d7) Chol Ester	ChE	658.16	0.71	3.57	0.8
+d18:1-18:1(d9) SM	SM	738.12	0.64	3.18	0.71
+C15 Ceramide-d7	Cer	530.92	0.89	4.43	0.99
+C15 Ceramide-d7	Hex1Cer	530.92	0.89	4.43	0.99

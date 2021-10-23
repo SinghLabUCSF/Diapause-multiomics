@@ -1,0 +1,33 @@
+Id	protein	sample	embryos	stage	sample name	species
+M27_KV_E	475.3334	embryos	30	1 month diapause	nfur.D1m.1	N. furzeri
+M12_EX_E	439.3333	embryos		diapause exit	nfur.Dexit.1	N. furzeri
+M9_EX_E	1528.667	embryos	10	diapause exit	nfur.Dexit.2	N. furzeri
+Y8_KV_E	594.6666	embryos	25	pre diapause young	nfur.PreD.Y.1	N. furzeri
+M21_DEV_E	452.6667	embryos	21	development	nfur.NonD.1	N. furzeri
+AY10_KV_E	844.6667	embryos	11	pre diapause young	Ast.PreD.Y.1	A. striatum
+AO13_KV_E	1192.667	embryos	17	pre diapause old	Ast.PreD.O.1	A. striatum
+AO10_KV_E	1430.667	embryos	26	pre diapause old	Ast.PreD.O.2	A. striatum
+M7_EX_E	2203.333	embryos	10	diapause exit	nfur.Dexit.3	N. furzeri
+AY3_KV_E	534	embryos	9	pre diapause young	Ast.PreD.Y.2	A. striatum
+AY1_KV_E	644	embryos	9	pre diapause young	Ast.PreD.Y.3	A. striatum
+M29_KV_E	845.3334	embryos	27	1 month diapause	nfur.D1m.2	N. furzeri
+AY2_KV_E	701.3333	embryos	13	pre diapause young	Ast.PreD.Y.4	A. striatum
+M8_EX_E	1218.667	embryos	10	diapause exit	nfur.Dexit.4	N. furzeri
+M18_D6_E	966.6667	embryos	27	6 day diapause	nfur.D6d.1	N. furzeri
+O9_KV_E	850	embryos	25	pre diapause old	nfur.PreD.O.1	N. furzeri
+MA_M2_E	804.6667	embryos	25	1 month diapause	nfur.D1m.3	N. furzeri
+AO8_KV_E	1498	embryos	18	pre diapause old	Ast.PreD.O.3	A. striatum
+M24_DEV_E	2052	embryos	12	development	nfur.NonD.2	N. furzeri
+M4_D6_E	838.6667	embryos	25	6 day diapause	nfur.D6d.2	N. furzeri
+M5_D6_E	1350.667	embryos	25	6 day diapause	nfur.D6d.3	N. furzeri
+Y9_KV_E	820	embryos	25	pre diapause young	nfur.PreD.Y.2	N. furzeri
+O13_KV_E	503.3333	embryos	25	pre diapause old	nfur.PreD.O.2	N. furzeri
+O11_KV_E	748.6666	embryos	25	pre diapause old	nfur.PreD.O.3	N. furzeri
+M28_KV_E	1062.667	embryos	28	1 month diapause	nfur.D1m.4	N. furzeri
+O8_KV_E	798	embryos	25	pre diapause old	nfur.PreD.O.4	N. furzeri
+M10_DEV_E	1608.667	embryos	12	development	nfur.NonD.3	N. furzeri
+Y6_KV_E	1030.667	embryos	26	pre diapause young	nfur.PreD.Y.3	N. furzeri
+M19_D6_E	909.3334	embryos	25	6 day diapause	nfur.D6d.4	N. furzeri
+M13_DEV_E	1597.333	embryos	10	development	nfur.NonD.4	N. furzeri
+Y7_KV_E	712.6666	embryos	25	pre diapause young	nfur.PreD.Y.4	N. furzeri
+AO3_KV_E	1160.667	embryos	25	pre diapause old	Ast.PreD.O.4	A. striatum
