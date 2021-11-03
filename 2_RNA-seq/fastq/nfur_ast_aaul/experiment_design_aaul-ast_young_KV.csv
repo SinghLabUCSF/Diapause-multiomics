@@ -1,0 +1,12 @@
+lib,condition,age,species,files
+Aaul_kv1,Aaul_kv1,aaul_kv,young,aaul,/Volumes/Mybook_3/RNA-seq/read_alignment_star/aaul/B1_CKDL200149160-1a_H7MWHBBXX_L3_UniquelyMapped.bam
+Aaul_kv2,Aaul_kv2,aaul_kv,young,aaul,/Volumes/Mybook_3/RNA-seq/read_alignment_star/aaul/B5_CKDL200149163-1a_H7MWHBBXX_L3_UniquelyMapped.bam
+Aaul_kv3,Aaul_kv3,aaul_kv,young,aaul,/Volumes/Mybook_3/RNA-seq/read_alignment_star/aaul/C6_CKDL200149169-1a_H7MWHBBXX_L3_UniquelyMapped.bam
+Aaul_kv4,Aaul_kv4,aaul_kv,young,aaul,/Volumes/Mybook_3/RNA-seq/read_alignment_star/aaul_ast_run2/AA6_KV_CKDL200160526-1a_HCHMYBBXX_L8_UniquelyMapped.bam
+Aaul_kv5,Aaul_kv5,aaul_kv,young,aaul,/Volumes/Mybook_3/RNA-seq/read_alignment_star/aaul_ast_run2/AA4_KV_CKDL200160529-1a_HCHMYBBXX_L8_UniquelyMapped.bam
+Aaul_kv6,Aaul_kv6,aaul_kv,young,aaul,/Volumes/Mybook_3/RNA-seq/read_alignment_star/aaul_ast_run2/AA5_KV_CKDL200160536-1a_HCHMYBBXX_L8_UniquelyMapped.bam
+Ast_kv_Y1,Ast_kv_Y1,ast_kv_young,young,ast,/Volumes/Mybook_3/RNA-seq/read_alignment_star/aaul/A6_CKDL200149157-1a_H7MWHBBXX_L3_UniquelyMapped.bam
+Ast_kv_Y2,Ast_kv_Y2,ast_kv_young,young,ast,/Volumes/Mybook_3/RNA-seq/read_alignment_star/aaul/A8_CKDL200149159-1a_H7MWHBBXX_L3_UniquelyMapped.bam
+Ast_kv_Y3,Ast_kv_Y3,ast_kv_young,young,ast,/Volumes/Mybook_3/RNA-seq/read_alignment_star/aaul/B2_CKDL200149161-1a_H7MWHBBXX_L3_UniquelyMapped.bam
+Ast_kv_Y5,Ast_kv_Y5,ast_kv_young,young,ast,/Volumes/Mybook_3/RNA-seq/read_alignment_star/aaul_ast_run2/AY11_KV_CKDL200160527-1a_HCHMYBBXX_L8_UniquelyMapped.bam
+Ast_kv_Y4,Ast_kv_Y4,ast_kv_young,young,ast,/Volumes/Mybook_3/RNA-seq/read_alignment_star/aaul_ast_run2/AY7_KV1_CKDL200160524-1a_HCHMYBBXX_L8_UniquelyMapped.bam

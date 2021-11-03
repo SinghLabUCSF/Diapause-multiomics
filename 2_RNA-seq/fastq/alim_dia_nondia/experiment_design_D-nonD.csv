@@ -1,0 +1,9 @@
+lib,condition,age,source,species,batch,files
+alim.4dpdD1,SRR2032263,Alim4dpD,Unknown,Wagner.et.al,A.limnaeus,,/Volumes/Mybook_3/RNA-seq/read_alignment_star/alim/dia_nondia/SRR2032263_UniquelyMapped.bam
+alim.4dpdD2,SRR2032264,Alim4dpD,Unknown,Wagner.et.al,A.limnaeus,,/Volumes/Mybook_3/RNA-seq/read_alignment_star/alim/dia_nondia/SRR2032264_UniquelyMapped.bam
+alim.4dpdD3,SRR2032265,Alim4dpD,Unknown,Wagner.et.al,A.limnaeus,,/Volumes/Mybook_3/RNA-seq/read_alignment_star/alim/dia_nondia/SRR2032265_UniquelyMapped.bam
+alim.4dpdD4,SRR2032266,Alim4dpD,Unknown,Wagner.et.al,A.limnaeus,,/Volumes/Mybook_3/RNA-seq/read_alignment_star/alim/dia_nondia/SRR2032266_UniquelyMapped.bam
+alim.dia1,SRR2032283,AlimDia,Unknown,Wagner.et.al,A.limnaeus,,/Volumes/Mybook_3/RNA-seq/read_alignment_star/alim/dia_nondia/SRR2032283_UniquelyMapped.bam
+alim.dia2,SRR2032284,AlimDia,Unknown,Wagner.et.al,A.limnaeus,,/Volumes/Mybook_3/RNA-seq/read_alignment_star/alim/dia_nondia/SRR2032284_UniquelyMapped.bam
+alim.dia3,SRR2032259,AlimDia,Unknown,Wagner.et.al,A.limnaeus,,/Volumes/Mybook_3/RNA-seq/read_alignment_star/alim/dia_nondia/SRR2032259_UniquelyMapped.bam
+alim.dia4,SRR2032260,AlimDia,Unknown,Wagner.et.al,A.limnaeus,,/Volumes/Mybook_3/RNA-seq/read_alignment_star/alim/dia_nondia/SRR2032260_UniquelyMapped.bam
