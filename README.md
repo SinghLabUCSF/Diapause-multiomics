@@ -3,9 +3,9 @@
 **This is the repository having code and data analysis pipeline for multi-omics study on diapause evolution.**
 
 > #### Reference   
-  Evolution of diapause in the African turquoise killifish by remodeling ancient gene regulatory landscape.  
-  Param Priya Singh*, G. Adam Reeves*, Kévin Contrepois, Mathew Ellenberger, Chi-Kuo Hu, Michael P. Snyder, and Anne Brunet.   
-  Preprint: https://www.biorxiv.org/content/10.1101/2021.10.25.465616v1   
+>  Evolution of diapause in the African turquoise killifish by remodeling ancient gene regulatory landscape.  
+>  Param Priya Singh*, G. Adam Reeves*, Kévin Contrepois, Mathew Ellenberger, Chi-Kuo Hu, Michael P. Snyder, and Anne Brunet.   
+>  Preprint: https://www.biorxiv.org/content/10.1101/2021.10.25.465616v1   
   
   More information can be found in the directories below:
 
